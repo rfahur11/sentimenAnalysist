@@ -1,0 +1,2422 @@
+﻿No.;comment;label
+1;Produk ini sangat bagus! Kulitku jadi lebih halus dan cerah.;Positif
+2;Aku kecewa, tidak ada perubahan setelah pemakaian dua minggu.;Negatif
+3;Biasa saja, tidak terlalu buruk tapi juga tidak istimewa.;Netral
+4;Wanginya enak dan cepat meresap ke kulit, suka banget!;Positif
+5;Teksturnya terlalu lengket dan bikin wajahku berminyak.;Negatif
+6;Kemasan oke, tapi efeknya belum terlihat setelah beberapa hari.;Netral
+7;Harganya mahal tapi hasilnya sebanding, wajahku makin glowing!;Positif
+8;Tidak cocok di kulitku, malah muncul jerawat.;Negatif
+9;Pengiriman cepat, produk sesuai deskripsi.;Netral
+10;Kulitku jadi lebih lembab dan sehat setelah rutin pakai ini!;Positif
+11;Produk ini bikin wajahku lebih segar dan kenyal.;Positif
+12;Gak ada efek yang dijanjikan, malah bikin kulitku kusam.;Negatif
+13;Lumayan, gak terlalu buruk tapi juga gak terlalu bagus.;Netral
+14;Pelembabnya ringan dan gak bikin lengket, suka banget!;Positif
+15;Produk ini bikin kulitku kering dan iritasi.;Negatif
+16;Sudah pakai satu bulan, belum ada perubahan signifikan.;Netral
+17;Wanginya lembut dan tahan lama, jadi makin percaya diri!;Positif
+18;Aku gak suka teksturnya, terlalu berminyak dan lengket di wajah.;Negatif
+19;Produk ini oke sih, tapi harganya agak kemahalan.;Netral
+20;Setelah pakai ini, wajahku lebih cerah dan lembut, recommended!;Positif
+21;Kulitku malah jadi merah-merah setelah pakai ini, gak cocok.;Negatif
+22;Produk sampai dengan kemasan aman, tapi belum coba pakai.;Netral
+23;Cocok banget di kulitku, bikin glowing tanpa bikin berminyak!;Positif
+24;Aku gak suka baunya, terlalu menyengat.;Negatif
+25;Efeknya sih ada, tapi gak terlalu kelihatan.;Netral
+26;Ini produk terbaik yang pernah aku coba! Kulitku sehat dan bercahaya!;Positif
+27;Sayang banget, ternyata gak cocok di aku, muncul jerawat kecil-kecil.;Negatif
+28;Lumayanlah untuk harga segini, tapi aku masih cari yang lebih bagus.;Netral
+29;Bener-bener melembabkan dan bikin kulit kenyal seharian!;Positif
+30;Gak sesuai ekspektasi, aku berharap lebih dari produk ini.;Negatif
+31;Produk original, sesuai deskripsi, pengiriman juga cepat.;Netral
+32;Setelah pakai ini, kulitku lebih sehat dan gak gampang kering.;Positif
+33;Gak ada efeknya sama sekali, malah bikin breakout di wajahku.;Negatif
+34;Produk lumayan sih, tapi gak jauh beda sama yang lain.;Netral
+35;Aku suka banget! Gak bikin iritasi dan hasilnya kelihatan cepat.;Positif
+36;Teksturnya aneh, gak nyaman dipakai di wajah.;Negatif
+37;Belum ada efek yang terasa, tapi juga gak ada efek negatif.;Netral
+38;Wanginya enak dan cepat menyerap, bikin kulit lembab lebih lama.;Positif
+39;Aku gak suka sama packaging-nya, kelihatan murahan.;Negatif
+40;Produk ini oke buat yang cari pelembab ringan tanpa efek berminyak.;Netral
+41;Sudah coba beberapa produk lain, tapi ini yang paling cocok di kulitku!;Positif
+42;Produk ini gak sebagus yang diiklankan, aku kecewa.;Negatif
+43;Biasa aja sih, gak ada yang istimewa tapi juga gak jelek.;Netral
+44;Aku suka banget sama teksturnya yang ringan dan gampang meresap!;Positif
+45;Sayang banget, produk ini bikin kulitku makin berminyak.;Negatif
+46;Belum lihat hasilnya, mungkin butuh waktu lebih lama.;Netral
+47;Setelah rutin pakai, kulitku lebih cerah dan sehat!;Positif
+48;Aku alergi sama salah satu bahannya, jadi gak bisa lanjut pakai.;Negatif
+49;Produk ini oke, tapi aku masih cari yang lebih cocok.;Netral
+50;Beneran bikin kulitku lembut dan glowing, suka banget!;Positif
+51;Mungkin ini cuma di aku, tapi gak ada efek sama sekali.;Negatif
+52;Kemasan rapi dan sesuai deskripsi, tapi belum coba produknya.;Netral
+53;Beli ini karena rekomendasi teman, dan ternyata emang bagus banget!;Positif
+54;Baunya terlalu kuat dan bikin pusing, gak nyaman pakai ini.;Negatif
+55;Produk ini gak buruk sih, cuma aku lebih suka yang lain.;Netral
+56;Kulit jadi lebih halus dan gak gampang kering setelah pakai ini.;Positif
+57;Gak sesuai ekspektasi, aku pikir bakal lebih bagus.;Negatif
+58;Lumayan, ada efeknya tapi gak terlalu signifikan.;Netral
+59;Teksturnya ringan, gampang diaplikasikan, dan hasilnya bagus!;Positif
+60;Malah bikin breakout di wajahku, gak bakal beli lagi.;Negatif
+61;Produk ini cukup oke, tapi gak ada efek wow yang bikin aku repurchase.;Netral
+62;Aku suka banget! Cocok untuk kulit sensitif dan hasilnya bikin glowing!;Positif
+63;Setelah beberapa minggu pakai, aku merasa gak ada perubahan.;Negatif
+64;Produk lumayan oke, mungkin harus dipakai lebih lama biar kelihatan hasilnya.;Netral
+65;Melembabkan seharian tanpa bikin berminyak, produk favoritku!;Positif
+66;Harganya mahal banget, tapi hasilnya gak sebanding.;Negatif
+67;Aku suka sama kemasannya, elegan dan mudah dibawa.;Netral
+68;Wajahku kelihatan lebih cerah dan sehat setelah rutin pakai ini.;Positif
+69;Teksturnya lengket dan susah meresap, aku gak suka.;Negatif
+70;Produk ini lumayan, tapi aku masih ragu buat repurchase.;Netral
+71;Aku suka banget sama efeknya, kulitku terasa lebih kenyal!;Positif
+72;Gak cocok di kulitku, malah bikin kering dan iritasi.;Negatif
+73;Sudah pakai selama seminggu, sejauh ini gak ada masalah.;Netral
+74;Hasilnya sesuai klaimnya, aku puas banget!;Positif
+75;Harapanku terlalu tinggi, ternyata biasa aja.;Negatif
+76;Produk ini cukup oke buat pelembab sehari-hari.;Netral
+77;Wanginya lembut dan menenangkan, suka banget pakai ini sebelum tidur!;Positif
+78;Efeknya lambat banget, harus nunggu berminggu-minggu buat lihat hasil.;Negatif
+79;Not bad, mungkin aku akan coba produk lain dari brand ini.;Netral
+80;Tekstur dan hasilnya sangat memuaskan, bakal beli lagi!;Positif
+81;Produk ini bikin kulitku lebih cerah dan sehat, recommended banget!;Positif
+82;Gak ada perubahan sama sekali, cuma buang-buang uang.;Negatif
+83;Aku masih belum bisa bilang ini bagus atau enggak, efeknya belum jelas.;Netral
+84;Teksturnya ringan dan gampang meresap, suka banget!;Positif
+85;Produk ini malah bikin wajahku jadi kusam dan berminyak.;Negatif
+86;Sudah pakai seminggu, sejauh ini biasa aja.;Netral
+87;Kulitku jadi lebih lembut dan kenyal setelah pakai ini!;Positif
+88;Aku gak suka sama wanginya, terlalu menyengat dan bikin pusing.;Negatif
+89;Harganya mahal sih, tapi masih dalam batas wajar.;Netral
+90;Bener-bener bikin kulitku glowing, bakal beli lagi!;Positif
+91;Malah bikin jerawatan, gak cocok di kulitku.;Negatif
+92;Kemasan rapi dan sesuai deskripsi, tapi belum coba efeknya.;Netral
+93;Melembabkan banget tanpa bikin lengket, suka banget!;Positif
+94;Aku nyesel beli ini, gak ada efek positif sama sekali.;Negatif
+95;Lumayan lah untuk harga segini, gak bisa berharap terlalu tinggi.;Netral
+96;Kulitku makin sehat dan lebih halus setelah rutin pakai.;Positif
+97;Produknya gak sesuai ekspektasi, aku pikir bakal lebih bagus.;Negatif
+98;Aku belum lihat perubahan signifikan, mungkin butuh waktu lebih lama.;Netral
+99;Produk ini sangat cocok untuk kulit sensitif, aku suka!;Positif
+100;Wanginya terlalu kuat, jadi kurang nyaman dipakai.;Negatif
+101;Aku gak bisa bilang jelek, tapi juga gak terlalu bagus.;Netral
+102;Hasilnya beneran bikin wajah cerah dan sehat, recommended!;Positif
+103;Sayang banget gak cocok di kulitku, malah jadi kering dan kasar.;Negatif
+104;Aku masih coba beberapa kali, sejauh ini gak ada efek negatif.;Netral
+105;Setelah pakai ini, wajahku lebih segar dan glowing!;Positif
+106;Mungkin ini cuma aku, tapi malah bikin kulitku kusam.;Negatif
+107;Harganya cukup terjangkau untuk kualitas seperti ini.;Netral
+108;Pelembab ini beneran bikin kulitku tetap lembab seharian, suka banget!;Positif
+109;Gak suka sama teksturnya, terlalu tebal di wajah.;Negatif
+110;Produknya biasa aja sih, gak terlalu istimewa menurutku.;Netral
+111;Efeknya beneran terlihat dalam seminggu, gak nyangka bakal secepat ini!;Positif
+112;Aku nyesel beli ini, malah bikin jerawat makin banyak.;Negatif
+113;Packaging-nya oke, tapi belum coba efeknya di wajah.;Netral
+114;Kulitku lebih lembut dan cerah setelah pakai ini secara rutin!;Positif
+115;Teksturnya gak nyaman, terasa berat di kulitku.;Negatif
+116;Lumayan untuk sehari-hari, tapi aku gak yakin bakal beli lagi.;Netral
+117;Produk ini cocok banget di kulitku, hasilnya sesuai klaim!;Positif
+118;Malah bikin kulitku lebih sensitif dan gampang merah.;Negatif
+119;Not bad, mungkin aku bakal coba produk lain dari brand ini.;Netral
+120;Gak nyangka bakal sebagus ini, bakal repurchase lagi!;Positif
+121;Gak sesuai ekspektasi, terlalu overhyped menurutku.;Negatif
+122;Aku masih coba beberapa hari, efeknya belum terlalu kelihatan.;Netral
+123;Pelembab terbaik yang pernah aku coba, beneran bikin kulit sehat!;Positif
+124;Aku alergi sama produknya, jadi gak bisa lanjut pakai.;Negatif
+125;Masih ragu, efeknya gak terlalu cepat terlihat.;Netral
+126;Produk ini benar-benar bikin kulitku lebih glowing dan sehat!;Positif
+127;Wanginya terlalu kuat, aku kurang suka.;Negatif
+128;Harganya standar sih, gak terlalu mahal atau murah.;Netral
+129;Teksturnya ringan, hasilnya bikin kulit segar dan cerah!;Positif
+130;Produk ini bikin kulitku kering banget, aku kecewa.;Negatif
+131;Aku masih belum yakin apakah ini cocok untuk kulitku atau enggak.;Netral
+132;Kulit jadi lebih sehat dan gak gampang kering setelah pakai ini!;Positif
+133;Malah bikin kulitku iritasi, gak bakal beli lagi.;Negatif
+134;Gak jelek sih, tapi juga gak terlalu berkesan.;Netral
+135;Produk ini beneran bekerja seperti yang diklaim, hasilnya luar biasa!;Positif
+136;Teksturnya susah diratakan, jadi kurang nyaman di kulit.;Negatif
+137;Sejauh ini oke sih, tapi aku masih coba beberapa hari lagi.;Netral
+138;Aku suka banget! Gak bikin iritasi dan hasilnya cepat terlihat.;Positif
+139;Aku berharap lebih, tapi ternyata gak ada perubahan signifikan.;Negatif
+140;Produknya lumayan sih, tapi aku masih cari yang lebih cocok.;Netral
+141;Beneran melembabkan dan bikin kulit kenyal seharian!;Positif
+142;Gak sesuai ekspektasi, aku pikir bakal lebih bagus.;Negatif
+143;Pengiriman cepat, produk sesuai deskripsi.;Netral
+144;Wanginya lembut dan tahan lama, bikin rileks!;Positif
+145;Gak cocok di kulitku, malah bikin breakout.;Negatif
+146;Aku masih ragu apakah akan repurchase atau coba produk lain.;Netral
+147;Produk ini bikin kulitku lebih sehat dan terhidrasi dengan baik!;Positif
+148;Teksturnya terlalu berminyak, aku gak suka.;Negatif
+149;Lumayan sih, tapi masih kurang dibanding produk lain.;Netral
+150;Hasilnya bikin kulitku lebih glowing, aku suka banget!;Positif
+151;Mungkin ini cuma aku, tapi gak ada efek yang terasa.;Negatif
+152;Aku suka packaging-nya, kelihatan elegan.;Netral
+153;Gak nyangka produk ini sebagus ini, hasilnya terlihat dalam seminggu!;Positif
+154;Produk ini gak cocok buat aku, malah bikin iritasi.;Negatif
+155;Aku suka efeknya, tapi masih coba beberapa hari lagi sebelum yakin.;Netral
+156;Kulit jadi lebih kenyal dan halus setelah pakai produk ini!;Positif
+157;Malah bikin wajahku kusam, gak sesuai klaimnya.;Negatif
+158;Gak buruk, tapi juga gak terlalu istimewa.;Netral
+159;Teksturnya ringan dan gampang menyerap, suka banget!;Positif
+160;Aku kecewa, hasilnya jauh dari yang diiklankan.;Negatif
+161;Kulitku jadi lebih lembut setelah pakai ini, suka banget!;Positif
+162;Gak ada perubahan sama sekali, produk ini gak worth it.;Negatif
+163;Aku masih belum yakin, efeknya biasa aja.;Netral
+164;Wanginya lembut dan bikin rileks, nyaman banget dipakai.;Positif
+165;Setelah pakai ini malah muncul jerawat kecil-kecil.;Negatif
+166;Produknya oke sih, tapi belum tentu aku beli lagi.;Netral
+167;Teksturnya ringan dan gampang meresap, produk favoritku sekarang!;Positif
+168;Harganya kemahalan dibanding kualitasnya.;Negatif
+169;Belum lihat efek yang signifikan, tapi sejauh ini gak ada masalah.;Netral
+170;Beneran bikin kulit lebih glowing dan sehat, suka banget!;Positif
+171;Aku kecewa, gak ada perubahan meski sudah pakai lama.;Negatif
+172;Kemasan bagus, tapi isinya sedikit untuk harga segini.;Netral
+173;Ini produk terbaik yang pernah aku coba, hasilnya luar biasa!;Positif
+174;Wanginya terlalu menyengat, jadi kurang nyaman dipakai.;Negatif
+175;Lumayan untuk penggunaan sehari-hari, tapi aku masih cari yang lebih baik.;Netral
+176;Kulit jadi lebih sehat dan gak gampang kering setelah pakai ini!;Positif
+177;Produknya overhyped, hasilnya biasa aja.;Negatif
+178;Aku belum lihat efek yang signifikan, mungkin butuh lebih lama.;Netral
+179;Melembabkan seharian tanpa bikin lengket, produk favorit!;Positif
+180;Malah bikin kulitku lebih berminyak, aku kecewa.;Negatif
+181;Sejauh ini gak ada masalah, tapi aku masih coba beberapa minggu lagi.;Netral
+182;Beneran bekerja seperti yang diklaim, kulitku makin sehat!;Positif
+183;Teksturnya aneh, gak nyaman dipakai.;Negatif
+184;Efeknya ada, tapi butuh waktu lama buat kelihatan.;Netral
+185;Aku suka banget sama produk ini, hasilnya sesuai ekspektasi!;Positif
+186;Hasilnya gak seperti yang aku harapkan, cukup mengecewakan.;Negatif
+187;Gak buruk, tapi aku masih cari produk yang lebih cocok.;Netral
+188;Beneran bikin kulit lebih halus dan cerah dalam waktu singkat!;Positif
+189;Wanginya terlalu kuat, aku kurang suka.;Negatif
+190;Harganya masih masuk akal untuk kualitas seperti ini.;Netral
+191;Teksturnya lembut dan gampang diratakan, nyaman banget di kulit!;Positif
+192;Aku nyesel beli ini, malah bikin kulitku iritasi.;Negatif
+193;Produk lumayan, tapi gak bikin aku terkesan.;Netral
+194;Efeknya cepat terlihat, kulitku jadi lebih glowing!;Positif
+195;Setelah beberapa minggu pakai, gak ada perubahan.;Negatif
+196;Aku masih coba produk ini, belum bisa kasih pendapat final.;Netral
+197;Ini beneran produk holy grail buat aku, gak bisa hidup tanpa ini!;Positif
+198;Malah bikin kulitku kering banget, gak bakal beli lagi.;Negatif
+199;Aku masih ragu buat repurchase, efeknya gak terlalu signifikan.;Netral
+200;Aku kaget karena hasilnya sebagus ini, pasti beli lagi!;Positif
+201;Hasilnya gak sesuai klaim, aku kecewa.;Negatif
+202;Sejauh ini efeknya oke, tapi gak terlalu spesial.;Netral
+203;Kulit jadi lebih sehat dan terhidrasi dengan baik setelah pakai ini!;Positif
+204;Produk ini malah bikin wajahku kusam.;Negatif
+205;Aku gak terlalu suka atau benci, biasa aja.;Netral
+206;Teksturnya ringan, hasilnya bikin kulit segar dan cerah!;Positif
+207;Produknya gak cocok buat aku, malah bikin jerawat.;Negatif
+208;Not bad, tapi aku masih cari produk yang lebih bagus.;Netral
+209;Aku suka banget sama efeknya, kulitku terasa lebih kenyal!;Positif
+210;Efeknya lambat banget, gak sesuai ekspektasi.;Negatif
+211;Produk lumayan oke, tapi aku belum yakin buat beli lagi.;Netral
+212;Kulit jadi lebih lembab dan kenyal setelah pakai ini, recommended!;Positif
+213;Aku alergi sama salah satu bahannya, gak bisa lanjut pakai.;Negatif
+214;Aku masih lihat efeknya, sejauh ini gak ada keluhan.;Netral
+215;Melembabkan tanpa bikin lengket, bakal beli lagi!;Positif
+216;Aku nyesel beli ini, gak sesuai klaimnya.;Negatif
+217;Efeknya ada, tapi gak terlalu signifikan buat aku.;Netral
+218;Wanginya enak banget dan tahan lama, suka!;Positif
+219;Teksturnya lengket, gak nyaman di kulitku.;Negatif
+220;Aku belum yakin sama produk ini, masih coba beberapa hari.;Netral
+221;Kulit lebih sehat dan terawat, hasilnya nyata banget!;Positif
+222;Aku pikir bakal bagus, tapi ternyata malah bikin kulit makin kering.;Negatif
+223;Harganya standar, gak terlalu mahal atau murah.;Netral
+224;Beneran bikin wajah glowing, bakal beli lagi!;Positif
+225;Gak suka packaging-nya, kelihatan murahan.;Negatif
+226;Masih coba-coba, sejauh ini gak ada masalah.;Netral
+227;Produk ini beneran bekerja sesuai klaimnya, puas banget!;Positif
+228;Teksturnya terlalu tebal di wajah, kurang nyaman.;Negatif
+229;Aku masih lihat perkembangannya, sejauh ini oke.;Netral
+230;Hasilnya bikin kulitku lebih glowing dan sehat!;Positif
+231;Mungkin ini cuma di aku, tapi hasilnya gak kelihatan sama sekali.;Negatif
+232;Lumayan untuk penggunaan sehari-hari, gak ada efek negatif.;Netral
+233;Produk ini bikin kulitku terasa lebih segar!;Positif
+234;Aku berharap lebih, tapi ternyata biasa aja.;Negatif
+235;Gak terlalu spesial, biasa aja.;Netral
+236;Aku suka banget hasilnya, kulitku jadi lebih sehat dan cerah!;Positif
+237;Gak ada efek signifikan setelah pemakaian beberapa minggu.;Negatif
+238;Sejauh ini oke, tapi gak terlalu istimewa.;Netral
+239;Produknya nyaman dipakai dan bikin kulit lebih lembab!;Positif
+240;Malah bikin kulitku breakout, gak cocok.;Negatif
+241;Efeknya lumayan, tapi gak terlalu cepat kelihatan.;Netral
+242;Aku cinta banget sama produk ini, hasilnya sesuai ekspektasi!;Positif
+243;Wanginya kurang enak, bikin kurang nyaman saat dipakai.;Negatif
+244;Masih ragu untuk repurchase, efeknya biasa aja.;Netral
+245;Teksturnya ringan dan cepat meresap, suka banget!;Positif
+246;Gak sesuai klaimnya, gak ada perubahan di kulitku.;Negatif
+247;Belum yakin sama hasilnya, masih perlu waktu.;Netral
+248;Hasilnya beneran kelihatan, kulit lebih glowing dan sehat!;Positif
+249;Malah bikin wajahku tambah berminyak, gak nyaman.;Negatif
+250;Produk ini biasa aja, gak buruk tapi juga gak terlalu bagus.;Netral
+251;Bikin kulitku halus dan lembut, pasti beli lagi!;Positif
+252;Harganya terlalu mahal untuk hasil yang biasa aja.;Negatif
+253;Produk ini lumayan, tapi aku masih coba yang lain.;Netral
+254;Setelah pakai ini, kulitku lebih cerah dan sehat!;Positif
+255;Produk ini gak cocok di aku, malah bikin kulit iritasi.;Negatif
+256;Masih perlu waktu buat lihat efek maksimalnya.;Netral
+257;Aku suka banget sama formula dan teksturnya, ringan banget!;Positif
+258;Aku pikir ini bakal bagus, tapi ternyata biasa aja.;Negatif
+259;Not bad, tapi juga gak terlalu istimewa.;Netral
+260;Kulitku jadi lebih kenyal dan sehat setelah pakai ini!;Positif
+261;Produknya overhyped, hasilnya gak sesuai ekspektasi.;Negatif
+262;Masih perlu lihat efeknya dalam jangka panjang.;Netral
+263;Ini produk terbaik yang pernah aku coba, hasilnya luar biasa!;Positif
+264;Malah bikin wajahku kusam, kecewa banget.;Negatif
+265;Sejauh ini gak ada efek buruk, tapi juga gak ada efek istimewa.;Netral
+266;Beneran bikin kulit lebih glowing, suka banget!;Positif
+267;Teksturnya aneh dan gak nyaman di kulit.;Negatif
+268;Gak buruk, tapi aku berharap lebih.;Netral
+269;Produk ini bikin kulitku lembut seharian, recommended!;Positif
+270;Gak sesuai klaim, aku nyesel beli ini.;Negatif
+271;Efeknya ada, tapi harus sabar karena gak instan.;Netral
+272;Wanginya enak banget dan bikin rileks, suka!;Positif
+273;Produknya bikin wajahku kering dan ketarik.;Negatif
+274;Masih menunggu hasil yang lebih terlihat.;Netral
+275;Kulitku jadi lebih sehat dan segar setelah pakai ini!;Positif
+276;Hasilnya gak kelihatan, cuma buang-buang uang.;Negatif
+277;Not bad, tapi aku masih cari yang lebih bagus.;Netral
+278;Kulit jadi lebih halus dan kenyal, produk ini beneran works!;Positif
+279;Aku nyesel beli ini, gak ada efek sama sekali.;Negatif
+280;Produk ini biasa aja, aku masih coba beberapa kali lagi.;Netral
+281;Aku puas banget dengan hasilnya, pasti repurchase!;Positif
+282;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+283;Sejauh ini oke, gak ada efek negatif.;Netral
+284;Bikin kulitku lebih cerah dalam waktu singkat, amazing!;Positif
+285;Malah bikin kulitku berminyak, gak cocok buat aku.;Negatif
+286;Gak terlalu spesial, aku bisa cari yang lebih baik.;Netral
+287;Ini beneran produk terbaik, hasilnya sesuai harapan!;Positif
+288;Aku pikir ini bakal cocok, tapi malah bikin breakout.;Negatif
+289;Efeknya ada, tapi gak terlalu signifikan buat aku.;Netral
+290;Aku suka banget sama teksturnya yang ringan dan gampang meresap!;Positif
+291;Gak ada perubahan signifikan setelah pemakaian.;Negatif
+292;Aku masih coba produk ini, sejauh ini gak ada masalah.;Netral
+293;Kulit jadi lebih sehat dan cerah setelah pakai ini!;Positif
+294;Malah bikin kulitku gatal, gak bakal beli lagi.;Negatif
+295;Produknya oke sih, tapi aku belum yakin buat beli lagi.;Netral
+296;Teksturnya ringan dan gampang meresap, nyaman banget!;Positif
+297;Aku kecewa, gak ada perubahan meski sudah pakai lama.;Negatif
+298;Kemasan bagus, tapi isinya sedikit untuk harga segini.;Netral
+299;Ini produk terbaik yang pernah aku coba, hasilnya luar biasa!;Positif
+300;Wanginya terlalu menyengat, jadi kurang nyaman dipakai.;Negatif
+301;Lumayan untuk penggunaan sehari-hari, tapi aku masih cari yang lebih baik.;Netral
+302;Kulit jadi lebih sehat dan gak gampang kering setelah pakai ini!;Positif
+303;Produknya overhyped, hasilnya biasa aja.;Negatif
+304;Aku belum lihat efek yang signifikan, mungkin butuh lebih lama.;Netral
+305;Melembabkan seharian tanpa bikin lengket, produk favorit!;Positif
+306;Malah bikin kulitku lebih berminyak, aku kecewa.;Negatif
+307;Sejauh ini gak ada masalah, tapi aku masih coba beberapa minggu lagi.;Netral
+308;Beneran bekerja seperti yang diklaim, kulitku makin sehat!;Positif
+309;Teksturnya aneh, gak nyaman dipakai.;Negatif
+310;Efeknya ada, tapi butuh waktu lama buat kelihatan.;Netral
+311;Kulitku jadi lebih cerah dalam beberapa minggu, suka banget!;Positif
+312;Gak ada efek apa pun di kulitku, kecewa banget.;Negatif
+313;Sejauh ini efeknya biasa aja, gak terlalu terlihat.;Netral
+314;Beneran melembabkan kulit tanpa bikin lengket, recommended!;Positif
+315;Produknya malah bikin kulit iritasi dan gatal.;Negatif
+316;Aku masih lihat hasilnya, belum bisa kasih review final.;Netral
+317;Wajahku jadi lebih glowing setelah pakai ini, pasti beli lagi!;Positif
+318;Wanginya aneh, aku gak suka sama aromanya.;Negatif
+319;Teksturnya enak, tapi belum lihat hasil signifikan.;Netral
+320;Produk ini bikin kulitku terasa lebih kenyal dan sehat!;Positif
+321;Aku nyesel beli ini, gak sesuai klaim sama sekali.;Negatif
+322;Masih ragu buat beli lagi, efeknya gak terlalu kelihatan.;Netral
+323;Beneran bekerja sesuai klaimnya, aku puas banget!;Positif
+324;Produknya overhyped, aku pikir bakal lebih bagus.;Negatif
+325;Harganya masih masuk akal untuk kualitasnya.;Netral
+326;Setelah pakai ini, kulitku terasa lebih lembab dan sehat!;Positif
+327;Aku malah breakout setelah pakai ini, gak cocok banget.;Negatif
+328;Gak buruk, tapi aku masih cari produk yang lebih baik.;Netral
+329;Kulitku jadi lebih halus dan lembut, efeknya cepat terlihat!;Positif
+330;Teksturnya terlalu tebal, kurang nyaman di wajah.;Negatif
+331;Aku masih coba produk ini, sejauh ini efeknya biasa aja.;Netral
+332;Aku suka banget sama hasilnya, kulitku terlihat lebih sehat!;Positif
+333;Produknya malah bikin kulit kering, gak bakal repurchase.;Negatif
+334;Efeknya ada, tapi gak sesuai ekspektasi aku.;Netral
+335;Aku puas banget sama hasilnya, worth it buat dibeli!;Positif
+336;Wanginya terlalu kuat, aku kurang nyaman pakai ini.;Negatif
+337;Masih perlu waktu buat lihat hasil akhirnya.;Netral
+338;Beneran bikin wajah glowing, aku gak nyangka hasilnya sebagus ini!;Positif
+339;Produknya malah bikin jerawat muncul, gak cocok buat aku.;Negatif
+340;Sejauh ini oke, tapi aku belum yakin buat beli lagi.;Netral
+341;Aku cinta banget sama produk ini, hasilnya luar biasa!;Positif
+342;Aku pikir bakal bagus, tapi ternyata biasa aja.;Negatif
+343;Masih lihat perkembangannya, sejauh ini gak ada masalah.;Netral
+344;Produk ini beneran bikin kulit lebih sehat dan kenyal!;Positif
+345;Setelah beberapa minggu pakai, hasilnya gak kelihatan sama sekali.;Negatif
+346;Aku gak terlalu suka atau benci, rasanya biasa aja.;Netral
+347;Bikin kulitku lebih cerah dan lembab, hasilnya beneran nyata!;Positif
+348;Aku nyesel beli ini, malah bikin wajah kusam.;Negatif
+349;Produk lumayan oke, tapi aku masih coba produk lain juga.;Netral
+350;Efeknya bikin kulit lebih glowing dan sehat dalam waktu singkat!;Positif
+351;Aku pikir bakal cocok, tapi ternyata malah bikin kulit kasar.;Negatif
+352;Teksturnya ringan, sejauh ini nyaman dipakai.;Netral
+353;Aku suka banget sama formula dan hasilnya, bakal repurchase!;Positif
+354;Gak sesuai ekspektasi, aku kecewa banget sama produk ini.;Negatif
+355;Sejauh ini belum ada efek signifikan, tapi aku tetap lanjut pakai.;Netral
+356;Kulitku jadi lebih sehat dan terhidrasi, beneran bagus!;Positif
+357;Gak ada efek apa pun, kayak gak pakai produk.;Negatif
+358;Not bad, tapi aku masih cari produk yang lebih cocok.;Netral
+359;Wanginya enak dan teksturnya nyaman di kulit, produk favoritku!;Positif
+360;Malah bikin kulitku gatal, aku kecewa banget.;Negatif
+361;Produk ini bikin kulitku lebih cerah dan halus, recommended banget!;Positif
+362;Malah bikin wajahku tambah beruntusan, nggak cocok.;Negatif
+363;Sejauh ini masih oke, tapi belum ada efek signifikan.;Netral
+364;Suka banget sama teksturnya yang lembut dan mudah meresap.;Positif
+365;Harganya terlalu mahal untuk hasil yang biasa aja.;Negatif
+366;Aku merasa kulitku lebih sehat dan glowing setelah pakai ini!;Positif
+367;Aku udah pakai beberapa minggu, tapi belum ada perubahan yang signifikan.;Netral
+368;Produknya nyaman banget di kulit, nggak bikin iritasi!;Positif
+369;Malah bikin kulitku terasa kering dan nggak nyaman.;Negatif
+370;Aku masih coba, belum ada efek buruk sih, tapi juga belum kelihatan hasilnya.;Netral
+371;Bikin kulitku lebih lembab dan halus, pasti beli lagi!;Positif
+372;Ternyata nggak cocok di kulitku, malah jadi beruntusan.;Negatif
+373;Sejauh ini oke sih, tapi aku belum lihat hasil yang terlalu besar.;Netral
+374;Produk ini beneran works, kulit jadi lebih cerah dan sehat!;Positif
+375;Gak ada perubahan setelah pemakaian rutin, kecewa deh.;Negatif
+376;Aku suka banget sama packaging-nya, praktis dan nggak ribet!;Positif
+377;Nggak ada efek apa-apa, cuma buang-buang uang.;Negatif
+378;Mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+379;Wanginya enak banget, bikin relax setiap kali pakai!;Positif
+380;Ternyata kulitku malah makin kering, jadi nggak cocok.;Negatif
+381;Aku belum lihat hasilnya, tapi teksturnya oke dan mudah meresap.;Netral
+382;Kulitku terasa lebih lembut dan kenyal setelah pakai ini!;Positif
+383;Aku nggak suka sama hasilnya, kulitku malah lebih kusam.;Negatif
+384;Sejauh ini sih biasa aja, belum terlalu terasa perbedaannya.;Netral
+385;Produk ini beneran bikin kulit lebih sehat dan cerah!;Positif
+386;Aku kecewa karena malah bikin wajahku jerawatan.;Negatif
+387;Gak ada efek buruk setelah pemakaian, tapi juga nggak ada perubahan signifikan.;Netral
+388;Kulitku jadi lebih kenyal dan lembab setelah pemakaian rutin!;Positif
+389;Wanginya terlalu kuat, bikin gak nyaman dipakai sehari-hari.;Negatif
+390;Aku suka karena produk ini lembut dan cepat meresap di kulit!;Positif
+391;Hasilnya nggak sesuai harapan, malah bikin kulit terasa kering.;Negatif
+392;Mungkin butuh waktu lebih lama untuk lihat efeknya.;Netral
+393;Produk ini bikin kulitku lebih cerah dan sehat dalam waktu singkat!;Positif
+394;Sayang banget, produk ini malah bikin kulitku iritasi.;Negatif
+395;Sejauh ini nggak ada masalah, cuma belum lihat efek signifikan.;Netral
+396;Beneran bikin kulit glowing dan sehat, love it!;Positif
+397;Produknya bikin kulitku terasa kering dan gak nyaman.;Negatif
+398;Sejauh ini biasa aja, nggak terlalu buruk atau bagus.;Netral
+399;Produk ini bekerja dengan baik, kulitku terasa lebih lembut dan kenyal!;Positif
+400;Aku nggak bakal repurchase, karena malah bikin wajahku berminyak.;Negatif
+401;Kulitku jadi lebih lembut dan kenyal setelah pakai produk ini!;Positif
+402;Aku kecewa banget, hasilnya gak sesuai ekspektasi.;Negatif
+403;Teksturnya ringan dan mudah meresap, tapi hasilnya biasa aja.;Netral
+404;Aku suka banget, kulitku jadi lebih cerah dan sehat!;Positif
+405;Malah bikin kulitku jadi berminyak, gak cocok buat aku.;Negatif
+406;Sejauh ini belum ada efek buruk, tapi belum ada perubahan yang signifikan.;Netral
+407;Kulitku jadi lebih glowing dan halus, pasti repurchase!;Positif
+408;Wanginya terlalu kuat, jadi kurang nyaman dipakai.;Negatif
+409;Belum ada hasil signifikan, tapi aku tetap lanjut pakai.;Netral
+410;Produk ini bikin kulitku lembut dan terhidrasi sepanjang hari!;Positif
+411;Aku tidak merasa ada perubahan di kulitku meski sudah beberapa minggu.;Negatif
+412;Efeknya cukup oke, tapi tidak terlalu cepat terlihat.;Netral
+413;Kulitku jadi lebih kenyal dan lembut setelah pakai ini!;Positif
+414;Harganya terlalu mahal, hasilnya tidak sesuai dengan harga.;Negatif
+415;Aku merasa kulitku lebih cerah setelah rutin pakai produk ini!;Positif
+416;Aku kurang suka, malah bikin kulitku iritasi dan kering.;Negatif
+417;Belum ada perubahan yang terlihat, mungkin butuh waktu lebih lama.;Netral
+418;Aku puas banget, kulitku lebih sehat dan segar!;Positif
+419;Produk ini terlalu berat untuk kulitku, gak cocok.;Negatif
+420;Aku masih mencoba produk ini, belum ada hasil yang menonjol.;Netral
+421;Hasilnya sesuai ekspektasi, kulitku lebih halus dan cerah!;Positif
+422;Malah bikin wajahku jadi lebih beruntusan, gak cocok sama sekali.;Negatif
+423;Sejauh ini gak ada efek buruk, tapi juga gak terlalu baik.;Netral
+424;Beneran bikin kulitku lebih lembut dan kenyal setelah beberapa kali pemakaian.;Positif
+425;Gak ada perubahan yang berarti di kulitku meskipun sudah pakai lama.;Negatif
+426;Aku suka banget, produk ini bikin kulitku terlihat lebih sehat!;Positif
+427;Sayangnya produk ini bikin kulitku jadi kering dan terasa ketarik.;Negatif
+428;Aku merasa produk ini bagus, meski efeknya butuh waktu lebih lama.;Netral
+429;Kulitku jadi lebih cerah dan terhidrasi, aku suka banget!;Positif
+430;Hasilnya biasa aja, nggak ada efek wow di kulitku.;Negatif
+431;Produk ini membantu melembabkan kulit, tapi belum ada efek dramatis.;Netral
+432;Aku suka banget sama teksturnya yang ringan dan cepat meresap!;Positif
+433;Gak cocok buat kulit sensitif, malah bikin wajahku iritasi.;Negatif
+434;Sejauh ini oke, tapi aku masih tunggu hasil maksimalnya.;Netral
+435;Beneran bikin kulit lebih glowing dan sehat, pasti repurchase!;Positif
+436;Produknya malah bikin kulitku kering dan terasa gatal.;Negatif
+437;Aku belum lihat perubahan signifikan meski sudah pakai beberapa minggu.;Netral
+438;Kulitku jadi lebih halus dan cerah setelah beberapa kali pemakaian.;Positif
+439;Aku kecewa karena produk ini malah bikin kulitku makin kusam.;Negatif
+440;Sejauh ini, produk ini oke sih, tapi aku belum lihat efek yang luar biasa.;Netral
+441;Produk ini bikin kulitku lebih segar dan terhidrasi, recommended banget!;Positif
+442;Wanginya terlalu kuat, gak nyaman dipakai di kulitku.;Negatif
+443;Aku merasa kulitku lebih sehat setelah rutin pakai produk ini.;Positif
+444;Hasilnya nggak sesuai harapan, malah bikin kulitku tambah kering.;Negatif
+445;Aku merasa produk ini bekerja dengan baik di kulitku.;Netral
+446;Kulitku jadi lebih kenyal dan lembut, pasti repurchase lagi!;Positif
+447;Gak ada efek yang signifikan, aku kecewa karena hasilnya biasa aja.;Negatif
+448;Sejauh ini gak ada masalah, tapi aku masih coba produk lain.;Netral
+449;Hasilnya oke banget, kulitku jadi lebih cerah dan halus!;Positif
+450;Malah bikin wajahku makin beruntusan, aku nggak suka.;Negatif
+451;Produk ini bikin kulitku lebih cerah dan halus, hasilnya beneran nyata!;Positif
+452;Sayang banget, malah bikin kulitku jadi berminyak.;Negatif
+453;Sejauh ini biasa aja, belum ada perubahan besar di kulitku.;Netral
+454;Kulitku jadi lebih lembab dan kenyal, pasti repurchase lagi!;Positif
+455;Gak cocok di kulitku, malah bikin timbul jerawat.;Negatif
+456;Aku udah pakai beberapa minggu, tapi belum lihat efek yang signifikan.;Netral
+457;Produk ini melembabkan kulitku dengan baik, aku suka!;Positif
+458;Aku kecewa, produk ini malah bikin kulitku terasa kering.;Negatif
+459;Teksturnya enak, tapi aku belum lihat hasil yang benar-benar terlihat.;Netral
+460;Bikin kulitku jadi glowing dan terasa sehat!;Positif
+461;Aku gak suka sama wangi produk ini, terlalu menyengat.;Negatif
+462;Kulitku lebih kenyal dan lembut setelah pemakaian rutin.;Positif
+463;Gak ada perubahan signifikan, mungkin butuh waktu lebih lama.;Netral
+464;Hasilnya luar biasa, kulitku lebih halus dan cerah!;Positif
+465;Aku gak bakal repurchase karena malah bikin kulitku iritasi.;Negatif
+466;Sejauh ini oke, tapi aku belum lihat efek besar di kulitku.;Netral
+467;Produk ini membantu menjaga kelembapan kulitku, aku suka!;Positif
+468;Malah bikin kulitku lebih kering dan terasa kasar.;Negatif
+469;Aku masih coba, hasilnya belum kelihatan, tapi semoga ada perubahan.;Netral
+470;Aku puas banget, kulitku terasa lebih lembut dan halus setelah pakai ini!;Positif
+471;Sayang banget, produk ini malah bikin kulitku beruntusan.;Negatif
+472;Kulitku lebih cerah dan lembab, produk ini bekerja dengan baik!;Positif
+473;Gak ada efek signifikan di kulitku, sepertinya gak cocok.;Negatif
+474;Sejauh ini, produk ini bekerja dengan baik, kulitku lebih sehat!;Netral
+475;Produk ini bikin kulitku lebih lembut dan kenyal, suka banget!;Positif
+476;Aku gak suka sama teksturnya yang terlalu tebal di kulit.;Negatif
+477;Aku masih pakai produk ini, belum ada perubahan besar di kulit.;Netral
+478;Kulitku jadi lebih kenyal dan glowing, pasti repurchase!;Positif
+479;Hasilnya biasa aja, gak ada perubahan signifikan di kulitku.;Negatif
+480;Sejauh ini kulitku lebih lembab dan terhidrasi setelah pakai ini.;Netral
+481;Aku suka banget karena produk ini melembabkan kulitku sepanjang hari!;Positif
+482;Malah bikin kulitku lebih berminyak, gak cocok buat aku.;Negatif
+483;Hasilnya gak terlalu terlihat, mungkin butuh lebih banyak waktu.;Netral
+484;Produk ini memberikan kelembapan yang bertahan lama, aku suka!;Positif
+485;Malah bikin kulitku terasa kering dan ketarik.;Negatif
+486;Sejauh ini oke, tapi aku masih nunggu hasil yang lebih besar.;Netral
+487;Kulitku lebih sehat dan cerah setelah rutin pakai produk ini!;Positif
+488;Aku gak suka sama wangi produk ini yang terlalu menyengat.;Negatif
+489;Aku merasa kulitku lebih lembut dan kenyal setelah pakai ini!;Positif
+490;Hasilnya biasa aja, aku gak terlalu terkesan dengan produk ini.;Negatif
+491;Kulitku lebih cerah dan terasa lebih sehat setelah beberapa minggu.;Positif
+492;Produk ini bikin kulitku terasa kering dan kasar, gak cocok.;Negatif
+493;Aku masih coba, belum ada perubahan besar di kulitku.;Netral
+494;Produk ini bekerja dengan baik, kulitku jadi lebih glowing!;Positif
+495;Hasilnya nggak sesuai dengan klaimnya, kecewa deh.;Negatif
+496;Sejauh ini produk ini oke, tapi aku masih ingin lihat hasil maksimalnya.;Netral
+497;Kulitku jadi lebih halus dan kenyal setelah pakai ini, suka banget!;Positif
+498;Aku kecewa, produk ini malah bikin kulitku beruntusan.;Negatif
+499;Produk ini bekerja dengan baik, kulitku jadi lebih sehat dan cerah!;Positif
+500;Aku gak merasa ada perubahan di kulitku meski sudah beberapa minggu pakai.;Negatif
+501;Aku puas dengan produk ini, kulitku jadi lebih lembut dan kenyal!;Positif
+502;Sayang banget, malah bikin kulitku tambah beruntusan.;Negatif
+503;Sejauh ini biasa aja, tapi aku masih nunggu hasil lebih lama.;Netral
+504;Kulitku jadi lebih lembab dan kenyal, aku suka banget!;Positif
+505;Gak ada efek apa-apa, aku gak bakal repurchase.;Negatif
+506;Hasilnya lumayan, tapi aku masih mencari produk yang lebih cocok.;Netral
+507;Kulitku jadi lebih sehat dan glowing, aku bakal terus pakai ini!;Positif
+508;Sayang banget, produk ini malah bikin kulitku terasa kering.;Negatif
+509;Aku udah pakai beberapa minggu, tapi belum ada perubahan yang signifikan.;Netral
+510;Produk ini membantu menjaga kelembapan kulitku, aku suka!;Positif
+511;Produk ini bikin kulitku makin glowing, aku suka banget!;Positif
+512;Sayang banget, malah bikin kulitku kemerahan dan iritasi.;Negatif
+513;Aku masih coba, sejauh ini gak ada efek buruk tapi juga belum ada hasil signifikan.;Netral
+514;Kulitku jadi lebih halus dan lembut setelah pakai ini, recommended!;Positif
+515;Malah bikin wajahku tambah kusam, kecewa banget.;Negatif
+516;Hasilnya lumayan, tapi gak terlalu berbeda dari produk biasa.;Netral
+517;Beneran bikin kulit jadi lebih cerah, gak nyangka bakal sebagus ini!;Positif
+518;Aku gak suka sama teksturnya, terlalu lengket di kulit.;Negatif
+519;Kulitku jadi lebih terhidrasi, tapi efek cerahnya belum kelihatan.;Netral
+520;Aku suka banget, hasilnya bikin kulitku sehat dan glowing!;Positif
+521;Wanginya terlalu kuat dan bikin aku kurang nyaman.;Negatif
+522;Produk ini oke, tapi gak ada efek yang terlalu signifikan.;Netral
+523;Kulitku lebih kenyal dan lembut, pasti bakal beli lagi!;Positif
+524;Sayang banget, produk ini malah bikin kulitku lebih kering.;Negatif
+525;Aku masih coba, hasilnya belum terlalu kelihatan.;Netral
+526;Beneran bikin kulit lebih lembut dan cerah, suka banget sama produk ini!;Positif
+527;Aku kecewa, gak ada perubahan yang aku rasakan setelah pemakaian rutin.;Negatif
+528;Sejauh ini oke, tapi aku masih tunggu hasil lebih lama.;Netral
+529;Produk ini beneran bikin wajahku makin glowing dan sehat!;Positif
+530;Gak cocok buat aku, malah bikin wajah jadi lebih berminyak.;Negatif
+531;Aku masih ragu, sejauh ini belum ada efek yang signifikan.;Netral
+532;Kulitku jadi lebih halus dan kenyal setelah pakai ini, pasti beli lagi!;Positif
+533;Produk ini malah bikin jerawatku tambah parah, kecewa banget!;Negatif
+534;Hasilnya biasa aja, mungkin butuh waktu lebih lama untuk lihat perubahan.;Netral
+535;Teksturnya ringan dan mudah meresap, aku suka banget!;Positif
+536;Produk ini gak bekerja di kulitku, malah bikin makin kusam.;Negatif
+537;Aku belum lihat perubahan besar, tapi gak ada efek samping sejauh ini.;Netral
+538;Kulitku lebih cerah dan sehat setelah pakai ini, pasti repurchase!;Positif
+539;Aku kecewa karena malah bikin wajahku gatal dan iritasi.;Negatif
+540;Aku masih coba, hasilnya belum maksimal tapi gak ada efek buruk juga.;Netral
+541;Kulitku jadi lebih glowing dan terasa lebih sehat, aku suka banget!;Positif
+542;Malah bikin wajahku makin berminyak dan gak nyaman.;Negatif
+543;Sejauh ini kulitku lebih terhidrasi, tapi efek cerahnya belum kelihatan.;Netral
+544;Aku suka banget sama produk ini, bikin wajahku makin fresh!;Positif
+545;Gak cocok buat kulit sensitif, malah bikin iritasi.;Negatif
+546;Aku belum lihat efek signifikan, tapi teksturnya cukup nyaman di kulit.;Netral
+547;Produk ini bikin wajahku lebih glowing dan cerah, recommended banget!;Positif
+548;Sayang banget, gak cocok di kulitku dan bikin breakout.;Negatif
+549;Aku belum yakin, sejauh ini hasilnya biasa aja.;Netral
+550;Kulitku jadi lebih kenyal dan lembab setelah pemakaian rutin!;Positif
+551;Aku kecewa karena produk ini bikin kulitku jadi lebih kering.;Negatif
+552;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat hasilnya.;Netral
+553;Hasilnya luar biasa, kulitku jadi lebih sehat dan cerah!;Positif
+554;Gak sesuai ekspektasi, hasilnya gak seperti yang diklaim.;Negatif
+555;Aku suka teksturnya yang ringan, tapi efeknya belum terlalu kelihatan.;Netral
+556;Kulitku terasa lebih segar dan terhidrasi sepanjang hari!;Positif
+557;Aku kecewa karena hasilnya gak sesuai dengan klaim produknya.;Negatif
+558;Belum ada efek signifikan, tapi gak ada efek buruk juga sejauh ini.;Netral
+559;Aku suka banget, kulitku terasa lebih lembut dan sehat!;Positif
+560;Sayang banget, produk ini malah bikin kulitku lebih kusam.;Negatif
+561;Aku masih menunggu hasilnya, sejauh ini belum ada perubahan yang signifikan.;Netral
+562;Hasilnya beneran bagus, kulitku jadi lebih glowing!;Positif
+563;Wanginya terlalu menyengat, jadi aku kurang nyaman pakainya.;Negatif
+564;Aku merasa produk ini cukup oke, tapi hasilnya gak instan.;Netral
+565;Aku suka banget, kulitku terasa lebih sehat setelah pakai ini!;Positif
+566;Malah bikin kulitku lebih kering dan kasar, gak cocok sama sekali.;Negatif
+567;Sejauh ini aku masih coba, belum lihat perubahan besar di kulitku.;Netral
+568;Produk ini bikin kulitku makin lembut dan halus, pasti beli lagi!;Positif
+569;Sayangnya bikin wajahku jadi lebih berminyak, aku gak suka.;Negatif
+570;Aku masih belum yakin karena hasilnya belum terlalu kelihatan.;Netral
+571;Aku suka banget! Produk ini beneran bikin kulitku lebih cerah.;Positif
+572;Teksturnya terlalu lengket, kurang nyaman di kulit.;Negatif
+573;Aku belum lihat efeknya, mungkin butuh pemakaian lebih lama.;Netral
+574;Kulitku lebih cerah dan kenyal, aku suka banget sama produk ini!;Positif
+575;Malah bikin wajahku gatal-gatal setelah pemakaian, gak cocok buatku.;Negatif
+576;Sejauh ini cukup melembabkan, tapi gak ada efek cerah yang terlihat.;Netral
+577;Produk ini bikin wajahku makin sehat dan glowing, recommended banget!;Positif
+578;Aku kecewa karena produk ini gak bekerja di kulitku.;Negatif
+579;Aku belum lihat efek cerahnya, tapi setidaknya gak bikin breakout.;Netral
+580;Hasilnya sesuai klaim, kulitku jadi lebih halus dan sehat!;Positif
+581;Produk ini bikin kulitku lebih sehat dan glowing, aku suka banget!;Positif
+582;Sayang banget, malah bikin wajahku semakin berminyak.;Negatif
+583;Aku masih coba, belum lihat perubahan besar tapi teksturnya nyaman.;Netral
+584;Hasilnya luar biasa! Kulitku jadi lebih cerah dan lembut.;Positif
+585;Aku kecewa, produk ini malah bikin jerawatku semakin banyak.;Negatif
+586;Sejauh ini cukup oke, tapi efeknya gak terlalu signifikan.;Netral
+587;Produk ini bikin kulitku lebih lembut dan kenyal, pasti beli lagi!;Positif
+588;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+589;Kulitku lebih terhidrasi setelah pakai ini, tapi efek cerahnya belum ada.;Netral
+590;Beneran bikin wajahku makin glowing dan sehat, recommended banget!;Positif
+591;Malah bikin kulitku kering dan mengelupas, gak cocok buatku.;Negatif
+592;Aku masih coba, sejauh ini gak ada efek buruk tapi belum ada hasil signifikan.;Netral
+593;Produk ini ringan di kulit dan gak bikin lengket, aku suka banget!;Positif
+594;Sayang banget, malah bikin wajahku beruntusan.;Negatif
+595;Aku belum lihat efek besar, tapi kulitku terasa lebih lembab.;Netral
+596;Kulitku makin sehat dan cerah setelah pakai ini secara rutin!;Positif
+597;Aku kecewa, hasilnya gak sesuai dengan klaim produknya.;Negatif
+598;Teksturnya enak, tapi aku belum lihat hasil signifikan.;Netral
+599;Aku puas banget, kulitku jadi lebih lembut dan kenyal!;Positif
+600;Malah bikin kulitku iritasi, aku gak akan repurchase.;Negatif
+601;Hasilnya belum kelihatan, mungkin butuh waktu lebih lama.;Netral
+602;Produk ini bikin kulitku terasa lebih fresh dan sehat!;Positif
+603;Aku gak suka karena bikin wajahku semakin berminyak.;Negatif
+604;Belum ada perubahan yang signifikan setelah beberapa minggu pemakaian.;Netral
+605;Aku suka banget, kulitku jadi lebih halus dan glowing!;Positif
+606;Sayang sekali, produk ini bikin kulitku semakin kering.;Negatif
+607;Aku masih coba, sejauh ini gak ada efek buruk.;Netral
+608;Produk ini membantu mengurangi kemerahan di wajahku, suka banget!;Positif
+609;Teksturnya terlalu lengket dan gak nyaman dipakai.;Negatif
+610;Aku belum lihat hasil besar, tapi kulitku lebih lembab dari sebelumnya.;Netral
+611;Hasilnya beneran bikin kulit lebih cerah dan sehat!;Positif
+612;Aku kecewa, malah bikin kulitku kusam.;Negatif
+613;Aku belum yakin, hasilnya masih biasa saja.;Netral
+614;Kulitku jadi lebih glowing dan lembut setelah pakai ini!;Positif
+615;Sayang banget, malah bikin wajahku makin beruntusan.;Negatif
+616;Aku masih coba, efeknya belum terasa.;Netral
+617;Produk ini sangat membantu melembabkan kulitku sepanjang hari!;Positif
+618;Wanginya kurang enak menurutku, jadi kurang nyaman pakainya.;Negatif
+619;Sejauh ini biasa saja, gak ada efek buruk tapi gak ada efek besar juga.;Netral
+620;Aku suka banget, hasilnya bikin kulitku lebih kenyal!;Positif
+621;Aku kecewa karena produk ini bikin wajahku makin kering.;Negatif
+622;Hasilnya masih belum terlihat, mungkin perlu waktu lebih lama.;Netral
+623;Kulitku terasa lebih sehat dan cerah, recommended banget!;Positif
+624;Sayang banget, produk ini gak cocok buat kulit sensitif seperti aku.;Negatif
+625;Aku masih menunggu hasilnya, sejauh ini biasa saja.;Netral
+626;Produk ini bekerja dengan baik, kulitku lebih terhidrasi!;Positif
+627;Malah bikin wajahku terasa lebih berminyak, aku gak suka.;Negatif
+628;Aku masih coba dan belum lihat efek yang signifikan.;Netral
+629;Aku suka banget sama produk ini, beneran bikin kulit makin cerah!;Positif
+630;Malah bikin wajahku iritasi dan kemerahan, gak cocok buatku.;Negatif
+631;Aku masih coba, efeknya belum terasa.;Netral
+632;Produk ini bikin kulitku makin halus dan glowing!;Positif
+633;Aku kecewa, hasilnya gak seperti yang diiklankan.;Negatif
+634;Aku belum lihat perubahan besar, tapi sejauh ini gak ada efek samping.;Netral
+635;Kulitku lebih kenyal dan sehat, aku suka banget produk ini!;Positif
+636;Sayangnya malah bikin wajahku kusam.;Negatif
+637;Sejauh ini produk ini cukup baik, tapi gak ada efek besar.;Netral
+638;Aku puas banget, kulitku terasa lebih cerah dan segar!;Positif
+639;Malah bikin kulitku makin kering dan kasar, kecewa.;Negatif
+640;Aku masih coba, mungkin perlu waktu lebih lama untuk lihat hasilnya.;Netral
+641;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+642;Wanginya terlalu menyengat, kurang nyaman dipakai.;Negatif
+643;Aku belum lihat efek yang signifikan, tapi cukup melembabkan.;Netral
+644;Kulitku jadi lebih sehat dan segar setelah pakai ini!;Positif
+645;Malah bikin wajahku jadi berminyak, gak cocok buat aku.;Negatif
+646;Aku masih coba, sejauh ini efeknya biasa aja.;Netral
+647;Hasilnya luar biasa, kulitku makin glowing!;Positif
+648;Aku kecewa karena gak ada efek yang aku harapkan.;Negatif
+649;Belum lihat hasil yang besar, mungkin harus rutin pakai lebih lama.;Netral
+650;Produk ini bikin kulitku lebih cerah dan halus!;Positif
+651;Sayang banget, produk ini bikin wajahku makin kering.;Negatif
+652;Aku masih coba, efeknya belum terasa signifikan.;Netral
+653;Kulitku makin sehat dan cerah, produk ini benar-benar bagus!;Positif
+654;Wanginya terlalu kuat, aku kurang nyaman pakai ini.;Negatif
+655;Sejauh ini cukup oke, tapi aku masih ingin lihat hasil lebih besar.;Netral
+656;Produk ini bikin kulitku lebih cerah dan lembut, suka banget!;Positif
+657;Sayang banget, malah bikin wajahku makin kusam.;Negatif
+658;Aku masih coba, sejauh ini belum ada perubahan besar.;Netral
+659;Kulitku jadi lebih kenyal dan sehat setelah pakai ini!;Positif
+660;Aku kecewa, hasilnya gak seperti yang aku harapkan.;Negatif
+661;Aku belum lihat perubahan signifikan, tapi teksturnya nyaman.;Netral
+662;Produk ini bikin wajahku makin glowing dan sehat, recommended!;Positif
+663;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+664;Aku belum lihat efek besar, tapi sejauh ini gak ada efek buruk.;Netral
+665;Hasilnya luar biasa, kulitku makin cerah!;Positif
+666;Aku kecewa karena malah bikin wajahku makin berminyak.;Negatif
+667;Sejauh ini cukup oke, tapi butuh pemakaian lebih lama.;Netral
+668;Produk ini bikin kulitku makin sehat dan glowing!;Positif
+669;Sayang banget, malah bikin kulitku iritasi.;Negatif
+670;Aku masih coba, efeknya belum terasa.;Netral
+671;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+672;Malah bikin wajahku beruntusan, aku kecewa.;Negatif
+673;Aku belum yakin, sejauh ini hasilnya biasa saja.;Netral
+674;Hasilnya sesuai klaim, kulitku lebih cerah dan lembab!;Positif
+675;Aku kecewa karena gak ada efek seperti yang diiklankan.;Negatif
+676;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+677;Kulitku terasa lebih fresh dan sehat setelah pakai ini!;Positif
+678;Sayang sekali, gak cocok buat kulit sensitif seperti aku.;Negatif
+679;Hasilnya biasa aja, gak ada efek besar.;Netral
+680;Aku suka banget, produk ini bikin kulitku lebih glowing!;Positif
+681;Teksturnya kurang nyaman, terlalu lengket di kulit.;Negatif
+682;Aku belum lihat hasil besar, tapi gak ada efek samping juga.;Netral
+683;Produk ini sangat melembabkan kulitku sepanjang hari!;Positif
+684;Malah bikin kulitku makin kering dan kasar.;Negatif
+685;Aku masih coba dan belum lihat efek signifikan.;Netral
+686;Kulitku lebih sehat dan kenyal setelah pakai ini!;Positif
+687;Wanginya terlalu kuat dan kurang nyaman dipakai.;Negatif
+688;Hasilnya belum kelihatan, mungkin butuh waktu lebih lama.;Netral
+689;Produk ini beneran bikin wajah makin cerah dan fresh!;Positif
+690;Aku kecewa, kulitku malah jadi iritasi.;Negatif
+691;Aku belum yakin, hasilnya masih biasa saja.;Netral
+692;Teksturnya ringan dan nyaman, aku suka banget!;Positif
+693;Sayang banget, malah bikin wajahku makin kusam.;Negatif
+694;Aku masih coba, efeknya belum terasa.;Netral
+695;Kulitku makin sehat dan glowing, produk ini bagus banget!;Positif
+696;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+697;Aku belum lihat perubahan besar, tapi sejauh ini cukup melembabkan.;Netral
+698;Produk ini bikin kulitku lebih kenyal dan segar!;Positif
+699;Aku kecewa karena gak ada efek yang aku harapkan.;Negatif
+700;Aku masih coba, mungkin perlu waktu lebih lama untuk melihat hasilnya.;Netral
+701;Hasilnya luar biasa, kulitku makin glowing!;Positif
+702;Malah bikin kulitku makin kering dan kasar.;Negatif
+703;Sejauh ini cukup oke, tapi aku masih ingin lihat hasil lebih besar.;Netral
+704;Produk ini bikin wajahku lebih sehat dan glowing, recommended!;Positif
+705;Sayang sekali, produk ini gak cocok buat kulitku.;Negatif
+706;Aku masih menunggu hasilnya, sejauh ini biasa saja.;Netral
+707;Teksturnya nyaman dan cepat meresap, aku suka banget!;Positif
+708;Malah bikin wajahku makin berminyak, aku gak suka.;Negatif
+709;Aku masih coba, efeknya belum terasa signifikan.;Netral
+710;Kulitku lebih cerah dan kenyal, aku suka banget produk ini!;Positif
+711;Aku kecewa karena malah bikin wajahku iritasi dan merah.;Negatif
+712;Sejauh ini gak ada efek samping, tapi juga belum ada perubahan besar.;Netral
+713;Produk ini sangat membantu menghidrasi kulitku sepanjang hari!;Positif
+714;Wanginya kurang enak menurutku, jadi kurang nyaman pakainya.;Negatif
+715;Aku masih coba, sejauh ini hasilnya biasa aja.;Netral
+716;Aku puas banget, kulitku terasa lebih halus dan glowing!;Positif
+717;Sayangnya bikin wajahku makin kusam.;Negatif
+718;Aku belum yakin, sejauh ini hasilnya biasa aja.;Netral
+719;Produk ini benar-benar melembabkan dan membuat kulit sehat!;Positif
+720;Aku kecewa karena produk ini bikin kulitku makin berminyak.;Negatif
+721;Aku masih menunggu hasilnya, sejauh ini gak ada perubahan signifikan.;Netral
+722;Hasilnya sesuai klaim, kulitku jadi lebih cerah dan lembab!;Positif
+723;Malah bikin kulitku iritasi, aku gak akan beli lagi.;Negatif
+724;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+725;Aku suka banget, hasilnya bikin kulit makin kenyal!;Positif
+726;Sayang banget, malah bikin wajahku makin kusam.;Negatif
+727;Sejauh ini cukup oke, tapi gak ada efek besar.;Netral
+728;Produk ini bikin wajahku makin cerah dan sehat!;Positif
+729;Wanginya terlalu kuat, aku kurang nyaman pakai ini.;Negatif
+730;Aku belum lihat hasil signifikan, tapi cukup melembabkan.;Netral
+731;Kulitku jadi lebih glowing dan segar setelah pakai ini!;Positif
+732;Aku kecewa, malah bikin wajahku berjerawat.;Negatif
+733;Aku masih coba, efeknya belum terlalu terlihat.;Netral
+734;Teksturnya ringan dan nyaman di kulit, suka banget!;Positif
+735;Sayang banget, produk ini bikin kulitku lebih kering.;Negatif
+736;Produk ini bikin wajahku lebih halus dan kenyal, suka banget!;Positif
+737;Teksturnya terlalu berat, aku kurang nyaman pakainya.;Negatif
+738;Aku masih coba, belum terlihat efek besar.;Netral
+739;Aku suka banget karena bikin wajahku lebih cerah!;Positif
+740;Sayang banget, malah bikin kulitku iritasi.;Negatif
+741;Hasilnya belum terlalu kelihatan, tapi cukup melembabkan.;Netral
+742;Produk ini bikin wajahku lebih sehat dan glowing!;Positif
+743;Aku kecewa karena gak sesuai ekspektasi.;Negatif
+744;Sejauh ini biasa aja, belum ada perubahan besar.;Netral
+745;Teksturnya ringan dan cepat menyerap, aku suka banget!;Positif
+746;Malah bikin wajahku berminyak, gak cocok buatku.;Negatif
+747;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+748;Hasilnya luar biasa, kulitku makin glowing!;Positif
+749;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+750;Aku belum yakin, hasilnya masih biasa saja.;Netral
+751;Kulitku terasa lebih fresh dan sehat setelah pakai ini!;Positif
+752;Sayang sekali, gak cocok buat kulit sensitif seperti aku.;Negatif
+753;Hasilnya biasa aja, gak ada efek besar.;Netral
+754;Aku suka banget, produk ini bikin kulitku lebih glowing!;Positif
+755;Teksturnya kurang nyaman, terlalu lengket di kulit.;Negatif
+756;Aku belum lihat hasil besar, tapi gak ada efek samping juga.;Netral
+757;Produk ini sangat melembabkan kulitku sepanjang hari!;Positif
+758;Malah bikin kulitku makin kering dan kasar.;Negatif
+759;Aku masih coba dan belum lihat efek signifikan.;Netral
+760;Kulitku lebih sehat dan kenyal setelah pakai ini!;Positif
+761;Wanginya terlalu kuat dan kurang nyaman dipakai.;Negatif
+762;Hasilnya belum kelihatan, mungkin butuh waktu lebih lama.;Netral
+763;Produk ini beneran bikin wajah makin cerah dan fresh!;Positif
+764;Aku kecewa, kulitku malah jadi iritasi.;Negatif
+765;Aku belum yakin, hasilnya masih biasa saja.;Netral
+766;Teksturnya ringan dan nyaman, aku suka banget!;Positif
+767;Sayang banget, malah bikin wajahku makin kusam.;Negatif
+768;Aku masih coba, efeknya belum terasa.;Netral
+769;Kulitku makin sehat dan glowing, produk ini bagus banget!;Positif
+770;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+771;Aku belum lihat perubahan besar, tapi sejauh ini cukup melembabkan.;Netral
+772;Produk ini bikin kulitku lebih kenyal dan segar!;Positif
+773;Aku kecewa karena gak ada efek yang aku harapkan.;Negatif
+774;Aku masih coba, mungkin perlu waktu lebih lama untuk melihat hasilnya.;Netral
+775;Hasilnya luar biasa, kulitku makin glowing!;Positif
+776;Malah bikin kulitku makin kering dan kasar.;Negatif
+777;Sejauh ini cukup oke, tapi aku masih ingin lihat hasil lebih besar.;Netral
+778;Produk ini bikin wajahku lebih sehat dan glowing, recommended!;Positif
+779;Sayang sekali, produk ini gak cocok buat kulitku.;Negatif
+780;Aku masih menunggu hasilnya, sejauh ini biasa saja.;Netral
+781;Teksturnya nyaman dan cepat meresap, aku suka banget!;Positif
+782;Malah bikin wajahku makin berminyak, aku gak suka.;Negatif
+783;Aku masih coba, efeknya belum terasa signifikan.;Netral
+784;Kulitku lebih cerah dan kenyal, aku suka banget produk ini!;Positif
+785;Aku kecewa karena malah bikin wajahku iritasi dan merah.;Negatif
+786;Sejauh ini gak ada efek samping, tapi juga belum ada perubahan besar.;Netral
+787;Produk ini sangat membantu menghidrasi kulitku sepanjang hari!;Positif
+788;Wanginya kurang enak menurutku, jadi kurang nyaman pakainya.;Negatif
+789;Aku masih coba, sejauh ini hasilnya biasa aja.;Netral
+790;Aku puas banget, kulitku terasa lebih halus dan glowing!;Positif
+791;Sayangnya bikin wajahku makin kusam.;Negatif
+792;Aku belum yakin, sejauh ini hasilnya biasa aja.;Netral
+793;Produk ini benar-benar melembabkan dan membuat kulit sehat!;Positif
+794;Aku kecewa karena produk ini bikin kulitku makin berminyak.;Negatif
+795;Aku masih menunggu hasilnya, sejauh ini gak ada perubahan signifikan.;Netral
+796;Hasilnya sesuai klaim, kulitku jadi lebih cerah dan lembab!;Positif
+797;Malah bikin kulitku iritasi, aku gak akan beli lagi.;Negatif
+798;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+799;Aku suka banget, hasilnya bikin kulit makin kenyal!;Positif
+800;Sayang banget, malah bikin wajahku makin kusam.;Negatif
+801;Sejauh ini cukup oke, tapi gak ada efek besar.;Netral
+802;Produk ini bikin wajahku makin cerah dan sehat!;Positif
+803;Wanginya terlalu kuat, aku kurang nyaman pakai ini.;Negatif
+804;Aku belum lihat hasil signifikan, tapi cukup melembabkan.;Netral
+805;Kulitku jadi lebih glowing dan segar setelah pakai ini!;Positif
+806;Aku kecewa, malah bikin wajahku berjerawat.;Negatif
+807;Aku masih coba, efeknya belum terlalu terlihat.;Netral
+808;Teksturnya ringan dan nyaman di kulit, suka banget!;Positif
+809;Sayang banget, produk ini bikin kulitku lebih kering.;Negatif
+810;Aku belum yakin, sejauh ini hasilnya masih biasa saja.;Netral
+811;Produk ini bikin kulitku lebih lembab dan sehat!;Positif
+812;Sayangnya, produk ini gak cocok untuk kulitku yang sensitif.;Negatif
+813;Aku masih coba, sejauh ini efeknya belum terlalu kelihatan.;Netral
+814;Aku suka banget, kulitku jadi lebih glowing dan halus!;Positif
+815;Wanginya terlalu kuat, bikin pusing saat dipakai.;Negatif
+816;Aku masih coba, hasilnya belum signifikan.;Netral
+817;Teksturnya ringan dan mudah meresap di kulit, suka banget!;Positif
+818;Sayangnya bikin kulitku lebih kering dari sebelumnya.;Negatif
+819;Aku masih coba dan belum lihat perubahan besar.;Netral
+820;Produk ini bikin wajahku makin cerah dalam beberapa minggu!;Positif
+821;Malah bikin wajahku iritasi, aku kecewa.;Negatif
+822;Aku masih nunggu hasilnya, mungkin butuh waktu lebih lama.;Netral
+823;Aku puas banget, hasilnya sesuai ekspektasi!;Positif
+824;Teksturnya lengket dan bikin gak nyaman di kulitku.;Negatif
+825;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+826;Kulitku terasa lebih lembab dan sehat sejak pakai ini!;Positif
+827;Wanginya kurang enak, aku kurang suka.;Negatif
+828;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+829;Produk ini benar-benar bikin wajah lebih glowing dan segar!;Positif
+830;Sayangnya, bikin kulitku lebih berminyak dari biasanya.;Negatif
+831;Aku belum lihat perubahan yang besar, mungkin butuh waktu lebih lama.;Netral
+832;Teksturnya ringan dan gampang meresap, aku suka banget!;Positif
+833;Produk ini bikin wajahku makin kusam, aku kecewa.;Negatif
+834;Aku masih coba dan belum lihat efek signifikan.;Netral
+835;Kulitku makin sehat dan kenyal setelah pakai ini!;Positif
+836;Sayangnya, bikin wajahku lebih sensitif dan merah-merah.;Negatif
+837;Aku masih nunggu hasilnya, sejauh ini cukup nyaman dipakai.;Netral
+838;Hasilnya luar biasa, kulitku lebih halus dan glowing!;Positif
+839;Wanginya terlalu menyengat, bikin gak nyaman pakai ini.;Negatif
+840;Aku belum lihat perubahan signifikan, tapi tetap nyaman digunakan.;Netral
+841;Produk ini sangat membantu menjaga kelembaban kulitku!;Positif
+842;Malah bikin kulitku gatal dan iritasi, gak cocok buatku.;Negatif
+843;Aku masih coba, mungkin butuh lebih lama untuk lihat hasilnya.;Netral
+844;Kulitku terasa lebih sehat dan segar setelah pakai ini!;Positif
+845;Teksturnya terlalu kental dan susah meresap di kulit.;Negatif
+846;Aku belum yakin, sejauh ini efeknya belum terlihat jelas.;Netral
+847;Aku suka banget! Produk ini bikin wajah lebih glowing dan sehat!;Positif
+848;Sayangnya, bikin wajahku makin berminyak.;Negatif
+849;Aku masih menunggu efeknya, sejauh ini cukup melembabkan.;Netral
+850;Produk ini benar-benar bikin kulit lebih fresh dan sehat!;Positif
+851;Wanginya terlalu kuat, bikin gak nyaman dipakai.;Negatif
+852;Aku belum lihat hasil yang signifikan, mungkin butuh waktu lebih lama.;Netral
+853;Teksturnya ringan dan enak dipakai, aku suka banget!;Positif
+854;Sayangnya, bikin wajahku lebih sensitif dan mudah merah.;Negatif
+855;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+856;Aku puas banget dengan hasilnya, sesuai klaim!;Positif
+857;Teksturnya lengket dan susah meresap, aku kurang suka.;Negatif
+858;Aku belum lihat efek besar, tapi sejauh ini cukup oke.;Netral
+859;Kulitku lebih lembut dan cerah setelah pakai ini!;Positif
+860;Malah bikin kulitku makin kering dan kusam, aku kecewa.;Negatif
+861;Aku masih coba, sejauh ini efeknya biasa aja.;Netral
+862;Produk ini sangat membantu kulitku tetap lembab seharian!;Positif
+863;Wanginya terlalu menyengat, bikin gak nyaman dipakai lama-lama.;Negatif
+864;Aku masih nunggu hasilnya, sejauh ini belum ada perubahan besar.;Netral
+865;Aku suka banget! Kulitku lebih kenyal dan segar!;Positif
+866;Sayangnya, bikin wajahku lebih berminyak.;Negatif
+867;Aku belum lihat hasil signifikan, tapi tetap nyaman dipakai.;Netral
+868;Produk ini bikin wajahku lebih cerah dan sehat!;Positif
+869;Teksturnya terlalu tebal dan lengket di kulit.;Negatif
+870;Aku masih coba, efeknya belum terlalu terasa.;Netral
+871;Hasilnya luar biasa, kulitku makin halus dan lembut!;Positif
+872;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+873;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+874;Produk ini bikin kulitku lebih glowing dan segar!;Positif
+875;Sayangnya bikin wajahku lebih kering dan kusam.;Negatif
+876;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+877;Teksturnya ringan dan nyaman digunakan!;Positif
+878;Malah bikin kulitku lebih sensitif dan merah.;Negatif
+879;Aku masih coba, sejauh ini gak ada efek samping.;Netral
+880;Aku suka banget! Kulitku makin cerah dan lembut!;Positif
+881;Produk ini benar-benar bikin kulitku lebih glowing dan sehat!;Positif
+882;Teksturnya terlalu berat dan lengket di kulitku.;Negatif
+883;Aku masih coba dan belum bisa lihat hasilnya dengan jelas.;Netral
+884;Wanginya lembut dan menenangkan, suka banget!;Positif
+885;Sayangnya, bikin wajahku semakin berminyak dan kusam.;Negatif
+886;Aku masih belum lihat efek signifikan, mungkin butuh waktu lebih lama.;Netral
+887;Kulitku jadi lebih halus dan cerah setelah rutin pakai ini!;Positif
+888;Malah bikin kulitku iritasi dan merah-merah, kecewa banget.;Negatif
+889;Aku masih coba, sejauh ini cukup nyaman di kulit.;Netral
+890;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+891;Wanginya terlalu kuat, bikin pusing setelah beberapa saat.;Negatif
+892;Aku belum lihat hasil yang jelas, tapi tetap nyaman dipakai.;Netral
+893;Hasilnya luar biasa, kulitku lebih sehat dan kenyal!;Positif
+894;Sayangnya, bikin kulitku jadi lebih kering dari sebelumnya.;Negatif
+895;Aku masih coba dan belum bisa kasih review pasti.;Netral
+896;Produk ini bikin kulitku lebih lembut dan cerah!;Positif
+897;Teksturnya terlalu tebal dan susah meresap, aku kurang suka.;Negatif
+898;Aku masih menunggu hasilnya, sejauh ini cukup melembabkan.;Netral
+899;Produk ini sangat membantu menjaga kelembaban kulitku seharian!;Positif
+900;Wanginya terlalu menyengat, bikin kurang nyaman dipakai.;Negatif
+901;Aku belum lihat perubahan besar, mungkin butuh waktu lebih lama.;Netral
+902;Hasilnya sesuai klaim, kulitku lebih glowing dan sehat!;Positif
+903;Malah bikin wajahku makin sensitif, jadi gak cocok buatku.;Negatif
+904;Aku masih coba dan belum lihat efek signifikan.;Netral
+905;Produk ini benar-benar bikin kulitku lebih fresh dan kenyal!;Positif
+906;Teksturnya terlalu berminyak, bikin kulitku gak nyaman.;Negatif
+907;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+908;Aku puas banget dengan hasilnya, sesuai ekspektasi!;Positif
+909;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+910;Aku masih coba, sejauh ini efeknya belum terasa.;Netral
+911;Kulitku lebih sehat dan cerah setelah pakai ini!;Positif
+912;Sayangnya, bikin wajahku makin kusam dan berminyak.;Negatif
+913;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+914;Teksturnya ringan dan nyaman digunakan!;Positif
+915;Malah bikin wajahku makin kering dan terasa ketarik.;Negatif
+916;Aku masih nunggu hasilnya, sejauh ini cukup oke.;Netral
+917;Produk ini bikin wajahku lebih glowing dan segar!;Positif
+918;Wanginya terlalu kuat, bikin gak nyaman dipakai lama-lama.;Negatif
+919;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat efeknya.;Netral
+920;Aku suka banget! Kulitku makin lembut dan sehat!;Positif
+921;Sayangnya, bikin wajahku jadi lebih sensitif.;Negatif
+922;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+923;Hasilnya luar biasa, kulitku makin cerah dan halus!;Positif
+924;Teksturnya terlalu berat, kurang nyaman dipakai sehari-hari.;Negatif
+925;Aku masih coba dan belum lihat hasilnya dengan jelas.;Netral
+926;Produk ini sangat melembabkan, cocok banget buat kulit kering!;Positif
+927;Malah bikin jerawatku makin parah, aku kecewa.;Negatif
+928;Aku masih coba, mungkin butuh waktu lebih lama untuk melihat hasilnya.;Netral
+929;Kulitku makin sehat dan segar setelah pakai ini!;Positif
+930;Wanginya kurang enak, aku kurang suka.;Negatif
+931;Aku belum lihat efek besar, tapi sejauh ini cukup oke.;Netral
+932;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+933;Sayangnya, bikin wajahku lebih sensitif dan merah-merah.;Negatif
+934;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+935;Aku puas banget dengan hasilnya, sesuai klaim!;Positif
+936;Teksturnya lengket dan susah meresap, aku kurang suka.;Negatif
+937;Aku belum lihat efek besar, tapi sejauh ini cukup nyaman digunakan.;Netral
+938;Produk ini sangat membantu kulitku tetap lembab seharian!;Positif
+939;Wanginya terlalu menyengat, bikin gak nyaman dipakai lama-lama.;Negatif
+940;Aku masih nunggu hasilnya, sejauh ini belum ada perubahan besar.;Netral
+941;Aku suka banget! Kulitku lebih kenyal dan segar!;Positif
+942;Sayangnya, bikin wajahku lebih berminyak dari biasanya.;Negatif
+943;Aku belum lihat hasil signifikan, tapi tetap nyaman dipakai.;Netral
+944;Produk ini bikin wajahku lebih cerah dan sehat!;Positif
+945;Teksturnya terlalu tebal dan lengket di kulit.;Negatif
+946;Aku masih coba, efeknya belum terlalu terasa.;Netral
+947;Hasilnya luar biasa, kulitku makin halus dan lembut!;Positif
+948;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+949;Aku masih coba, mungkin butuh waktu lebih lama.;Netral
+950;Produk ini bikin kulitku lebih glowing dan segar!;Positif
+951;Sayangnya bikin wajahku lebih kering dan kusam.;Negatif
+952;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+953;Teksturnya ringan dan nyaman digunakan!;Positif
+954;Malah bikin kulitku lebih sensitif dan merah.;Negatif
+955;Aku masih coba, sejauh ini gak ada efek samping.;Netral
+956;Produk ini bikin kulitku makin cerah dan sehat, aku suka banget!;Positif
+957;Teksturnya terlalu berat, bikin kulit terasa lengket seharian.;Negatif
+958;Aku masih coba, sejauh ini cukup nyaman tapi belum ada perubahan besar.;Netral
+959;Kulitku jadi lebih glowing setelah rutin pakai ini!;Positif
+960;Wanginya terlalu menyengat, aku kurang nyaman pakai lama-lama.;Negatif
+961;Aku belum lihat efek besar, tapi sejauh ini cukup melembabkan.;Netral
+962;Produk ini beneran bikin kulitku lebih halus dan kenyal!;Positif
+963;Sayangnya malah bikin kulitku iritasi dan merah-merah.;Negatif
+964;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+965;Aku suka banget! Kulitku jadi lebih sehat dan segar.;Positif
+966;Malah bikin jerawatku muncul lebih banyak, kecewa banget.;Negatif
+967;Aku masih coba dan belum bisa kasih review pasti.;Netral
+968;Hasilnya luar biasa, kulitku makin lembab dan bercahaya!;Positif
+969;Teksturnya terlalu berminyak, gak nyaman di kulitku.;Negatif
+970;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+971;Wanginya enak banget, bikin rileks setiap pakai.;Positif
+972;Sayangnya, produk ini gak cocok di kulitku, malah jadi kering.;Negatif
+973;Aku masih coba dan belum lihat efek signifikan.;Netral
+974;Produk ini sangat melembabkan, cocok buat kulit kering.;Positif
+975;Malah bikin wajahku makin berminyak dan lengket, aku kurang suka.;Negatif
+976;Aku belum lihat hasilnya, tapi teksturnya cukup nyaman.;Netral
+977;Kulitku makin halus setelah pakai ini beberapa minggu!;Positif
+978;Wanginya terlalu kuat, bikin kurang nyaman buat dipakai lama-lama.;Negatif
+979;Aku masih coba, sejauh ini cukup baik tapi belum ada perubahan besar.;Netral
+980;Produk ini benar-benar sesuai klaimnya, kulitku lebih glowing!;Positif
+981;Sayangnya bikin kulitku makin kusam, gak cocok buatku.;Negatif
+982;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+983;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+984;Malah bikin wajahku makin kering dan ketarik.;Negatif
+985;Aku masih menunggu efeknya, sejauh ini cukup nyaman digunakan.;Netral
+986;Aku puas banget dengan hasilnya, kulit jadi lebih kenyal dan sehat!;Positif
+987;Sayangnya bikin wajahku lebih sensitif dan merah-merah.;Negatif
+988;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+989;Produk ini membantu mengurangi jerawatku, aku senang banget!;Positif
+990;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+991;Aku masih coba dan belum lihat hasil signifikan.;Netral
+992;Hasilnya luar biasa, kulitku makin cerah dan sehat!;Positif
+993;Teksturnya terlalu tebal, kurang nyaman untuk kulitku.;Negatif
+994;Aku masih coba, sejauh ini cukup oke tapi belum ada efek besar.;Netral
+995;Kulitku lebih glowing dan terasa kenyal setelah pakai ini!;Positif
+996;Sayangnya, bikin kulitku lebih berminyak dari biasanya.;Negatif
+997;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+998;Produk ini bikin wajahku makin segar dan sehat!;Positif
+999;Malah bikin jerawat makin banyak, aku kecewa.;Negatif
+1000;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat hasilnya.;Netral
+1001;Teksturnya lembut dan cepat menyerap, enak banget di kulit!;Positif
+1002;Wanginya terlalu kuat, bikin kurang nyaman digunakan.;Negatif
+1003;Aku belum lihat efek besar, tapi teksturnya enak di kulit.;Netral
+1004;Produk ini benar-benar bikin kulitku lebih glowing dan lembut!;Positif
+1005;Sayangnya, bikin wajahku makin kering dan ketarik.;Negatif
+1006;Aku masih coba dan belum lihat perubahan besar.;Netral
+1007;Hasilnya sesuai klaim, kulitku jadi lebih sehat dan lembab!;Positif
+1008;Teksturnya terlalu lengket, kurang nyaman buat aku.;Negatif
+1009;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1010;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1011;Wanginya kurang cocok buatku, terlalu kuat.;Negatif
+1012;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1013;Aku suka banget! Kulitku lebih kenyal dan lembut.;Positif
+1014;Malah bikin kulitku jadi lebih sensitif, kurang cocok buatku.;Negatif
+1015;Aku belum lihat efek besar, tapi sejauh ini cukup nyaman digunakan.;Netral
+1016;Produk ini bikin kulitku lebih sehat dan glowing!;Positif
+1017;Sayangnya, bikin wajahku makin berminyak dan kusam.;Negatif
+1018;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1019;Teksturnya ringan dan nyaman, aku suka banget!;Positif
+1020;Wanginya terlalu kuat buatku, jadi kurang nyaman.;Negatif
+1021;Aku masih coba dan belum lihat efek besar.;Netral
+1022;Produk ini benar-benar melembabkan dan bikin kulit lebih halus!;Positif
+1023;Sayangnya bikin wajahku makin kering dan kasar.;Negatif
+1024;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat hasilnya.;Netral
+1025;Aku suka banget! Kulitku lebih sehat dan bercahaya!;Positif
+1026;Malah bikin jerawatku makin banyak, kecewa banget.;Negatif
+1027;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1028;Teksturnya ringan dan cepat menyerap, nyaman banget di kulit!;Positif
+1029;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1030;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1031;Produk ini sangat membantu menjaga kelembaban kulitku seharian!;Positif
+1032;Teksturnya terlalu berat, bikin kulit terasa lengket seharian.;Negatif
+1033;Aku masih coba, sejauh ini cukup nyaman tapi belum ada perubahan besar.;Netral
+1034;Kulitku jadi lebih glowing setelah rutin pakai ini!;Positif
+1035;Wanginya terlalu menyengat, aku kurang nyaman pakai lama-lama.;Negatif
+1036;Aku belum lihat efek besar, tapi sejauh ini cukup melembabkan.;Netral
+1037;Produk ini beneran bikin kulitku lebih halus dan kenyal!;Positif
+1038;Sayangnya malah bikin kulitku iritasi dan merah-merah.;Negatif
+1039;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1040;Aku suka banget! Kulitku jadi lebih sehat dan segar.;Positif
+1041;Malah bikin jerawatku muncul lebih banyak, kecewa banget.;Negatif
+1042;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1043;Hasilnya luar biasa, kulitku makin lembab dan bercahaya!;Positif
+1044;Teksturnya terlalu berminyak, gak nyaman di kulitku.;Negatif
+1045;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1046;Wanginya enak banget, bikin rileks setiap pakai.;Positif
+1047;Sayangnya, produk ini gak cocok di kulitku, malah jadi kering.;Negatif
+1048;Aku masih coba dan belum lihat efek signifikan.;Netral
+1049;Produk ini sangat melembabkan, cocok buat kulit kering.;Positif
+1050;Malah bikin wajahku makin berminyak dan lengket, aku kurang suka.;Negatif
+1051;Aku belum lihat hasilnya, tapi teksturnya cukup nyaman.;Netral
+1052;Kulitku makin halus setelah pakai ini beberapa minggu!;Positif
+1053;Wanginya terlalu kuat, bikin kurang nyaman buat dipakai lama-lama.;Negatif
+1054;Aku masih coba, sejauh ini cukup baik tapi belum ada efek besar.;Netral
+1055;Produk ini benar-benar sesuai klaimnya, kulitku lebih glowing!;Positif
+1056;Sayangnya bikin kulitku makin kusam, gak cocok buatku.;Negatif
+1057;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1058;Teksturnya ringan dan cepat meresap, aku suka banget!;Positif
+1059;Malah bikin wajahku makin kering dan ketarik.;Negatif
+1060;Aku masih menunggu efeknya, sejauh ini cukup nyaman digunakan.;Netral
+1061;Aku puas banget dengan hasilnya, kulit jadi lebih kenyal dan sehat!;Positif
+1062;Sayangnya bikin wajahku lebih sensitif dan merah-merah.;Negatif
+1063;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1064;Produk ini membantu mengurangi jerawatku, aku senang banget!;Positif
+1065;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1066;Aku masih coba dan belum lihat hasil signifikan.;Netral
+1067;Hasilnya luar biasa, kulitku makin cerah dan sehat!;Positif
+1068;Teksturnya terlalu tebal, kurang nyaman untuk kulitku.;Negatif
+1069;Aku masih coba, sejauh ini cukup oke tapi belum ada efek besar.;Netral
+1070;Kulitku lebih glowing dan terasa kenyal setelah pakai ini!;Positif
+1071;Sayangnya, bikin kulitku lebih berminyak dari biasanya.;Negatif
+1072;Aku belum yakin, sejauh ini efeknya biasa saja.;Netral
+1073;Produk ini bikin wajahku makin segar dan sehat!;Positif
+1074;Malah bikin jerawat makin banyak, aku kecewa.;Negatif
+1075;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat hasilnya.;Netral
+1076;Teksturnya lembut dan cepat menyerap, enak banget di kulit!;Positif
+1077;Wanginya terlalu kuat, bikin kurang nyaman digunakan.;Negatif
+1078;Aku belum lihat efek besar, tapi teksturnya enak di kulit.;Netral
+1079;Produk ini benar-benar bikin kulitku lebih glowing dan lembut!;Positif
+1080;Sayangnya, bikin wajahku makin kering dan ketarik.;Negatif
+1081;Aku masih coba dan belum lihat perubahan besar.;Netral
+1082;Hasilnya sesuai klaim, kulitku jadi lebih sehat dan lembab!;Positif
+1083;Teksturnya terlalu lengket, kurang nyaman buat aku.;Negatif
+1084;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1085;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1086;Wanginya kurang cocok buatku, terlalu kuat.;Negatif
+1087;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1088;Aku suka banget! Kulitku lebih kenyal dan lembut.;Positif
+1089;Malah bikin kulitku jadi lebih sensitif, kurang cocok buatku.;Negatif
+1090;Aku belum lihat efek besar, tapi sejauh ini cukup nyaman digunakan.;Netral
+1091;Produk ini bikin kulitku lebih sehat dan glowing!;Positif
+1092;Sayangnya, bikin wajahku makin berminyak dan kusam.;Negatif
+1093;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1094;Teksturnya ringan dan nyaman, aku suka banget!;Positif
+1095;Wanginya terlalu kuat buatku, jadi kurang nyaman.;Negatif
+1096;Aku masih coba dan belum lihat efek besar.;Netral
+1097;Produk ini benar-benar melembabkan dan bikin kulit lebih halus!;Positif
+1098;Sayangnya bikin wajahku makin kering dan kasar.;Negatif
+1099;Aku masih coba, mungkin butuh waktu lebih lama untuk lihat hasilnya.;Netral
+1100;Aku suka banget! Kulitku lebih sehat dan bercahaya!;Positif
+1101;Malah bikin jerawatku makin banyak, kecewa banget.;Negatif
+1102;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1103;Produk ini benar-benar membantu mengurangi jerawatku!;Positif
+1104;Teksturnya lengket dan tidak nyaman di wajahku.;Negatif
+1105;Aku baru coba sebentar, sejauh ini cukup oke.;Netral
+1106;Kulitku jadi lebih cerah dan sehat setelah rutin pakai ini!;Positif
+1107;Wanginya terlalu kuat, bikin pusing kalau dipakai lama-lama.;Negatif
+1108;Aku belum lihat hasil signifikan, mungkin butuh waktu lebih lama.;Netral
+1109;Produk ini sangat melembabkan kulitku, aku suka!;Positif
+1110;Sayangnya bikin kulitku makin berminyak dan kusam.;Negatif
+1111;Aku masih coba, sejauh ini cukup nyaman.;Netral
+1112;Aku puas banget! Kulitku lebih glowing dan halus.;Positif
+1113;Malah bikin kulitku lebih sensitif dan kemerahan.;Negatif
+1114;Aku masih mencoba, belum ada perubahan besar.;Netral
+1115;Teksturnya ringan dan cepat menyerap, nyaman banget!;Positif
+1116;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1117;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1118;Hasilnya luar biasa, kulitku makin kenyal dan sehat!;Positif
+1119;Sayangnya malah bikin jerawatku tambah banyak.;Negatif
+1120;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1121;Produk ini sesuai klaim, benar-benar bikin kulit lebih lembab!;Positif
+1122;Teksturnya terlalu tebal, gak nyaman buat aku.;Negatif
+1123;Aku belum lihat efek besar, tapi tetap enak dipakai.;Netral
+1124;Kulitku lebih halus setelah pakai ini beberapa minggu!;Positif
+1125;Wanginya terlalu kuat, kurang nyaman buatku.;Negatif
+1126;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1127;Aku suka banget! Produk ini bikin kulitku lebih glowing.;Positif
+1128;Malah bikin kulitku makin kering dan iritasi.;Negatif
+1129;Aku masih coba, mungkin butuh waktu lebih lama untuk melihat hasilnya.;Netral
+1130;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1131;Sayangnya bikin kulitku lebih sensitif dan merah-merah.;Negatif
+1132;Aku masih coba, sejauh ini cukup baik.;Netral
+1133;Teksturnya ringan dan nyaman, enak banget di kulit!;Positif
+1134;Wanginya kurang cocok buatku, terlalu tajam.;Negatif
+1135;Aku belum lihat perubahan besar, tapi tetap nyaman dipakai.;Netral
+1136;Produk ini benar-benar melembabkan dan bikin kulit lebih halus!;Positif
+1137;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1138;Aku masih coba dan belum lihat efek besar.;Netral
+1139;Aku puas banget! Kulitku lebih sehat dan kenyal.;Positif
+1140;Sayangnya, bikin wajahku lebih kusam dari sebelumnya.;Negatif
+1141;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1142;Produk ini sangat melembabkan, cocok buat kulit kering!;Positif
+1143;Teksturnya terlalu berat dan lengket di wajah.;Negatif
+1144;Aku belum lihat hasilnya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1145;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1146;Malah bikin jerawat makin banyak, kecewa banget.;Negatif
+1147;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1148;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1149;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1150;Aku masih coba, sejauh ini cukup oke tapi belum ada efek besar.;Netral
+1151;Produk ini bikin kulitku makin cerah dan segar!;Positif
+1152;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1153;Aku belum lihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1154;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1155;Malah bikin wajahku iritasi dan gatal.;Negatif
+1156;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1157;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1158;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1159;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1160;Kulitku makin lembab dan halus setelah pakai ini!;Positif
+1161;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1162;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1163;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1164;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1165;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1166;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1167;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1168;Aku masih coba dan belum lihat efek besar.;Netral
+1169;Aku suka banget! Kulitku lebih sehat dan bercahaya!;Positif
+1170;Malah bikin jerawatku makin banyak, kecewa banget.;Negatif
+1171;Aku belum lihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1172;Produk ini benar-benar melembabkan dan bikin kulit lebih halus!;Positif
+1173;Sayangnya bikin wajahku makin berminyak dan kusam.;Negatif
+1174;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1175;Produk ini sangat bagus, kulit wajah saya terasa lebih halus!;Positif
+1176;Saya tidak melihat perubahan signifikan setelah menggunakan produk ini.;Netral
+1177;Harganya terlalu mahal untuk kualitas yang diberikan.;Negatif
+1178;Aroma produknya sangat menyenangkan, saya suka!;Positif
+1179;Kemasannya rusak saat sampai, sangat kecewa.;Negatif
+1180;Cukup lumayan, tapi belum ada efek yang luar biasa.;Netral
+1181;Produk ini membuat kulit saya terlihat lebih cerah.;Positif
+1182;Tidak cocok dengan kulit saya, malah jadi iritasi.;Negatif
+1183;Hasilnya biasa saja, tidak terlalu istimewa.;Netral
+1184;Saya puas dengan produk ini, worth it!;Positif
+1185;Produk ini benar-benar membantu menghidrasi kulitku dengan baik!;Positif
+1186;Teksturnya lengket dan tidak nyaman di kulitku.;Negatif
+1187;Aku masih coba, sejauh ini cukup oke.;Netral
+1188;Kulitku jadi lebih cerah dan sehat setelah rutin pakai ini!;Positif
+1189;Wanginya terlalu kuat dan mengganggu.;Negatif
+1190;Aku belum melihat hasil signifikan, mungkin butuh waktu lebih lama.;Netral
+1191;Produk ini sangat melembapkan kulitku, aku suka!;Positif
+1192;Sayangnya bikin kulitku makin berminyak dan kusam.;Negatif
+1193;Aku masih coba, sejauh ini cukup nyaman.;Netral
+1194;Aku puas banget! Kulitku lebih glowing dan halus.;Positif
+1195;Malah bikin kulitku lebih sensitif dan kemerahan.;Negatif
+1196;Aku masih mencoba, belum ada perubahan besar.;Netral
+1197;Teksturnya ringan dan cepat menyerap, nyaman banget!;Positif
+1198;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1199;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1200;Hasilnya luar biasa, kulitku makin kenyal dan sehat!;Positif
+1201;Sayangnya malah bikin jerawatku tambah banyak.;Negatif
+1202;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1203;Produk ini sesuai klaim, benar-benar bikin kulit lebih lembap!;Positif
+1204;Teksturnya terlalu tebal, gak nyaman buat aku.;Negatif
+1205;Aku belum lihat efek besar, tapi tetap enak dipakai.;Netral
+1206;Kulitku lebih halus setelah pakai ini beberapa minggu!;Positif
+1207;Wanginya terlalu kuat, kurang nyaman buatku.;Negatif
+1208;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1209;Aku suka banget! Produk ini bikin kulitku lebih glowing.;Positif
+1210;Malah bikin kulitku makin kering dan iritasi.;Negatif
+1211;Aku masih coba, mungkin butuh waktu lebih lama untuk melihat hasilnya.;Netral
+1212;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1213;Sayangnya bikin kulitku lebih sensitif dan merah-merah.;Negatif
+1214;Aku masih coba, sejauh ini cukup baik.;Netral
+1215;Teksturnya ringan dan nyaman, enak banget di kulit!;Positif
+1216;Wanginya kurang cocok buatku, terlalu tajam.;Negatif
+1217;Aku belum lihat perubahan besar, tapi tetap nyaman dipakai.;Netral
+1218;Produk ini benar-benar melembapkan dan bikin kulit lebih halus!;Positif
+1219;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1220;Aku masih coba dan belum lihat efek besar.;Netral
+1221;Aku puas banget! Kulitku lebih sehat dan kenyal.;Positif
+1222;Sayangnya, bikin wajahku lebih kusam dari sebelumnya.;Negatif
+1223;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1224;Produk ini sangat melembapkan, cocok buat kulit kering!;Positif
+1225;Teksturnya terlalu berat dan lengket di wajah.;Negatif
+1226;Aku belum lihat hasilnya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1227;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1228;Malah bikin jerawat makin banyak, kecewa banget.;Negatif
+1229;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1230;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1231;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1232;Aku masih coba, sejauh ini cukup oke tapi belum ada efek besar.;Netral
+1233;Produk ini bikin kulitku makin cerah dan segar!;Positif
+1234;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1235;Aku belum lihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1236;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1237;Malah bikin wajahku iritasi dan gatal.;Negatif
+1238;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1239;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1240;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1241;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1242;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1243;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1244;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1245;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1246;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1247;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1248;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1249;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1250;Aku masih coba dan belum lihat efek besar.;Netral
+1251;Produk ini benar-benar membantu menghidrasi kulitku dengan baik!;Positif
+1252;Teksturnya lengket dan tidak nyaman di kulitku.;Negatif
+1253;Aku masih coba, sejauh ini cukup oke.;Netral
+1254;Kulitku jadi lebih cerah dan sehat setelah rutin pakai ini!;Positif
+1255;Wanginya terlalu kuat dan mengganggu.;Negatif
+1256;Aku belum melihat hasil signifikan, mungkin butuh waktu lebih lama.;Netral
+1257;Produk ini sangat melembapkan kulitku, aku suka!;Positif
+1258;Sayangnya bikin kulitku makin berminyak dan kusam.;Negatif
+1259;Aku masih coba, sejauh ini cukup nyaman.;Netral
+1260;Aku puas banget! Kulitku lebih glowing dan halus.;Positif
+1261;Malah bikin kulitku lebih sensitif dan kemerahan.;Negatif
+1262;Aku masih mencoba, belum ada perubahan besar.;Netral
+1263;Teksturnya ringan dan cepat menyerap, nyaman banget!;Positif
+1264;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1265;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1266;Hasilnya luar biasa, kulitku makin kenyal dan sehat!;Positif
+1267;Sayangnya malah bikin jerawatku tambah banyak.;Negatif
+1268;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1269;Produk ini sesuai klaim, benar-benar bikin kulit lebih lembap!;Positif
+1270;Teksturnya terlalu tebal, gak nyaman buat aku.;Negatif
+1271;Aku belum lihat efek besar, tapi tetap enak dipakai.;Netral
+1272;Kulitku lebih halus setelah pakai ini beberapa minggu!;Positif
+1273;Wanginya terlalu kuat, kurang nyaman buatku.;Negatif
+1274;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1275;Aku suka banget! Produk ini bikin kulitku lebih glowing.;Positif
+1276;Malah bikin kulitku makin kering dan iritasi.;Negatif
+1277;Aku masih coba, mungkin butuh waktu lebih lama untuk melihat hasilnya.;Netral
+1278;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1279;Sayangnya bikin kulitku lebih sensitif dan merah-merah.;Negatif
+1280;Aku masih coba, sejauh ini cukup baik.;Netral
+1281;Teksturnya ringan dan nyaman, enak banget di kulit!;Positif
+1282;Wanginya kurang cocok buatku, terlalu tajam.;Negatif
+1283;Aku belum lihat perubahan besar, tapi tetap nyaman dipakai.;Netral
+1284;Produk ini benar-benar melembapkan dan bikin kulit lebih halus!;Positif
+1285;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1286;Aku masih coba dan belum lihat efek besar.;Netral
+1287;Aku puas banget! Kulitku lebih sehat dan kenyal.;Positif
+1288;Sayangnya, bikin wajahku lebih kusam dari sebelumnya.;Negatif
+1289;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1290;Produk ini sangat melembapkan, cocok buat kulit kering!;Positif
+1291;Teksturnya terlalu berat dan lengket di wajah.;Negatif
+1292;Aku belum lihat hasilnya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1293;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1294;Malah bikin jerawat makin banyak, kecewa banget.;Negatif
+1295;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1296;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1297;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1298;Aku masih coba, sejauh ini cukup oke tapi belum ada efek besar.;Netral
+1299;Produk ini bikin kulitku makin cerah dan segar!;Positif
+1300;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1301;Aku belum lihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1302;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1303;Malah bikin wajahku iritasi dan gatal.;Negatif
+1304;Aku masih coba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1305;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1306;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1307;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1308;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1309;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1310;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1311;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1312;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1313;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1314;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1315;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1316;Aku masih coba dan belum lihat efek besar.;Netral
+1317;Produk ini benar-benar melembapkan kulitku dengan sempurna!;Positif
+1318;Malah bikin kulit wajahku terasa lengket sepanjang hari.;Negatif
+1319;Aku belum melihat perubahan besar, masih dalam tahap mencoba.;Netral
+1320;Produk ini benar-benar membuat kulitku lebih cerah dan sehat!;Positif
+1321;Teksturnya terlalu berminyak dan lengket di kulitku.;Negatif
+1322;Aku masih mencoba, sejauh ini cukup baik.;Netral
+1323;Kulitku lebih halus dan kenyal setelah rutin memakai ini!;Positif
+1324;Wanginya terlalu kuat, aku tidak suka.;Negatif
+1325;Aku belum melihat efek signifikan, mungkin butuh waktu lebih lama.;Netral
+1326;Produk ini sangat melembapkan dan nyaman digunakan.;Positif
+1327;Malah bikin kulitku makin berminyak dan muncul jerawat.;Negatif
+1328;Aku masih coba, sejauh ini cukup nyaman.;Netral
+1329;Aku suka banget! Kulitku jadi lebih glowing dan lembut.;Positif
+1330;Malah bikin kulitku semakin sensitif dan muncul iritasi.;Negatif
+1331;Aku belum merasakan perubahan yang besar.;Netral
+1332;Teksturnya ringan dan cepat menyerap, sangat nyaman!;Positif
+1333;Wanginya tidak sesuai ekspektasi, terlalu menyengat.;Negatif
+1334;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1335;Hasilnya luar biasa, kulitku jadi lebih sehat dan kenyal!;Positif
+1336;Sayangnya malah bikin wajahku tambah kering.;Negatif
+1337;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1338;Produk ini sangat melembapkan kulitku, aku suka!;Positif
+1339;Teksturnya terlalu tebal dan susah meresap di kulit.;Negatif
+1340;Aku belum melihat hasil signifikan, tapi tetap enak dipakai.;Netral
+1341;Kulitku lebih halus setelah memakai produk ini beberapa minggu!;Positif
+1342;Wanginya terlalu kuat dan mengganggu.;Negatif
+1343;Aku masih coba, belum bisa memastikan efeknya.;Netral
+1344;Aku suka banget! Produk ini bikin wajahku lebih cerah.;Positif
+1345;Malah bikin wajahku lebih berminyak dan muncul banyak jerawat.;Negatif
+1346;Aku masih mencoba, mungkin butuh lebih lama untuk hasilnya.;Netral
+1347;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1348;Sayangnya malah bikin kulitku lebih kering dan kasar.;Negatif
+1349;Aku masih coba, sejauh ini cukup baik.;Netral
+1350;Teksturnya ringan dan nyaman di kulit.;Positif
+1351;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1352;Aku belum melihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1353;Produk ini benar-benar melembapkan kulitku dengan baik!;Positif
+1354;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1355;Aku masih coba dan belum lihat efek besar.;Netral
+1356;Aku puas banget! Kulitku lebih sehat dan glowing.;Positif
+1357;Sayangnya, bikin wajahku lebih kusam dari sebelumnya.;Negatif
+1358;Aku masih mencoba, mungkin butuh lebih lama untuk melihat efeknya.;Netral
+1359;Produk ini sangat cocok buat kulit keringku!;Positif
+1360;Teksturnya terlalu berat dan lengket di wajah.;Negatif
+1361;Aku belum melihat efeknya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1362;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1363;Malah bikin jerawat makin banyak, sangat mengecewakan.;Negatif
+1364;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1365;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1366;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1367;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1368;Produk ini bikin kulitku lebih cerah dan sehat!;Positif
+1369;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1370;Aku belum melihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1371;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1372;Malah bikin wajahku iritasi dan gatal.;Negatif
+1373;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1374;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1375;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1376;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1377;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1378;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1379;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1380;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1381;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1382;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1383;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1384;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1385;Aku masih coba dan belum lihat efek besar.;Netral
+1386;Produk ini benar-benar melembapkan kulitku dengan sempurna!;Positif
+1387;Malah bikin kulit wajahku terasa lengket sepanjang hari.;Negatif
+1388;Aku belum melihat perubahan besar, masih dalam tahap mencoba.;Netral
+1389;Produk ini benar-benar membuat kulitku lebih lembut dan sehat!;Positif
+1390;Teksturnya terlalu berminyak dan tidak nyaman di kulit.;Negatif
+1391;Aku masih mencoba, sejauh ini tidak ada masalah.;Netral
+1392;Kulitku lebih cerah dan segar setelah rutin menggunakan ini!;Positif
+1393;Wanginya terlalu kuat, kurang nyaman buatku.;Negatif
+1394;Aku belum melihat efek signifikan, tapi tetap aku pakai.;Netral
+1395;Produk ini sangat melembapkan kulit keringku!;Positif
+1396;Malah bikin kulitku makin berminyak dan muncul jerawat.;Negatif
+1397;Aku masih coba, sejauh ini cukup baik.;Netral
+1398;Aku suka banget! Kulitku jadi lebih glowing dan lembut.;Positif
+1399;Malah bikin kulitku semakin sensitif dan muncul iritasi.;Negatif
+1400;Aku belum merasakan perubahan yang besar.;Netral
+1401;Teksturnya ringan dan cepat menyerap, sangat nyaman!;Positif
+1402;Wanginya tidak sesuai ekspektasi, terlalu menyengat.;Negatif
+1403;Aku masih menunggu hasilnya, sejauh ini cukup oke.;Netral
+1404;Hasilnya luar biasa, kulitku jadi lebih sehat dan kenyal!;Positif
+1405;Sayangnya malah bikin wajahku tambah kering.;Negatif
+1406;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1407;Produk ini sangat melembapkan kulitku, aku suka!;Positif
+1408;Teksturnya terlalu tebal dan susah meresap di kulit.;Negatif
+1409;Aku belum melihat hasil signifikan, tapi tetap enak dipakai.;Netral
+1410;Kulitku lebih halus setelah memakai produk ini beberapa minggu!;Positif
+1411;Wanginya terlalu kuat dan mengganggu.;Negatif
+1412;Aku masih coba, belum bisa memastikan efeknya.;Netral
+1413;Aku suka banget! Produk ini bikin wajahku lebih cerah.;Positif
+1414;Malah bikin wajahku lebih berminyak dan muncul banyak jerawat.;Negatif
+1415;Aku masih mencoba, mungkin butuh lebih lama untuk hasilnya.;Netral
+1416;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1417;Sayangnya malah bikin kulitku lebih kering dan kasar.;Negatif
+1418;Aku masih coba, sejauh ini cukup baik.;Netral
+1419;Teksturnya ringan dan nyaman di kulit.;Positif
+1420;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1421;Aku belum melihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1422;Produk ini benar-benar melembapkan kulitku dengan baik!;Positif
+1423;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1424;Aku masih coba dan belum lihat efek besar.;Netral
+1425;Aku puas banget! Kulitku lebih sehat dan glowing.;Positif
+1426;Sayangnya, bikin wajahku lebih kusam dari sebelumnya.;Negatif
+1427;Aku masih mencoba, mungkin butuh lebih lama untuk melihat efeknya.;Netral
+1428;Produk ini sangat cocok buat kulit keringku!;Positif
+1429;Teksturnya terlalu berat dan lengket di wajah.;Negatif
+1430;Aku belum melihat efeknya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1431;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1432;Malah bikin jerawat makin banyak, sangat mengecewakan.;Negatif
+1433;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1434;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1435;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1436;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1437;Produk ini bikin kulitku lebih cerah dan sehat!;Positif
+1438;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1439;Aku belum melihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1440;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1441;Malah bikin wajahku iritasi dan gatal.;Negatif
+1442;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1443;Produk ini bikin wajahku lebih fresh setiap pagi!;Positif
+1444;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1445;Aku masih coba, sejauh ini cukup nyaman tapi belum ada efek signifikan.;Netral
+1446;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1447;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1448;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1449;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1450;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1451;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1452;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1453;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1454;Aku masih coba dan belum lihat efek besar.;Netral
+1455;Produk ini benar-benar melembapkan kulitku dengan sempurna!;Positif
+1456;Malah bikin kulit wajahku terasa lengket sepanjang hari.;Negatif
+1457;Aku belum melihat perubahan besar, masih dalam tahap mencoba.;Netral
+1458;Aku sangat suka produk ini! Kulitku jadi lebih lembut dan sehat.;Positif
+1459;Produk ini terlalu berminyak untuk kulitku, tidak nyaman dipakai.;Negatif
+1460;Aku masih menunggu hasilnya, sejauh ini cukup baik.;Netral
+1461;Produk ini bikin wajahku lebih glowing dan cerah!;Positif
+1462;Malah bikin wajahku gatal dan iritasi.;Negatif
+1463;Aku belum merasakan efek signifikan, masih coba terus.;Netral
+1464;Sangat melembapkan, cocok untuk kulit kering!;Positif
+1465;Sayangnya bikin wajahku lebih berminyak.;Negatif
+1466;Aku belum yakin efeknya, tapi tidak ada keluhan sejauh ini.;Netral
+1467;Teksturnya ringan dan cepat menyerap, nyaman digunakan!;Positif
+1468;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1469;Aku masih mencoba, sejauh ini cukup nyaman.;Netral
+1470;Produk ini bikin kulitku lebih halus dan sehat!;Positif
+1471;Sayangnya bikin wajahku iritasi dan kemerahan.;Negatif
+1472;Aku belum lihat efeknya, mungkin butuh waktu lebih lama.;Netral
+1473;Produk ini benar-benar membantu memperbaiki tekstur kulitku!;Positif
+1474;Teksturnya terlalu lengket, tidak suka.;Negatif
+1475;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1476;Aku suka banget! Wajahku jadi lebih sehat dan glowing.;Positif
+1477;Malah bikin wajahku tambah kusam.;Negatif
+1478;Aku masih mencoba, sejauh ini cukup baik.;Netral
+1479;Produk ini bikin kulitku kenyal dan halus!;Positif
+1480;Wanginya tidak cocok buatku, terlalu kuat.;Negatif
+1481;Aku belum yakin dengan efeknya, masih menunggu hasil lebih lanjut.;Netral
+1482;Produk ini luar biasa! Kulitku makin cerah dan segar!;Positif
+1483;Sayangnya malah bikin kulitku semakin kering.;Negatif
+1484;Aku belum melihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1485;Produk ini benar-benar melembapkan kulit dengan baik!;Positif
+1486;Teksturnya terlalu tebal dan susah menyerap.;Negatif
+1487;Aku masih coba dan belum bisa kasih review yang pasti.;Netral
+1488;Aku puas banget! Kulitku lebih sehat dan glowing!;Positif
+1489;Sayangnya malah bikin jerawat makin banyak.;Negatif
+1490;Aku masih coba dan belum melihat efek besar.;Netral
+1491;Produk ini bikin wajahku lebih fresh setiap hari!;Positif
+1492;Wanginya terlalu menyengat buatku.;Negatif
+1493;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1494;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1495;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1496;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1497;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1498;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1499;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1500;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1501;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1502;Aku masih coba dan belum lihat efek besar.;Netral
+1503;Produk ini benar-benar melembapkan kulitku dengan sempurna!;Positif
+1504;Malah bikin kulit wajahku terasa lengket sepanjang hari.;Negatif
+1505;Aku belum melihat perubahan besar, masih dalam tahap mencoba.;Netral
+1506;Produk ini bikin wajahku lebih segar setiap pagi!;Positif
+1507;Teksturnya terlalu berat, tidak nyaman di kulit.;Negatif
+1508;Aku belum melihat efeknya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1509;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1510;Malah bikin jerawat makin banyak, sangat mengecewakan.;Negatif
+1511;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1512;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1513;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1514;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1515;Produk ini bikin kulitku lebih cerah dan sehat!;Positif
+1516;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1517;Aku belum melihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1518;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1519;Malah bikin wajahku iritasi dan gatal.;Negatif
+1520;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1521;Produk ini sangat bagus, aku suka hasilnya!;Positif
+1522;Sayangnya tidak cocok untuk kulitku, malah jadi kering.;Negatif
+1523;Aku masih menunggu hasilnya, sejauh ini cukup baik.;Netral
+1524;Produk ini bikin kulitku lebih halus dan cerah!;Positif
+1525;Malah bikin wajahku iritasi dan kemerahan.;Negatif
+1526;Aku belum melihat efek besar, tapi tetap nyaman digunakan.;Netral
+1527;Sangat melembapkan, cocok untuk kulit kering!;Positif
+1528;Teksturnya terlalu berminyak untuk kulitku.;Negatif
+1529;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1530;Aku suka banget! Wajahku jadi lebih sehat dan glowing.;Positif
+1531;Malah bikin wajahku tambah kusam.;Negatif
+1532;Aku masih mencoba, sejauh ini cukup baik.;Netral
+1533;Produk ini bikin kulitku kenyal dan halus!;Positif
+1534;Wanginya terlalu kuat buatku, tidak nyaman.;Negatif
+1535;Aku belum yakin dengan efeknya, masih menunggu hasil lebih lanjut.;Netral
+1536;Produk ini luar biasa! Kulitku makin cerah dan segar!;Positif
+1537;Sayangnya malah bikin kulitku semakin kering.;Negatif
+1538;Aku belum melihat perubahan besar, tapi tetap nyaman digunakan.;Netral
+1539;Produk ini benar-benar melembapkan kulit dengan baik!;Positif
+1540;Teksturnya terlalu tebal dan susah menyerap.;Negatif
+1541;Aku masih coba dan belum bisa kasih review yang pasti.;Netral
+1542;Aku puas banget! Kulitku lebih sehat dan glowing!;Positif
+1543;Sayangnya malah bikin jerawat makin banyak.;Negatif
+1544;Aku masih coba dan belum melihat efek besar.;Netral
+1545;Produk ini bikin wajahku lebih fresh setiap hari!;Positif
+1546;Wanginya terlalu menyengat buatku.;Negatif
+1547;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1548;Kulitku makin lembap dan halus setelah pakai ini!;Positif
+1549;Sayangnya malah bikin wajahku lebih berminyak.;Negatif
+1550;Aku belum lihat efek besar, tapi tetap nyaman dipakai.;Netral
+1551;Produk ini benar-benar sesuai klaim, kulitku lebih sehat dan glowing!;Positif
+1552;Teksturnya terlalu lengket, kurang nyaman buatku.;Negatif
+1553;Aku masih coba dan belum bisa kasih review pasti.;Netral
+1554;Hasilnya luar biasa, kulitku makin kenyal dan segar!;Positif
+1555;Sayangnya bikin kulitku makin kering dan kasar.;Negatif
+1556;Aku masih coba dan belum lihat efek besar.;Netral
+1557;Produk ini benar-benar melembapkan kulitku dengan sempurna!;Positif
+1558;Malah bikin kulit wajahku terasa lengket sepanjang hari.;Negatif
+1559;Aku belum melihat perubahan besar, masih dalam tahap mencoba.;Netral
+1560;Produk ini bikin wajahku lebih segar setiap pagi!;Positif
+1561;Teksturnya terlalu berat, tidak nyaman di kulit.;Negatif
+1562;Aku belum melihat efeknya, tapi sejauh ini cukup nyaman digunakan.;Netral
+1563;Hasilnya luar biasa! Kulitku lebih glowing dan segar!;Positif
+1564;Malah bikin jerawat makin banyak, sangat mengecewakan.;Negatif
+1565;Aku masih coba dan belum bisa kasih pendapat pasti.;Netral
+1566;Teksturnya lembut dan cepat menyerap, aku suka banget!;Positif
+1567;Wanginya terlalu menyengat buatku, bikin pusing.;Negatif
+1568;Aku masih mencoba, sejauh ini cukup baik tapi belum ada efek signifikan.;Netral
+1569;Produk ini bikin kulitku lebih cerah dan sehat!;Positif
+1570;Sayangnya bikin wajahku makin kering dan ketarik.;Negatif
+1571;Aku belum melihat perubahan besar, tapi teksturnya nyaman di kulit.;Netral
+1572;Aku suka banget! Produk ini bikin kulit lebih sehat dan glowing!;Positif
+1573;Malah bikin wajahku iritasi dan gatal.;Negatif
+1574;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil maksimal.;Netral
+1575;Produk ini benar-benar membuat kulit terasa lebih lembut dan segar!;Positif
+1576;Sayangnya, malah bikin jerawat makin banyak di wajahku.;Negatif
+1577;Aku belum yakin, tapi sejauh ini cukup nyaman di kulit.;Netral
+1578;Aku sangat suka! Kulitku lebih cerah dan halus.;Positif
+1579;Malah bikin wajahku makin berminyak dan kusam.;Negatif
+1580;Aku masih coba, belum ada hasil yang menonjol.;Netral
+1581;Produk ini sangat baik untuk kulitku, hasilnya memuaskan!;Positif
+1582;Sayangnya bikin wajahku terasa panas dan merah-merah.;Negatif
+1583;Aku masih mencoba dan belum melihat efek yang nyata.;Netral
+1584;Produk ini luar biasa! Kulitku semakin lembut dan sehat.;Positif
+1585;Sayangnya tidak cocok untuk kulitku, malah jadi kering dan iritasi.;Negatif
+1586;Aku masih mencoba, belum ada perubahan yang signifikan.;Netral
+1587;Teksturnya ringan dan cepat menyerap, sangat nyaman di kulit!;Positif
+1588;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+1589;Aku masih ragu, tapi sejauh ini cukup baik.;Netral
+1590;Produk ini benar-benar membantu menghidrasi kulitku!;Positif
+1591;Malah bikin kulitku makin berminyak dan muncul jerawat.;Negatif
+1592;Aku masih menunggu hasil lebih lanjut, sejauh ini lumayan.;Netral
+1593;Aku suka banget! Kulitku jadi lebih glowing dan segar.;Positif
+1594;Sayangnya malah membuat kulit terasa lengket dan tidak nyaman.;Negatif
+1595;Aku belum melihat perubahan besar, mungkin butuh waktu lebih lama.;Netral
+1596;Produk ini sangat cocok untuk kulit sensitif, tidak ada iritasi sama sekali!;Positif
+1597;Teksturnya terlalu tebal, sulit menyerap di kulitku.;Negatif
+1598;Aku masih mencoba, belum bisa memberikan kesimpulan.;Netral
+1599;Kulitku semakin halus setelah memakai produk ini, sangat puas!;Positif
+1600;Malah membuat wajahku terasa panas dan kemerahan.;Negatif
+1601;Aku masih ragu dengan hasilnya, mungkin butuh pemakaian lebih lama.;Netral
+1602;Produk ini membuat kulitku lebih cerah dan sehat!;Positif
+1603;Sayangnya tidak memberikan efek yang diharapkan, biasa saja.;Negatif
+1604;Aku masih mencoba, belum yakin apakah ini cocok untukku.;Netral
+1605;Sangat melembapkan dan nyaman di kulit, aku suka!;Positif
+1606;Teksturnya terlalu berminyak untuk kulitku yang cenderung oily.;Negatif
+1607;Aku masih menunggu efeknya, sejauh ini cukup baik.;Netral
+1608;Produk ini benar-benar memperbaiki tekstur kulitku, luar biasa!;Positif
+1609;Wanginya terlalu kuat, aku tidak nyaman menggunakannya.;Negatif
+1610;Aku masih coba dan belum bisa memberikan review pasti.;Netral
+1611;Produk ini sesuai dengan klaimnya, membuat kulit lebih segar!;Positif
+1612;Malah bikin wajahku terasa lengket seharian.;Negatif
+1613;Aku masih melihat perkembangan, belum ada efek signifikan.;Netral
+1614;Aku sangat suka! Kulitku jadi lebih kenyal dan sehat.;Positif
+1615;Sayangnya tidak cocok untuk kulitku, malah terasa kering.;Negatif
+1616;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil yang jelas.;Netral
+1617;Teksturnya ringan dan cepat menyerap, nyaman dipakai!;Positif
+1618;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1619;Aku belum yakin efeknya, tapi tidak ada masalah sejauh ini.;Netral
+1620;Produk ini sangat membantu menghidrasi kulitku, hasilnya luar biasa!;Positif
+1621;Sayangnya, kulitku malah terasa lebih berminyak setelah pemakaian.;Negatif
+1622;Aku masih menunggu hasil lebih lanjut, sejauh ini biasa saja.;Netral
+1623;Aku suka banget! Wajahku jadi lebih glowing setiap hari!;Positif
+1624;Malah bikin wajahku terasa lebih kusam dan tidak segar.;Negatif
+1625;Aku masih dalam tahap mencoba, belum ada perubahan yang signifikan.;Netral
+1626;Produk ini sangat cocok untuk kulit sensitif, tidak menyebabkan iritasi!;Positif
+1627;Teksturnya terlalu kental, sulit diaplikasikan di kulit.;Negatif
+1628;Aku masih belum melihat efek besar, mungkin butuh pemakaian lebih lama.;Netral
+1629;Produk ini membuat kulitku lebih halus dan bercahaya!;Positif
+1630;Sayangnya malah bikin kulitku terasa lebih kering dari biasanya.;Negatif
+1631;Aku masih ragu dengan hasilnya, masih dalam tahap percobaan.;Netral
+1632;Produk ini benar-benar memberikan efek yang dijanjikan, aku puas!;Positif
+1633;Wanginya terlalu tajam, kurang nyaman untukku.;Negatif
+1634;Aku masih mencoba, belum yakin dengan hasil akhirnya.;Netral
+1635;Aku suka banget! Kulitku terasa lebih lembut setiap hari.;Positif
+1636;Sayangnya malah membuat kulitku makin berminyak.;Negatif
+1637;Aku masih menunggu efek yang lebih nyata, sejauh ini lumayan.;Netral
+1638;Produk ini sangat membantu melembapkan kulitku!;Positif
+1639;Sayangnya, tidak cocok untuk kulitku, malah membuatnya lebih kering.;Negatif
+1640;Aku masih mencoba, belum bisa memberikan pendapat pasti.;Netral
+1641;Teksturnya ringan dan nyaman digunakan, sangat cocok untukku!;Positif
+1642;Wanginya terlalu menyengat, membuatku kurang nyaman.;Negatif
+1643;Aku belum melihat perubahan signifikan, tapi cukup nyaman digunakan.;Netral
+1644;Produk ini benar-benar membantu kulitku terlihat lebih sehat dan segar!;Positif
+1645;Malah bikin kulitku lebih berminyak dan muncul jerawat.;Negatif
+1646;Aku masih menunggu hasilnya, sejauh ini lumayan.;Netral
+1647;Aku suka banget! Kulitku jadi lebih glowing dan kenyal.;Positif
+1648;Sayangnya malah membuat kulit terasa lengket dan berminyak.;Negatif
+1649;Aku belum melihat perubahan besar, mungkin butuh waktu lebih lama.;Netral
+1650;Produk ini sangat cocok untuk kulit sensitif, tanpa iritasi sama sekali!;Positif
+1651;Teksturnya terlalu tebal, sulit menyerap di kulitku.;Negatif
+1652;Aku masih mencoba, belum bisa memberikan kesimpulan.;Netral
+1653;Kulitku semakin lembut setelah menggunakan produk ini, sangat puas!;Positif
+1654;Malah membuat wajahku terasa panas dan kemerahan.;Negatif
+1655;Aku masih ragu dengan hasilnya, mungkin butuh waktu lebih lama.;Netral
+1656;Produk ini membuat kulitku lebih cerah dan sehat!;Positif
+1657;Sayangnya tidak memberikan efek yang diharapkan, biasa saja.;Negatif
+1658;Aku masih mencoba, belum yakin apakah ini cocok untukku.;Netral
+1659;Sangat melembapkan dan nyaman di kulit, aku suka!;Positif
+1660;Teksturnya terlalu berminyak untuk kulitku yang cenderung oily.;Negatif
+1661;Aku masih menunggu efeknya, sejauh ini cukup baik.;Netral
+1662;Produk ini benar-benar memperbaiki tekstur kulitku, luar biasa!;Positif
+1663;Wanginya terlalu kuat, aku tidak nyaman menggunakannya.;Negatif
+1664;Aku masih coba dan belum bisa memberikan review pasti.;Netral
+1665;Produk ini sesuai dengan klaimnya, membuat kulit lebih segar!;Positif
+1666;Malah bikin wajahku terasa lengket seharian.;Negatif
+1667;Aku masih melihat perkembangan, belum ada efek signifikan.;Netral
+1668;Aku sangat suka! Kulitku jadi lebih kenyal dan sehat.;Positif
+1669;Sayangnya tidak cocok untuk kulitku, malah terasa kering.;Negatif
+1670;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasil yang jelas.;Netral
+1671;Teksturnya ringan dan cepat menyerap, nyaman dipakai!;Positif
+1672;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1673;Aku belum yakin efeknya, tapi tidak ada masalah sejauh ini.;Netral
+1674;Produk ini sangat membantu menghidrasi kulitku, hasilnya luar biasa!;Positif
+1675;Sayangnya, kulitku malah terasa lebih berminyak setelah pemakaian.;Negatif
+1676;Aku masih menunggu hasil lebih lanjut, sejauh ini biasa saja.;Netral
+1677;Aku suka banget! Wajahku jadi lebih glowing setiap hari!;Positif
+1678;Malah bikin wajahku terasa lebih kusam dan tidak segar.;Negatif
+1679;Aku masih dalam tahap mencoba, belum ada perubahan yang signifikan.;Netral
+1680;Produk ini sangat cocok untuk kulit sensitif, tidak menyebabkan iritasi!;Positif
+1681;Teksturnya terlalu kental, sulit diaplikasikan di kulit.;Negatif
+1682;Aku masih belum melihat efek besar, mungkin butuh pemakaian lebih lama.;Netral
+1683;Produk ini membuat kulitku lebih halus dan bercahaya!;Positif
+1684;Sayangnya malah bikin kulitku terasa lebih kering dari biasanya.;Negatif
+1685;Aku masih ragu dengan hasilnya, masih dalam tahap percobaan.;Netral
+1686;Produk ini benar-benar memberikan efek yang dijanjikan, aku puas!;Positif
+1687;Wanginya terlalu tajam, kurang nyaman untukku.;Negatif
+1688;Aku masih mencoba, belum yakin dengan hasil akhirnya.;Netral
+1689;Aku suka banget! Kulitku terasa lebih lembut setiap hari.;Positif
+1690;Sayangnya malah membuat kulitku makin berminyak.;Negatif
+1691;Aku masih menunggu efek yang lebih nyata, sejauh ini lumayan.;Netral
+1692;Produk ini sangat bagus! Kulitku jadi lebih halus.;Positif
+1693;Biasa aja, nggak terlalu ngaruh di kulitku.;Netral
+1694;Parah sih, bikin wajahku breakout.;Negatif
+1695;Wanginya enak dan cepat meresap di kulit!;Positif
+1696;Isinya sedikit banget, nggak sesuai ekspektasi.;Negatif
+1697;Lumayan sih, tapi hasilnya baru kelihatan setelah lama pakai.;Netral
+1698;Aku suka banget! Kulitku jadi lebih cerah dan lembap.;Positif
+1699;Harganya mahal, tapi kualitasnya biasa saja.;Negatif
+1700;Teksturnya ringan dan nggak lengket, suka banget!;Positif
+1701;Nggak ada efek buruk sih, tapi juga nggak ada perubahan.;Netral
+1702;Setelah pakai ini, kulitku jadi lebih sehat dan glowing!;Positif
+1703;Produk ini nggak cocok di kulitku, jadi makin kering.;Negatif
+1704;Formulanya ringan, tapi aku nggak lihat perubahan berarti.;Netral
+1705;Melembapkan banget, aku suka teksturnya yang creamy.;Positif
+1706;Aku pakai beberapa minggu, tapi malah muncul jerawat.;Negatif
+1707;Produk ini biasa aja, nggak buruk tapi juga nggak wow.;Netral
+1708;Hasilnya cepat banget, kulit jadi lebih cerah!;Positif
+1709;Sayang banget, ternyata produk ini nggak cocok buatku.;Negatif
+1710;Nggak ada efek instan, tapi kulit terasa lebih sehat setelah rutin pakai.;Netral
+1711;Lembut banget di kulit dan nggak bikin iritasi!;Positif
+1712;Produk ini sangat melembapkan, aku suka sekali!;Positif
+1713;Sayangnya, tidak cocok untuk kulitku yang berminyak.;Negatif
+1714;Aku masih mencoba, sejauh ini tidak ada efek buruk.;Netral
+1715;Kulitku terasa lebih halus setelah pemakaian, sangat puas!;Positif
+1716;Wanginya terlalu menyengat untukku, kurang nyaman.;Negatif
+1717;Aku belum melihat perubahan besar, tapi tetap aku lanjutkan pemakaian.;Netral
+1718;Produk ini sangat membantu mengatasi kulit keringku!;Positif
+1719;Malah bikin kulitku terasa gatal dan iritasi.;Negatif
+1720;Aku masih ragu dengan hasilnya, mungkin butuh lebih banyak waktu.;Netral
+1721;Teksturnya ringan dan mudah menyerap, sangat nyaman dipakai.;Positif
+1722;Tidak ada perubahan yang berarti setelah pemakaian beberapa minggu.;Negatif
+1723;Aku masih dalam tahap percobaan, sejauh ini cukup baik.;Netral
+1724;Kulitku jadi lebih cerah setelah rutin memakai produk ini!;Positif
+1725;Sayangnya malah bikin kulitku terasa lebih berminyak.;Negatif
+1726;Aku masih menunggu efeknya lebih lanjut, sejauh ini biasa saja.;Netral
+1727;Produk ini sesuai dengan klaimnya, membuat kulit lebih lembut!;Positif
+1728;Teksturnya terlalu berat, kurang nyaman dipakai di siang hari.;Negatif
+1729;Aku masih mencoba, mungkin butuh waktu lebih lama untuk hasilnya.;Netral
+1730;Aku suka banget! Wajahku jadi lebih glowing setiap hari.;Positif
+1731;Sayangnya malah membuat wajahku lebih kusam.;Negatif
+1732;Aku masih belum yakin dengan efeknya, tapi sejauh ini tidak ada masalah.;Netral
+1733;Produk ini sangat cocok untuk kulit sensitif, tidak menimbulkan iritasi!;Positif
+1734;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+1735;Aku masih menunggu hasil yang lebih jelas, sejauh ini lumayan.;Netral
+1736;Produk ini sangat membantu menjaga kelembapan kulitku.;Positif
+1737;Tidak ada efek berarti setelah pemakaian, cukup mengecewakan.;Negatif
+1738;Aku masih mencoba dan berharap hasilnya sesuai dengan klaimnya.;Netral
+1739;Produk ini benar-benar memperbaiki tekstur kulitku!;Positif
+1740;Teksturnya terlalu lengket untuk kulitku, kurang nyaman.;Negatif
+1741;Aku masih melihat bagaimana efeknya dalam jangka panjang.;Netral
+1742;Kulitku semakin sehat setelah memakai produk ini!;Positif
+1743;Malah bikin kulitku semakin kering, kurang cocok.;Negatif
+1744;Aku masih ragu, mungkin perlu waktu lebih lama untuk hasil yang optimal.;Netral
+1745;Produk ini memberikan hasil yang luar biasa untuk kulitku!;Positif
+1746;Tidak memberikan efek yang diharapkan, hasilnya biasa saja.;Negatif
+1747;Aku masih dalam tahap percobaan, belum bisa memberikan review pasti.;Netral
+1748;Sangat melembapkan dan nyaman digunakan sehari-hari!;Positif
+1749;Teksturnya terlalu berminyak, membuat wajahku tampak lebih mengkilap.;Negatif
+1750;Aku masih menunggu efeknya, sejauh ini cukup baik.;Netral
+1751;Produk ini benar-benar membantu memperbaiki tekstur kulitku!;Positif
+1752;Wanginya terlalu menyengat, aku tidak menyukainya.;Negatif
+1753;Aku masih mencoba dan belum bisa memberikan penilaian akhir.;Netral
+1754;Produk ini memberikan hasil yang luar biasa untuk kulitku!;Positif
+1755;Malah membuat wajahku terlihat lebih kusam.;Negatif
+1756;Aku masih mencoba dan berharap efeknya terlihat lebih jelas nanti.;Netral
+1757;Produk ini sangat cocok untuk kulit sensitif, tanpa efek samping!;Positif
+1758;Teksturnya terlalu kental, sulit diaplikasikan dengan rata.;Negatif
+1759;Aku belum yakin dengan hasilnya, mungkin butuh pemakaian lebih lama.;Netral
+1760;Produk ini membuat kulitku lebih halus dan sehat!;Positif
+1761;Sayangnya malah bikin kulitku terasa lebih kering dari biasanya.;Negatif
+1762;Aku masih ragu dengan hasilnya, masih dalam tahap percobaan.;Netral
+1763;Produk ini benar-benar memberikan efek yang diinginkan, aku puas!;Positif
+1764;Wanginya terlalu tajam, membuatku kurang nyaman menggunakannya.;Negatif
+1765;Aku masih mencoba dan menunggu hasil lebih lanjut.;Netral
+1766;Aku suka banget! Kulitku terasa lebih lembut dan segar setiap hari.;Positif
+1767;Sayangnya malah membuat kulitku makin berminyak.;Negatif
+1768;Aku masih menunggu efek yang lebih nyata, sejauh ini lumayan.;Netral
+1769;Produk ini membuat kulitku lebih kenyal dan bercahaya!;Positif
+1770;Malah bikin wajahku terasa lebih lengket dan tidak nyaman.;Negatif
+1771;Aku masih melihat perkembangan lebih lanjut, belum bisa memberi nilai pasti.;Netral
+1772;Produk ini bikin kulitku lebih glowing dan sehat!;Positif
+1773;Nggak terlalu ngefek, tapi nggak buruk juga.;Netral
+1774;Bikin kulitku merah-merah dan gatal!;Negatif
+1775;Aku suka banget sama teksturnya, ringan di kulit.;Positif
+1776;Isinya sedikit banget, nggak worth it.;Negatif
+1777;Baunya aneh, tapi hasilnya lumayan.;Netral
+1778;Efek mencerahkannya cepat banget kelihatan!;Positif
+1779;Setelah seminggu pakai, kulitku jadi kering banget.;Negatif
+1780;Bisa banget buat kulit sensitif, aman dan lembut.;Positif
+1781;Harganya lumayan mahal, efeknya nggak terlalu terasa.;Netral
+1782;Melembapkan dan bikin kulit kenyal!;Positif
+1783;Aku breakout parah setelah pakai ini.;Negatif
+1784;Cukup bagus, tapi nggak se-wow yang aku harapkan.;Netral
+1785;Sudah pakai sebulan dan hasilnya sangat memuaskan!;Positif
+1786;Teksturnya terlalu lengket, nggak nyaman di kulit.;Negatif
+1787;Nggak ada efek negatif, tapi juga nggak ada perubahan berarti.;Netral
+1788;Produk ini bikin kulitku lebih cerah dan sehat!;Positif
+1789;Aku malah alergi setelah pakai ini, kecewa banget.;Negatif
+1790;Baunya soft dan enak banget, nggak nyengat.;Positif
+1791;Aku nggak lihat efek apa-apa setelah 2 minggu pemakaian.;Netral
+1792;Hasilnya bagus banget, kulit jadi glowing alami!;Positif
+1793;Bikin kulitku makin berminyak, nggak cocok.;Negatif
+1794;Lumayan sih, tapi masih lebih suka produk lain.;Netral
+1795;Cepat meresap dan nggak bikin lengket, suka banget!;Positif
+1796;Jerawatku makin parah setelah pakai produk ini!;Negatif
+1797;Aku suka packaging-nya yang elegan dan praktis.;Positif
+1798;Harga terlalu mahal untuk hasil yang biasa saja.;Netral
+1799;Setelah rutin pakai, kulit jadi lebih sehat dan kenyal.;Positif
+1800;Sayang banget nggak cocok di kulitku, padahal berharap banyak.;Negatif
+1801;Wanginya calming banget, bikin rileks pas dipakai!;Positif
+1802;Efeknya baru terasa setelah sebulan, lumayan sih.;Netral
+1803;Kulit jadi lebih halus dan kenyal sejak pakai ini!;Positif
+1804;Aku malah jerawatan parah, nggak bakal beli lagi.;Negatif
+1805;Tekstur dan formulanya nyaman banget di kulit.;Positif
+1806;Aku nggak yakin dengan hasilnya, biasa aja.;Netral
+1807;Produk ini bikin wajahku lebih glowing dan fresh!;Positif
+1808;Formulanya terlalu keras buat kulitku, jadi iritasi.;Negatif
+1809;Nggak buruk sih, tapi aku lebih suka produk sebelumnya.;Netral
+1810;Sangat melembapkan dan bikin kulit lebih sehat!;Positif
+1811;Harganya mahal tapi hasilnya nggak sesuai ekspektasi.;Negatif
+1812;Aku nggak lihat perubahan apa-apa setelah pemakaian rutin.;Netral
+1813;Produk ini benar-benar bikin kulit lebih cerah!;Positif
+1814;Sayang banget, bikin kulitku makin berminyak.;Negatif
+1815;Cocok banget buat kulit kering, melembapkan maksimal!;Positif
+1816;Aku nggak tahu apakah ini cocok atau nggak buatku.;Netral
+1817;Setelah pakai ini, kulitku jadi lebih sehat dan segar.;Positif
+1818;Jerawatku malah makin banyak, nggak cocok banget.;Negatif
+1819;Formulanya ringan dan nggak bikin lengket di kulit.;Positif
+1820;Aku nggak terlalu suka teksturnya, agak lengket.;Netral
+1821;Produk ini benar-benar bikin kulit lebih lembut!;Positif
+1822;Produk ini sangat melembapkan dan nyaman digunakan.;Positif
+1823;Sayangnya tidak cocok untuk kulitku, muncul kemerahan.;Negatif
+1824;Aku masih mencoba, belum bisa memberikan kesimpulan.;Netral
+1825;Teksturnya ringan dan mudah menyerap, suka banget!;Positif
+1826;Wanginya terlalu kuat untukku, jadi kurang nyaman.;Negatif
+1827;Aku masih menunggu efeknya lebih lanjut.;Netral
+1828;Produk ini benar-benar memberikan kelembapan ekstra!;Positif
+1829;Malah bikin wajahku makin berminyak dan berjerawat.;Negatif
+1830;Aku masih menilai, mungkin butuh waktu lebih lama.;Netral
+1831;Kulitku terasa lebih kenyal dan sehat setelah pakai ini!;Positif
+1832;Tidak memberikan efek yang aku harapkan, agak mengecewakan.;Negatif
+1833;Aku masih dalam tahap percobaan, sejauh ini baik-baik saja.;Netral
+1834;Aku suka! Produk ini benar-benar sesuai dengan klaimnya.;Positif
+1835;Sayangnya tidak sesuai ekspektasi, kulitku tetap kering.;Negatif
+1836;Aku masih mencoba, belum yakin dengan efeknya.;Netral
+1837;Produk ini benar-benar membantu memperbaiki tekstur kulitku!;Positif
+1838;Malah bikin wajahku terlihat lebih kusam setelah beberapa hari.;Negatif
+1839;Aku belum melihat hasil yang signifikan, mungkin perlu waktu lebih lama.;Netral
+1840;Sangat melembapkan dan nyaman digunakan setiap hari!;Positif
+1841;Teksturnya terlalu berminyak untuk kulitku.;Negatif
+1842;Aku masih menunggu hasil lebih lanjut sebelum memutuskan.;Netral
+1843;Produk ini sangat bagus untuk kulit sensitif!;Positif
+1844;Wanginya kurang enak menurutku, kurang nyaman saat dipakai.;Negatif
+1845;Aku masih ragu, hasilnya belum terlalu terlihat.;Netral
+1846;Kulitku terasa lebih segar dan sehat setelah memakai ini!;Positif
+1847;Sayangnya malah membuat wajahku semakin kering.;Negatif
+1848;Aku belum yakin dengan efeknya, butuh lebih banyak waktu.;Netral
+1849;Produk ini luar biasa, aku akan beli lagi!;Positif
+1850;Tidak memberikan efek yang diharapkan, kurang puas.;Negatif
+1851;Aku masih dalam tahap uji coba, sejauh ini baik.;Netral
+1852;Produk ini benar-benar membuat kulitku lebih lembut!;Positif
+1853;Malah menimbulkan iritasi di kulitku.;Negatif
+1854;Aku masih mencoba, belum bisa memastikan hasil akhirnya.;Netral
+1855;Produk ini sangat efektif untuk mengatasi kulit kering!;Positif
+1856;Teksturnya terlalu lengket, kurang nyaman digunakan.;Negatif
+1857;Aku masih menunggu efek jangka panjangnya.;Netral
+1858;Kulitku terlihat lebih bercahaya setelah pemakaian rutin!;Positif
+1859;Sayangnya membuat kulitku lebih sensitif terhadap matahari.;Negatif
+1860;Aku masih ragu, sejauh ini efeknya tidak terlalu jelas.;Netral
+1861;Produk ini sangat membantu menjaga kelembapan kulitku!;Positif
+1862;Tidak memberikan perubahan berarti pada kulitku.;Negatif
+1863;Aku masih melihat bagaimana efeknya dalam beberapa minggu ke depan.;Netral
+1864;Kulitku terasa lebih segar dan sehat setiap hari!;Positif
+1865;Wanginya terlalu tajam, kurang cocok untukku.;Negatif
+1866;Aku masih mencoba dan berharap efeknya lebih jelas nanti.;Netral
+1867;Produk ini benar-benar memperbaiki elastisitas kulitku!;Positif
+1868;Tidak cocok di kulitku, malah muncul jerawat.;Negatif
+1869;Aku belum yakin apakah ini bekerja dengan baik untukku.;Netral
+1870;Aku suka teksturnya yang ringan dan mudah meresap!;Positif
+1871;Sayangnya membuat kulitku terasa lebih berminyak.;Negatif
+1872;Aku masih menunggu efeknya, sejauh ini tidak ada masalah.;Netral
+1873;Produk ini sesuai dengan klaimnya, hasilnya memuaskan!;Positif
+1874;Tidak terlalu berbeda dari produk lain yang pernah kucoba.;Negatif
+1875;Aku masih dalam tahap observasi, sejauh ini baik-baik saja.;Netral
+1876;Sangat nyaman dipakai sehari-hari, aku suka!;Positif
+1877;Teksturnya terlalu tebal, kurang nyaman untuk kulit berminyak.;Negatif
+1878;Aku masih melihat hasilnya dalam beberapa minggu mendatang.;Netral
+1879;Kulitku terasa lebih lembut dan kenyal setelah memakai produk ini!;Positif
+1880;Malah menimbulkan rasa gatal setelah beberapa kali pemakaian.;Negatif
+1881;Aku belum bisa memberikan kesimpulan, masih tahap awal pemakaian.;Netral
+1882;Produk ini sangat cocok untuk kulitku, hasilnya memuaskan!;Positif
+1883;Sayangnya malah bikin kulitku semakin kering.;Negatif
+1884;Aku masih menunggu hasilnya, sejauh ini lumayan.;Netral
+1885;Teksturnya ringan dan cepat menyerap, sangat nyaman digunakan.;Positif
+1886;Wanginya terlalu kuat, kurang cocok buatku.;Negatif
+1887;Aku belum bisa memberikan kesimpulan, masih tahap awal pemakaian.;Netral
+1888;Produk ini benar-benar membantu menjaga kelembapan kulit!;Positif
+1889;Tidak memberikan efek apa pun pada kulitku.;Negatif
+1890;Aku masih ragu, mungkin butuh lebih banyak waktu untuk melihat efeknya.;Netral
+1891;Kulitku terlihat lebih cerah setelah menggunakan ini!;Positif
+1892;Malah menimbulkan jerawat di wajahku.;Negatif
+1893;Aku masih dalam tahap percobaan, belum yakin dengan hasilnya.;Netral
+1894;Produk ini luar biasa! Aku akan beli lagi.;Positif
+1895;Sayangnya tidak cocok untuk kulitku yang sensitif.;Negatif
+1896;Aku belum yakin, sejauh ini belum ada perubahan signifikan.;Netral
+1897;Sangat melembapkan dan membuat kulit terasa lebih halus!;Positif
+1898;Teksturnya terlalu berat untuk kulitku yang berminyak.;Negatif
+1899;Aku masih mencoba, sejauh ini tidak ada masalah berarti.;Netral
+1900;Produk ini sangat membantu mengatasi kulit keringku.;Positif
+1901;Tidak ada perubahan yang terlihat setelah pemakaian.;Negatif
+1902;Aku masih menunggu efeknya lebih lanjut.;Netral
+1903;Kulitku terasa lebih kenyal setelah memakai produk ini!;Positif
+1904;Wanginya kurang enak menurutku.;Negatif
+1905;Aku masih menilai, belum bisa memberikan review final.;Netral
+1906;Produk ini membuat wajahku tampak lebih glowing!;Positif
+1907;Sayangnya malah membuat wajahku kusam.;Negatif
+1908;Aku masih dalam tahap observasi, sejauh ini tidak ada efek buruk.;Netral
+1909;Sangat nyaman dipakai sehari-hari, hasilnya luar biasa!;Positif
+1910;Tidak memberikan hasil yang diharapkan.;Negatif
+1911;Aku masih mencoba, semoga efeknya terlihat nanti.;Netral
+1912;Produk ini benar-benar bekerja sesuai klaimnya!;Positif
+1913;Malah membuat kulitku lebih berminyak.;Negatif
+1914;Aku masih belum bisa menentukan apakah ini cocok untukku.;Netral
+1915;Hasilnya luar biasa, kulitku jadi lebih sehat!;Positif
+1916;Teksturnya kurang nyaman di kulitku.;Negatif
+1917;Aku masih melihat apakah ini cocok untuk penggunaan jangka panjang.;Netral
+1918;Aku suka banget! Kulitku jadi lebih lembut dan segar.;Positif
+1919;Tidak cocok di kulitku, malah membuat iritasi.;Negatif
+1920;Aku masih mencoba dan berharap hasilnya lebih terlihat nanti.;Netral
+1921;Produk ini membantu memperbaiki tekstur kulitku.;Positif
+1922;Sayangnya terlalu lengket saat diaplikasikan.;Negatif
+1923;Aku masih menunggu hasil lebih lanjut sebelum mengambil keputusan.;Netral
+1924;Kulitku terlihat lebih sehat dan bercahaya setelah pemakaian rutin!;Positif
+1925;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+1926;Aku masih mencoba dan berharap efek positif segera terlihat.;Netral
+1927;Produk ini sangat bagus untuk menjaga kelembapan kulit!;Positif
+1928;Tidak ada perubahan signifikan setelah beberapa minggu pemakaian.;Negatif
+1929;Aku masih belum yakin apakah produk ini cocok untukku.;Netral
+1930;Aku suka teksturnya yang ringan dan mudah menyerap.;Positif
+1931;Sayangnya malah membuat wajahku lebih berminyak.;Negatif
+1932;Aku masih menunggu efek lebih nyata, sejauh ini cukup baik.;Netral
+1933;Produk ini bekerja dengan baik, hasilnya memuaskan!;Positif
+1934;Tidak memberikan efek yang aku harapkan.;Negatif
+1935;Aku masih mencoba dan berharap hasilnya baik.;Netral
+1936;Kulitku terasa lebih halus dan sehat setelah pemakaian!;Positif
+1937;Sayangnya malah menimbulkan jerawat di wajahku.;Negatif
+1938;Aku masih belum bisa memberikan penilaian yang pasti.;Netral
+1939;Produk ini benar-benar sesuai dengan klaimnya, aku puas!;Positif
+1940;Tidak memberikan efek yang berarti pada kulitku.;Negatif
+1941;Aku masih dalam tahap percobaan, belum bisa memberikan kesimpulan.;Netral
+1942;Nggak cocok di kulitku, malah bikin iritasi.;Negatif
+1943;Efeknya lumayan, tapi butuh waktu lama untuk melihat hasilnya.;Netral
+1944;Wanginya enak dan nggak terlalu menyengat.;Positif
+1945;Aku nggak suka teksturnya, terlalu lengket di kulit.;Negatif
+1946;Hasilnya bikin kulitku lebih lembap seharian!;Positif
+1947;Produk ini nggak jelek, tapi juga nggak terlalu bagus.;Netral
+1948;Setelah pakai ini, kulitku jadi lebih bersih dan sehat.;Positif
+1949;Nggak ada efek yang signifikan, biasa aja.;Netral
+1950;Harganya mahal dan nggak worth it menurutku.;Negatif
+1951;Aku suka banget sama packaging-nya, cantik dan praktis.;Positif
+1952;Setelah dua minggu pakai, aku belum melihat perubahan.;Netral
+1953;Produk ini bikin kulitku glowing alami!;Positif
+1954;Aku alergi setelah pakai ini, nggak cocok banget.;Negatif
+1955;Formulanya nyaman di kulit dan cepat meresap.;Positif
+1956;Aku nggak yakin dengan klaimnya, hasilnya biasa aja.;Netral
+1957;Kulitku jadi lebih lembut dan nggak kering lagi.;Positif
+1958;Wanginya terlalu menyengat buatku, kurang nyaman.;Negatif
+1959;Aku suka efek lembapnya, tapi hasilnya nggak instan.;Netral
+1960;Hasilnya kelihatan dalam seminggu, kulitku lebih sehat!;Positif
+1961;Teksturnya agak berat, kurang nyaman di kulitku.;Negatif
+1962;Produk ini cukup bagus, tapi aku masih mencari yang lebih baik.;Netral
+1963;Beneran bikin kulit lebih halus dan kenyal!;Positif
+1964;Sayang banget nggak cocok di kulitku, jadi gatal.;Negatif
+1965;Produk ini bikin kulitku lebih glowing dan fresh!;Positif
+1966;Aku nggak melihat efek signifikan setelah sebulan pakai.;Netral
+1967;Formulanya ringan, gampang menyerap, dan nyaman di kulit.;Positif
+1968;Harganya terlalu mahal untuk ukuran sekecil ini.;Negatif
+1969;Aku suka teksturnya, tapi efeknya nggak langsung terlihat.;Netral
+1970;Kulitku jadi lebih sehat dan nggak kusam lagi!;Positif
+1971;Wanginya calming banget, aku suka.;Positif
+1972;Produk ini malah bikin kulitku makin berminyak.;Negatif
+1973;Aku nggak yakin apakah ini bekerja dengan baik atau nggak.;Netral
+1974;Setelah rutin pakai, kulit jadi lebih kenyal dan segar.;Positif
+1975;Jerawatku makin banyak setelah pakai ini.;Negatif
+1976;Teksturnya nyaman, nggak bikin kulit terasa berat.;Positif
+1977;Aku nggak suka kemasannya, kurang praktis.;Negatif
+1978;Produk ini cukup oke, tapi aku lebih suka yang lain.;Netral
+1979;Beneran bikin kulit lebih cerah dalam dua minggu!;Positif
+1980;Hasilnya kurang sesuai ekspektasi, jadi kecewa.;Negatif
+1981;Aku suka efek lembapnya, tapi nggak instan.;Netral
+1982;Produk ini ringan di kulit dan cepat menyerap.;Positif
+1983;Wanginya terlalu kuat buatku, kurang nyaman.;Negatif
+1984;Setelah pakai ini, kulitku jadi lebih halus dan kenyal.;Positif
+1985;Aku nggak melihat perubahan yang berarti setelah pemakaian.;Netral
+1986;Hasilnya bikin kulit lebih glowing!;Positif
+1987;Aku malah breakout setelah pakai ini.;Negatif
+1988;Lumayan sih, tapi aku masih mencari yang lebih cocok.;Netral
+1989;Aku suka banget, kulitku jadi lebih sehat!;Positif
+1990;Harganya mahal tapi isinya sedikit.;Negatif
+1991;Efeknya nggak instan, tapi terasa setelah pemakaian rutin.;Netral
+1992;Setelah pakai ini, kulitku lebih lembut dan sehat!;Positif
+1993;Aku nggak suka teksturnya yang terlalu lengket.;Negatif
+1994;Hasilnya biasa aja, nggak terlalu kelihatan perbedaannya.;Netral
+1995;Produk ini bikin kulitku lebih cerah alami.;Positif
+1996;Sayang banget nggak cocok buat kulitku, bikin gatal.;Negatif
+1997;Teksturnya ringan, gampang diaplikasikan, suka banget!;Positif
+1998;Aku nggak yakin ini cocok untuk semua jenis kulit.;Netral
+1999;Produk ini beneran melembapkan dan bikin kulit lebih sehat!;Positif
+2000;Aku jerawatan parah setelah pakai ini.;Negatif
+2001;Nggak ada efek instan, tapi aku suka hasil jangka panjangnya.;Netral
+2002;Wanginya enak dan menenangkan, suka banget!;Positif
+2003;Formulanya terlalu kuat buat kulit sensitif, bikin iritasi.;Negatif
+2004;Cukup bagus, tapi nggak sesuai dengan ekspektasi awal.;Netral
+2005;Aku suka banget sama hasilnya, kulit jadi glowing!;Positif
+2006;Produknya bikin kulitku merah-merah, nggak cocok.;Negatif
+2007;Aku nggak yakin ini bekerja di semua jenis kulit.;Netral
+2008;Setelah pakai ini, kulitku lebih cerah dan sehat!;Positif
+2009;Sayang banget nggak cocok buatku, bikin jerawat.;Negatif
+2010;Aku suka teksturnya yang lembut dan mudah meresap.;Positif
+2011;Efeknya lumayan, tapi butuh waktu lebih lama untuk hasil optimal.;Netral
+2012;Produk ini bikin kulitku lebih lembap seharian.;Positif
+2013;Aku nggak suka baunya, terlalu menyengat.;Negatif
+2014;Aku masih menunggu hasilnya setelah beberapa minggu.;Netral
+2015;Kulitku jadi lebih sehat dan glowing setelah pakai ini!;Positif
+2016;Produk ini sangat cocok untuk kulit sensitifku!;Positif
+2017;Aku kurang suka dengan teksturnya yang terlalu kental.;Negatif
+2018;Aku masih mencoba dan melihat bagaimana efeknya nanti.;Netral
+2019;Hasilnya luar biasa! Kulitku tampak lebih segar dan sehat.;Positif
+2020;Sayangnya tidak memberikan efek yang diharapkan.;Negatif
+2021;Aku masih menunggu hasil yang lebih jelas.;Netral
+2022;Produk ini benar-benar melembapkan kulitku dengan baik!;Positif
+2023;Wanginya terlalu kuat dan tidak nyaman di hidung.;Negatif
+2024;Aku masih belum bisa menentukan apakah produk ini cocok untukku.;Netral
+2025;Sangat efektif untuk mengatasi kulit kering!;Positif
+2026;Malah membuat kulitku semakin berminyak.;Negatif
+2027;Aku masih melihat apakah ada perubahan setelah beberapa minggu.;Netral
+2028;Produk ini sangat nyaman digunakan setiap hari!;Positif
+2029;Tidak memberikan efek yang aku harapkan.;Negatif
+2030;Aku masih menunggu hasil yang lebih terlihat.;Netral
+2031;Kulitku terasa lebih lembut dan kenyal setelah pemakaian!;Positif
+2032;Sayangnya tidak cocok di kulitku, malah muncul jerawat.;Negatif
+2033;Aku masih dalam tahap percobaan, belum bisa memberikan kesimpulan.;Netral
+2034;Hasilnya sangat memuaskan, aku suka sekali!;Positif
+2035;Tidak sesuai ekspektasi, kurang memberikan perubahan.;Negatif
+2036;Aku masih mencoba dan belum bisa menilai secara pasti.;Netral
+2037;Produk ini bekerja dengan sangat baik di kulitku!;Positif
+2038;Teksturnya tidak nyaman, terlalu lengket.;Negatif
+2039;Aku masih melihat bagaimana efeknya dalam jangka panjang.;Netral
+2040;Aku sangat puas dengan hasilnya, kulitku lebih bercahaya!;Positif
+2041;Sayangnya malah membuat kulitku kering.;Negatif
+2042;Aku masih mencoba dan belum bisa memberikan kesimpulan final.;Netral
+2043;Sangat melembapkan dan nyaman digunakan sehari-hari!;Positif
+2044;Tidak memberikan perubahan signifikan setelah beberapa minggu.;Negatif
+2045;Aku masih dalam tahap observasi, sejauh ini tidak ada efek buruk.;Netral
+2046;Kulitku terasa lebih segar dan sehat!;Positif
+2047;Wanginya terlalu menyengat menurutku.;Negatif
+2048;Aku masih menunggu efek lebih nyata dari produk ini.;Netral
+2049;Produk ini sangat membantu dalam menjaga kelembapan kulit!;Positif
+2050;Tidak memberikan efek seperti yang dijanjikan.;Negatif
+2051;Aku masih melihat apakah ini cocok untuk penggunaan jangka panjang.;Netral
+2052;Aku suka banget! Kulitku jadi lebih lembut dan segar.;Positif
+2053;Tidak cocok di kulitku, malah membuat iritasi.;Negatif
+2054;Aku masih mencoba dan berharap hasilnya lebih terlihat nanti.;Netral
+2055;Produk ini membantu memperbaiki tekstur kulitku.;Positif
+2056;Sayangnya terlalu lengket saat diaplikasikan.;Negatif
+2057;Aku masih menunggu hasil lebih lanjut sebelum mengambil keputusan.;Netral
+2058;Kulitku terlihat lebih sehat dan bercahaya setelah pemakaian rutin!;Positif
+2059;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+2060;Aku masih mencoba dan berharap efek positif segera terlihat.;Netral
+2061;Produk ini sangat bagus untuk menjaga kelembapan kulit!;Positif
+2062;Tidak ada perubahan signifikan setelah beberapa minggu pemakaian.;Negatif
+2063;Aku masih belum yakin apakah produk ini cocok untukku.;Netral
+2064;Aku suka teksturnya yang ringan dan mudah menyerap.;Positif
+2065;Sayangnya malah membuat wajahku lebih berminyak.;Negatif
+2066;Aku masih menunggu efek lebih nyata, sejauh ini cukup baik.;Netral
+2067;Produk ini bekerja dengan baik, hasilnya memuaskan!;Positif
+2068;Tidak memberikan efek yang aku harapkan.;Negatif
+2069;Aku masih mencoba dan berharap hasilnya baik.;Netral
+2070;Kulitku terasa lebih halus dan sehat setelah pemakaian!;Positif
+2071;Sayangnya malah menimbulkan jerawat di wajahku.;Negatif
+2072;Aku masih belum bisa memberikan penilaian yang pasti.;Netral
+2073;Produk ini benar-benar sesuai dengan klaimnya, aku puas!;Positif
+2074;Tidak memberikan efek yang berarti pada kulitku.;Negatif
+2075;Aku masih dalam tahap percobaan, belum bisa memberikan kesimpulan.;Netral
+2076;Sangat membantu menghidrasi kulitku, aku suka sekali!;Positif
+2077;Teksturnya terlalu berat, kurang nyaman dipakai.;Negatif
+2078;Aku masih menunggu hasil lebih jelas setelah beberapa minggu.;Netral
+2079;Hasilnya memuaskan, kulitku jadi lebih cerah dan segar!;Positif
+2080;Tidak memberikan efek yang sesuai dengan klaimnya.;Negatif
+2081;Aku masih mencoba dan belum bisa memberikan kesimpulan final.;Netral
+2082;Produk ini luar biasa, aku akan beli lagi!;Positif
+2083;Wanginya kurang cocok buatku, terlalu menyengat.;Negatif
+2084;Aku masih mencoba, sejauh ini lumayan.;Netral
+2085;Kulitku terasa lebih sehat setelah pemakaian produk ini!;Positif
+2086;Malah membuat kulitku jadi lebih sensitif.;Negatif
+2087;Aku masih melihat bagaimana efeknya dalam beberapa minggu ke depan.;Netral
+2088;Produk ini sangat efektif untuk memperbaiki tekstur kulit!;Positif
+2089;Sayangnya tidak sesuai ekspektasi, tidak ada perubahan berarti.;Negatif
+2090;Aku masih menunggu efek lebih lanjut, sejauh ini baik-baik saja.;Netral
+2091;Produk ini sangat cocok untuk kulit sensitifku!;Positif
+2092;Aku kurang suka dengan teksturnya yang terlalu kental.;Negatif
+2093;Aku masih mencoba dan melihat bagaimana efeknya nanti.;Netral
+2094;Hasilnya luar biasa! Kulitku tampak lebih segar dan sehat.;Positif
+2095;Sayangnya tidak memberikan efek yang diharapkan.;Negatif
+2096;Aku masih menunggu hasil yang lebih jelas.;Netral
+2097;Produk ini benar-benar melembapkan kulitku dengan baik!;Positif
+2098;Wanginya terlalu kuat dan tidak nyaman di hidung.;Negatif
+2099;Aku masih belum bisa menentukan apakah produk ini cocok untukku.;Netral
+2100;Sangat efektif untuk mengatasi kulit kering!;Positif
+2101;Malah membuat kulitku semakin berminyak.;Negatif
+2102;Aku masih melihat apakah ada perubahan setelah beberapa minggu.;Netral
+2103;Produk ini sangat nyaman digunakan setiap hari!;Positif
+2104;Tidak memberikan efek yang aku harapkan.;Negatif
+2105;Aku masih menunggu hasil yang lebih terlihat.;Netral
+2106;Kulitku terasa lebih lembut dan kenyal setelah pemakaian!;Positif
+2107;Sayangnya tidak cocok di kulitku, malah muncul jerawat.;Negatif
+2108;Aku masih dalam tahap percobaan, belum bisa memberikan kesimpulan.;Netral
+2109;Hasilnya sangat memuaskan, aku suka sekali!;Positif
+2110;Tidak sesuai ekspektasi, kurang memberikan perubahan.;Negatif
+2111;Aku masih mencoba dan belum bisa menilai secara pasti.;Netral
+2112;Produk ini bekerja dengan sangat baik di kulitku!;Positif
+2113;Teksturnya tidak nyaman, terlalu lengket.;Negatif
+2114;Aku masih melihat bagaimana efeknya dalam jangka panjang.;Netral
+2115;Aku sangat puas dengan hasilnya, kulitku lebih bercahaya!;Positif
+2116;Sayangnya malah membuat kulitku kering.;Negatif
+2117;Aku masih mencoba dan belum bisa memberikan kesimpulan final.;Netral
+2118;Sangat melembapkan dan nyaman digunakan sehari-hari!;Positif
+2119;Tidak memberikan perubahan signifikan setelah beberapa minggu.;Negatif
+2120;Aku masih dalam tahap observasi, sejauh ini tidak ada efek buruk.;Netral
+2121;Kulitku terasa lebih segar dan sehat!;Positif
+2122;Wanginya terlalu menyengat menurutku.;Negatif
+2123;Aku masih menunggu efek lebih nyata dari produk ini.;Netral
+2124;Produk ini sangat membantu dalam menjaga kelembapan kulit!;Positif
+2125;Tidak memberikan efek seperti yang dijanjikan.;Negatif
+2126;Aku masih melihat apakah ini cocok untuk penggunaan jangka panjang.;Netral
+2127;Aku suka banget! Kulitku jadi lebih lembut dan segar.;Positif
+2128;Tidak cocok di kulitku, malah membuat iritasi.;Negatif
+2129;Aku masih mencoba dan berharap hasilnya lebih terlihat nanti.;Netral
+2130;Produk ini membantu memperbaiki tekstur kulitku.;Positif
+2131;Sayangnya terlalu lengket saat diaplikasikan.;Negatif
+2132;Aku masih menunggu hasil lebih lanjut sebelum mengambil keputusan.;Netral
+2133;Kulitku terlihat lebih sehat dan bercahaya setelah pemakaian rutin!;Positif
+2134;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+2135;Aku masih mencoba dan berharap efek positif segera terlihat.;Netral
+2136;Produk ini sangat bagus untuk menjaga kelembapan kulit!;Positif
+2137;Tidak ada perubahan signifikan setelah beberapa minggu pemakaian.;Negatif
+2138;Aku masih belum yakin apakah produk ini cocok untukku.;Netral
+2139;Aku suka teksturnya yang ringan dan mudah menyerap.;Positif
+2140;Sayangnya malah membuat wajahku lebih berminyak.;Negatif
+2141;Produk ini benar-benar bikin kulitku lebih sehat!;Positif
+2142;Aku nggak suka teksturnya, terlalu lengket di wajah.;Negatif
+2143;Aku belum melihat efeknya setelah pemakaian satu minggu.;Netral
+2144;Setelah pakai ini, wajahku jadi lebih glowing!;Positif
+2145;Bikin kulitku breakout, nggak cocok sama sekali.;Negatif
+2146;Produk ini lumayan, tapi hasilnya nggak instan.;Netral
+2147;Kulitku jadi lebih cerah dan lembap seharian!;Positif
+2148;Aku alergi setelah pakai produk ini, kecewa banget.;Negatif
+2149;Aku suka banget teksturnya yang ringan dan gampang meresap.;Positif
+2150;Hasilnya biasa aja, nggak terlalu terlihat perubahan signifikan.;Netral
+2151;Wanginya enak banget, bikin rileks!;Positif
+2152;Aku malah jerawatan setelah pakai ini.;Negatif
+2153;Formulanya ringan dan nyaman di kulit, aku suka.;Positif
+2154;Nggak ada efek negatif sih, tapi juga nggak ada perubahan.;Netral
+2155;Produk ini melembapkan banget, cocok buat kulit kering!;Positif
+2156;Isinya sedikit banget untuk harga semahal ini.;Negatif
+2157;Hasilnya lumayan, tapi aku masih mencari yang lebih cocok.;Netral
+2158;Kulitku jadi lebih sehat dan kenyal sejak pakai ini.;Positif
+2159;Produknya bikin kulitku makin berminyak, nggak cocok.;Negatif
+2160;Aku nggak yakin dengan efeknya, mungkin butuh waktu lebih lama.;Netral
+2161;Hasilnya benar-benar bikin kulit lebih glowing!;Positif
+2162;Sayang banget nggak cocok buat kulitku, jadi gatal.;Negatif
+2163;Formulanya nyaman banget, ringan di kulit.;Positif
+2164;Aku nggak melihat hasil yang signifikan setelah pemakaian rutin.;Netral
+2165;Kulitku jadi lebih cerah alami setelah pakai ini!;Positif
+2166;Aku malah breakout parah, nggak bakal beli lagi.;Negatif
+2167;Cukup bagus, tapi aku masih mencari yang lebih baik.;Netral
+2168;Aku suka banget efeknya di kulit, bikin lebih sehat!;Positif
+2169;Harganya terlalu mahal untuk efek yang biasa saja.;Negatif
+2170;Nggak buruk sih, tapi aku masih ragu dengan hasilnya.;Netral
+2171;Wanginya soft dan enak banget, nggak nyengat.;Positif
+2172;Teksturnya terlalu kental, kurang nyaman di kulit.;Negatif
+2173;Produk ini oke, tapi aku masih lebih suka yang sebelumnya.;Netral
+2174;Aku suka banget karena nggak bikin kulitku berminyak.;Positif
+2175;Aku malah iritasi setelah pakai ini, nggak cocok.;Negatif
+2176;Hasilnya nggak instan, tapi terasa setelah rutin pakai.;Netral
+2177;Produk ini bikin kulitku lebih cerah dalam seminggu!;Positif
+2178;Aku kecewa, nggak ada efek apa-apa di kulitku.;Negatif
+2179;Melembapkan banget, aku suka teksturnya yang creamy.;Positif
+2180;Produk ini biasa aja, nggak buruk tapi juga nggak wow.;Netral
+2181;Aku suka efek calming-nya di kulit, jadi lebih rileks.;Positif
+2182;Jerawatku makin banyak setelah pakai ini.;Negatif
+2183;Teksturnya nyaman banget, cepat meresap di kulit.;Positif
+2184;Aku nggak yakin ini cocok buat kulit sensitif.;Netral
+2185;Setelah pakai ini, wajahku jadi lebih sehat dan segar!;Positif
+2186;Produknya nggak sesuai ekspektasi, malah bikin kulit kusam.;Negatif
+2187;Cukup bagus, tapi aku masih mencari yang lebih efektif.;Netral
+2188;Aku suka banget, kulitku jadi lebih glowing!;Positif
+2189;Wanginya terlalu kuat buatku, kurang nyaman.;Negatif
+2190;Aku masih menunggu hasilnya setelah beberapa minggu.;Netral
+2191;Setelah pakai ini, kulitku jadi lebih halus dan kenyal.;Positif
+2192;Produk ini bikin kulitku kemerahan dan gatal.;Negatif
+2193;Aku nggak yakin ini benar-benar bekerja sesuai klaimnya.;Netral
+2194;Aku suka teksturnya yang lembut dan mudah meresap.;Positif
+2195;Efeknya biasa aja, nggak terlalu kelihatan perbedaannya.;Netral
+2196;Produk ini bikin kulitku lebih cerah alami!;Positif
+2197;Hasilnya nggak sesuai ekspektasi, jadi kecewa.;Negatif
+2198;Aku masih ragu apakah ini benar-benar efektif atau tidak.;Netral
+2199;Produk ini bikin kulitku lebih sehat dan glowing!;Positif
+2200;Aku alergi setelah pakai ini, nggak cocok banget.;Negatif
+2201;Nggak ada efek negatif, tapi aku juga nggak melihat perubahan.;Netral
+2202;Aku suka banget, kulitku jadi lebih halus dan kenyal!;Positif
+2203;Aku malah breakout setelah pakai ini, kecewa.;Negatif
+2204;Produknya lumayan, tapi aku masih mencari yang lebih bagus.;Netral
+2205;Kulitku jadi lebih cerah dan sehat sejak pakai ini!;Positif
+2206;Aku nggak suka formulanya, terlalu berat di kulit.;Negatif
+2207;Aku belum melihat perubahan setelah dua minggu pemakaian.;Netral
+2208;Wanginya calming banget, bikin nyaman!;Positif
+2209;Aku nggak suka efeknya, malah bikin kulit kering.;Negatif
+2210;Hasilnya lumayan, tapi nggak terlalu signifikan.;Netral
+2211;Aku suka karena nggak bikin kulitku berminyak.;Positif
+2212;Produknya bikin wajahku breakout, nggak cocok.;Negatif
+2213;Nggak buruk sih, tapi aku berharap lebih.;Netral
+2214;Setelah pakai ini, wajahku jadi lebih glowing!;Positif
+2215;Aku kecewa karena nggak ada efek yang terlihat.;Negatif
+2216;Produk ini lumayan, tapi aku nggak yakin dengan hasilnya.;Netral
+2217;Aku suka banget, bikin kulit lebih cerah dan sehat!;Positif
+2218;Harganya mahal tapi nggak sebanding dengan kualitasnya.;Negatif
+2219;Aku masih menunggu hasilnya setelah pemakaian rutin.;Netral
+2220;Formulanya ringan dan nyaman di kulit, aku suka.;Positif
+2221;Setelah pakai ini, kulitku jadi lebih segar dan cerah!;Positif
+2222;Produk ini malah bikin wajahku jadi lebih kering.;Negatif
+2223;Aku belum melihat efek yang signifikan setelah sebulan pemakaian.;Netral
+2224;Wanginya lembut dan nyaman, aku suka banget!;Positif
+2225;Sayang banget nggak cocok buat kulitku, bikin jerawat.;Negatif
+2226;Efeknya cukup bagus, tapi nggak langsung terlihat.;Netral
+2227;Kulitku jadi lebih halus dan lembut setelah rutin pakai ini!;Positif
+2228;Aku nggak suka kemasannya, terlalu besar dan kurang praktis.;Negatif
+2229;Hasilnya biasa aja, nggak terlalu buruk tapi juga nggak luar biasa.;Netral
+2230;Produk ini benar-benar bikin wajahku glowing!;Positif
+2231;Formulanya terlalu berat buat kulitku, nggak nyaman dipakai.;Negatif
+2232;Aku masih menunggu hasilnya setelah beberapa minggu pemakaian.;Netral
+2233;Setelah pakai ini, kulitku jadi lebih cerah alami!;Positif
+2234;Produknya bikin kulitku merah-merah, nggak cocok sama sekali.;Negatif
+2235;Teksturnya nyaman, nggak lengket, dan cepat meresap!;Positif
+2236;Aku nggak yakin ini cocok untuk semua jenis kulit.;Netral
+2237;Wanginya enak banget, bikin rileks saat pemakaian.;Positif
+2238;Aku kecewa karena nggak ada efek yang terlihat.;Negatif
+2239;Produknya lumayan, tapi nggak sesuai ekspektasi awal.;Netral
+2240;Aku suka banget, kulitku jadi lebih sehat dan glowing!;Positif
+2241;Produknya bikin wajahku berminyak dan lengket.;Negatif
+2242;Efeknya nggak instan, tapi terasa setelah pemakaian rutin.;Netral
+2243;Teksturnya ringan dan gampang diaplikasikan, suka banget!;Positif
+2244;Aku malah breakout setelah pakai ini, nggak cocok.;Negatif
+2245;Aku masih ragu apakah ini benar-benar efektif atau tidak.;Netral
+2246;Setelah pakai ini, kulitku lebih sehat dan kenyal!;Positif
+2247;Aku nggak suka baunya, terlalu menyengat.;Negatif
+2248;Produknya oke, tapi aku lebih suka produk sebelumnya.;Netral
+2249;Kulitku jadi lebih cerah dan sehat, aku puas banget!;Positif
+2250;Aku malah jerawatan setelah pakai ini, kecewa.;Negatif
+2251;Nggak buruk sih, tapi aku berharap lebih dari ini.;Netral
+2252;Wanginya calming banget, aku suka!;Positif
+2253;Formulanya terlalu kuat buat kulit sensitif, bikin iritasi.;Negatif
+2254;Aku belum melihat perubahan setelah dua minggu pemakaian.;Netral
+2255;Hasilnya benar-benar bikin kulit lebih lembut dan cerah!;Positif
+2256;Aku alergi setelah pakai ini, nggak cocok sama sekali.;Negatif
+2257;Cukup bagus, tapi aku masih mencari yang lebih baik.;Netral
+2258;Aku suka banget, kulitku jadi glowing alami!;Positif
+2259;Aku nggak suka formulanya, terlalu berat di kulit.;Negatif
+2260;Produknya lumayan, tapi nggak sesuai dengan ekspektasiku.;Netral
+2261;Wanginya enak dan menenangkan, bikin nyaman!;Positif
+2262;Produknya bikin kulitku semakin kusam, nggak cocok.;Negatif
+2263;Aku masih menunggu hasilnya setelah pemakaian lebih lama.;Netral
+2264;Setelah pakai ini, wajahku jadi lebih segar dan glowing!;Positif
+2265;Aku kecewa karena nggak ada efek yang terlihat di kulitku.;Negatif
+2266;Formulanya ringan dan nyaman di kulit, aku suka!;Positif
+2267;Aku malah breakout setelah pakai ini, nggak akan beli lagi.;Negatif
+2268;Aku belum bisa menilai karena masih dalam tahap awal pemakaian.;Netral
+2269;Teksturnya nyaman dan cepat meresap, suka banget!;Positif
+2270;Aku nggak suka efeknya, malah bikin kulitku lebih kering.;Negatif
+2271;Hasilnya biasa aja, nggak terlalu kelihatan perbedaannya.;Netral
+2272;Produk ini benar-benar bikin kulitku lebih glowing dan sehat!;Positif
+2273;Produknya bikin wajahku merah-merah, nggak cocok sama sekali.;Negatif
+2274;Aku masih ragu apakah ini benar-benar efektif atau tidak.;Netral
+2275;Kulitku jadi lebih sehat dan cerah setelah pakai ini!;Positif
+2276;Aku malah breakout setelah pakai ini, nggak cocok banget.;Negatif
+2277;Produknya lumayan, tapi aku masih mencari yang lebih bagus.;Netral
+2278;Wanginya soft dan enak banget, nggak nyengat.;Positif
+2279;Aku nggak suka teksturnya, terlalu lengket di kulit.;Negatif
+2280;Aku masih menunggu hasilnya setelah pemakaian lebih lama.;Netral
+2281;Produk ini bikin kulitku lebih halus dan sehat!;Positif
+2282;Aku alergi setelah pakai ini, nggak cocok sama sekali.;Negatif
+2283;Aku belum melihat perubahan setelah dua minggu pemakaian.;Netral
+2284;Aku suka banget, kulitku jadi lebih lembut dan glowing!;Positif
+2285;Produknya bikin kulitku makin berminyak, nggak cocok.;Negatif
+2286;Hasilnya cukup bagus, tapi nggak langsung terlihat.;Netral
+2287;Setelah pakai ini, kulitku jadi lebih segar dan cerah alami!;Positif
+2288;Aku nggak suka formulanya, terlalu berat di kulit.;Negatif
+2289;Produknya lumayan, tapi nggak sesuai ekspektasi awal.;Netral
+2290;Wanginya enak banget, bikin rileks saat pemakaian.;Positif
+2291;Aku kecewa karena nggak ada efek yang terlihat.;Negatif
+2292;Teksturnya nyaman, nggak lengket, dan cepat meresap!;Positif
+2293;Aku nggak yakin ini cocok untuk semua jenis kulit.;Netral
+2294;Produk ini benar-benar bikin wajahku lebih glowing dan sehat!;Positif
+2295;Aku malah jerawatan setelah pakai ini, nggak cocok.;Negatif
+2296;Kulitku terasa lebih lembap setelah rutin pakai ini!;Positif
+2297;Sayang banget produknya nggak cocok, bikin kulitku kering.;Negatif
+2298;Aku belum melihat perubahan yang berarti setelah sebulan.;Netral
+2299;Wanginya lembut dan nggak menyengat, aku suka!;Positif
+2300;Setelah pakai ini, wajahku jadi lebih berminyak.;Negatif
+2301;Hasilnya lumayan, tapi aku masih mencari produk yang lebih baik.;Netral
+2302;Aku suka banget efeknya yang bikin kulit glowing alami!;Positif
+2303;Produk ini malah bikin wajahku jerawatan parah.;Negatif
+2304;Cukup bagus, tapi aku masih ragu dengan hasil jangka panjangnya.;Netral
+2305;Setelah pemakaian seminggu, kulitku terasa lebih kenyal!;Positif
+2306;Teksturnya terlalu lengket di kulit, kurang nyaman.;Negatif
+2307;Aku masih menunggu hasil yang lebih signifikan.;Netral
+2308;Melembapkan banget, cocok buat kulit kering!;Positif
+2309;Produk ini bikin wajahku breakout, nggak akan beli lagi.;Negatif
+2310;Nggak buruk sih, tapi aku berharap lebih dari ini.;Netral
+2311;Aku suka teksturnya yang ringan dan cepat meresap.;Positif
+2312;Aku kecewa karena nggak ada efek yang terlihat sama sekali.;Negatif
+2313;Formulanya nyaman di kulit, nggak bikin iritasi.;Netral
+2314;Setelah pakai ini, kulitku terasa lebih sehat dan glowing!;Positif
+2315;Aku malah alergi setelah pakai ini, kecewa banget.;Negatif
+2316;Produknya lumayan, tapi nggak sesuai dengan ekspektasi awal.;Netral
+2317;Wanginya calming dan bikin rileks, aku suka banget!;Positif
+2318;Produknya bikin kulitku makin kering, nggak cocok.;Negatif
+2319;Aku masih menunggu hasilnya setelah pemakaian lebih lama.;Netral
+2320;Kulitku jadi lebih lembut dan cerah setelah rutin pakai ini!;Positif
+2321;Aku nggak suka efeknya, malah bikin kulit lebih kusam.;Negatif
+2322;Hasilnya cukup bagus, tapi nggak langsung terlihat.;Netral
+2323;Setelah pakai ini, wajahku jadi lebih segar dan kenyal!;Positif
+2324;Teksturnya terlalu berat buat kulitku, kurang nyaman.;Negatif
+2325;Aku belum bisa menilai karena masih dalam tahap awal pemakaian.;Netral
+2326;Produk ini bikin kulitku lebih cerah dan sehat alami!;Positif
+2327;Aku kecewa karena efeknya nggak sesuai harapan.;Negatif
+2328;Aku masih ragu apakah ini benar-benar efektif atau tidak.;Netral
+2329;Kulitku jadi lebih sehat dan segar setelah pakai ini!;Positif
+2330;Aku malah breakout setelah pakai ini, nggak cocok.;Negatif
+2331;Produknya lumayan, tapi aku masih mencari yang lebih bagus.;Netral
+2332;Wanginya soft dan enak banget, bikin nyaman.;Positif
+2333;Aku nggak suka teksturnya, terlalu lengket di kulit.;Negatif
+2334;Aku masih menunggu hasilnya setelah pemakaian lebih lama.;Netral
+2335;Produk ini bikin kulitku lebih halus dan sehat!;Positif
+2336;Aku alergi setelah pakai ini, nggak cocok sama sekali.;Negatif
+2337;Aku belum melihat perubahan setelah dua minggu pemakaian.;Netral
+2338;Aku suka banget, kulitku jadi lebih lembut dan glowing!;Positif
+2339;Produknya bikin kulitku makin berminyak, nggak cocok.;Negatif
+2340;Hasilnya cukup bagus, tapi nggak langsung terlihat.;Netral
+2341;Setelah pakai ini, kulitku jadi lebih segar dan cerah alami!;Positif
+2342;Aku nggak suka formulanya, terlalu berat di kulit.;Negatif
+2343;Produknya lumayan, tapi nggak sesuai ekspektasi awal.;Netral
+2344;Wanginya enak banget, bikin rileks saat pemakaian.;Positif
+2345;Aku kecewa karena nggak ada efek yang terlihat.;Negatif
+2346;Teksturnya nyaman, nggak lengket, dan cepat meresap!;Positif
+2347;Aku nggak yakin ini cocok untuk semua jenis kulit.;Netral
+2348;Produk ini benar-benar bikin wajahku lebih glowing dan sehat!;Positif
+2349;Aku malah jerawatan setelah pakai ini, nggak cocok.;Negatif
+2350;Formulanya ringan dan nggak bikin kulit iritasi.;Netral
+2351;Kulitku terasa lebih kenyal dan lembap setelah pakai ini!;Positif
+2352;Aku nggak suka baunya, terlalu menyengat buatku.;Negatif
+2353;Hasilnya lumayan, tapi aku masih menunggu perubahan lebih signifikan.;Netral
+2354;Wanginya lembut dan nyaman banget di hidung, suka!;Positif
+2355;Produknya malah bikin wajahku jadi kusam, kecewa.;Negatif
+2356;Aku masih menunggu efeknya setelah pemakaian rutin.;Netral
+2357;Kulitku lebih sehat dan glowing alami setelah pakai ini!;Positif
+2358;Aku kecewa karena hasilnya nggak seperti yang diiklankan.;Negatif
+2359;Teksturnya ringan dan gampang diaplikasikan, aku suka.;Positif
+2360;Aku malah breakout parah setelah pakai ini, sedih banget.;Negatif
+2361;Hasilnya biasa aja, nggak terlalu kelihatan perubahan besar.;Netral
+2362;Produk ini bikin kulitku lebih lembap seharian!;Positif
+2363;Formulanya terlalu kuat buat kulitku, jadi merah-merah.;Negatif
+2364;Aku nggak yakin dengan efek jangka panjangnya.;Netral
+2365;Setelah pakai ini, kulitku jadi lebih sehat dan cerah!;Positif
+2366;Aku kecewa karena efeknya nggak sesuai ekspektasi.;Negatif
+2367;Produk ini lumayan, tapi aku masih mencari yang lebih bagus.;Netral
+2368;Aku suka banget karena nggak bikin kulitku berminyak.;Positif
+2369;Aku malah jerawatan setelah pakai ini, nggak akan beli lagi.;Negatif
+2370;Aku belum bisa menilai karena masih dalam tahap awal pemakaian.;Netral
+2371;Produk ini sangat cocok untuk kulit sensitifku!;Positif
+2372;Aku kurang suka dengan teksturnya yang terlalu kental.;Negatif
+2373;Aku masih mencoba dan melihat bagaimana efeknya nanti.;Netral
+2374;Hasilnya luar biasa! Kulitku tampak lebih segar dan sehat.;Positif
+2375;Sayangnya tidak memberikan efek yang diharapkan.;Negatif
+2376;Aku masih menunggu hasil yang lebih jelas.;Netral
+2377;Produk ini benar-benar melembapkan kulitku dengan baik!;Positif
+2378;Wanginya terlalu kuat dan tidak nyaman di hidung.;Negatif
+2379;Aku masih belum bisa menentukan apakah produk ini cocok untukku.;Netral
+2380;Sangat efektif untuk mengatasi kulit kering!;Positif
+2381;Malah membuat kulitku semakin berminyak.;Negatif
+2382;Aku masih melihat apakah ada perubahan setelah beberapa minggu.;Netral
+2383;Produk ini sangat nyaman digunakan setiap hari!;Positif
+2384;Tidak memberikan efek yang aku harapkan.;Negatif
+2385;Aku masih menunggu hasil yang lebih terlihat.;Netral
+2386;Kulitku terasa lebih lembut dan kenyal setelah pemakaian!;Positif
+2387;Sayangnya tidak cocok di kulitku, malah muncul jerawat.;Negatif
+2388;Aku masih dalam tahap percobaan, belum bisa memberikan kesimpulan.;Netral
+2389;Hasilnya sangat memuaskan, aku suka sekali!;Positif
+2390;Tidak sesuai ekspektasi, kurang memberikan perubahan.;Negatif
+2391;Aku masih mencoba dan belum bisa menilai secara pasti.;Netral
+2392;Produk ini bekerja dengan sangat baik di kulitku!;Positif
+2393;Teksturnya tidak nyaman, terlalu lengket.;Negatif
+2394;Aku masih melihat bagaimana efeknya dalam jangka panjang.;Netral
+2395;Aku sangat puas dengan hasilnya, kulitku lebih bercahaya!;Positif
+2396;Sayangnya malah membuat kulitku kering.;Negatif
+2397;Aku masih mencoba dan belum bisa memberikan kesimpulan final.;Netral
+2398;Sangat melembapkan dan nyaman digunakan sehari-hari!;Positif
+2399;Tidak memberikan perubahan signifikan setelah beberapa minggu.;Negatif
+2400;Aku masih dalam tahap observasi, sejauh ini tidak ada efek buruk.;Netral
+2401;Kulitku terasa lebih segar dan sehat!;Positif
+2402;Wanginya terlalu menyengat menurutku.;Negatif
+2403;Aku masih menunggu efek lebih nyata dari produk ini.;Netral
+2404;Produk ini sangat membantu dalam menjaga kelembapan kulit!;Positif
+2405;Tidak memberikan efek seperti yang dijanjikan.;Negatif
+2406;Aku masih melihat apakah ini cocok untuk penggunaan jangka panjang.;Netral
+2407;Aku suka banget! Kulitku jadi lebih lembut dan segar.;Positif
+2408;Tidak cocok di kulitku, malah membuat iritasi.;Negatif
+2409;Aku masih mencoba dan berharap hasilnya lebih terlihat nanti.;Netral
+2410;Produk ini membantu memperbaiki tekstur kulitku.;Positif
+2411;Sayangnya terlalu lengket saat diaplikasikan.;Negatif
+2412;Aku masih menunggu hasil lebih lanjut sebelum mengambil keputusan.;Netral
+2413;Kulitku terlihat lebih sehat dan bercahaya setelah pemakaian rutin!;Positif
+2414;Wanginya terlalu menyengat, aku kurang suka.;Negatif
+2415;Aku masih mencoba dan berharap efek positif segera terlihat.;Netral
+2416;Produk ini sangat bagus untuk menjaga kelembapan kulit!;Positif
+2417;Tidak ada perubahan signifikan setelah beberapa minggu pemakaian.;Negatif
+2418;Aku masih belum yakin apakah produk ini cocok untukku.;Netral
+2419;Aku suka teksturnya yang ringan dan mudah menyerap.;Positif
+2420;Sayangnya malah membuat wajahku lebih berminyak.;Negatif
+2422;Produk ini sangat efektif, aku pasti akan membeli lagi!;Positif

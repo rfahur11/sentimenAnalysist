@@ -1,0 +1,991 @@
+no,comment,predicted_label,sentiment
+1,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+2,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+3,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+4,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+5,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+6,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+7,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+8,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+9,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+10,Hasilnya nyata dan bagus banget.,positif,positif
+11,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+12,Di aku cocok banget! Makasih banyak!,positif,netral
+13,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+14,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+15,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+16,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+17,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+18,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+19,Suka banget sama produknya!,positif,positif
+20,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+21,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+22,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+23,"Pakenya gampang, cepet meresap lagi.",positif,netral
+24,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+25,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+26,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+27,Hasilnya nyata dan bagus banget.,positif,positif
+28,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+29,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+30,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+31,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+32,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+33,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+34,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+35,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+36,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+37,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+38,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+39,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+40,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+41,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+42,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+43,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+44,Suka banget sama produknya!,positif,positif
+45,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+46,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+47,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+48,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+49,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+50,Pelayanannya juga ramah dan fast response.,positif,netral
+51,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+52,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+53,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+54,Pelayanannya juga ramah dan fast response.,positif,netral
+55,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+56,"Pakenya gampang, cepet meresap lagi.",positif,netral
+57,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+58,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+59,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+60,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+61,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+62,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+63,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+64,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+65,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+66,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+67,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+68,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+69,"Pakenya gampang, cepet meresap lagi.",positif,netral
+70,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+71,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+72,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+73,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+74,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+75,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+76,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+77,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+78,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+79,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+80,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+81,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+82,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+83,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+84,Hasilnya nyata dan bagus banget.,positif,positif
+85,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+86,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+87,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+88,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+89,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+90,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+91,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+92,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+93,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+94,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+95,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+96,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+97,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+98,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+99,Suka banget sama produknya!,positif,positif
+100,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+101,Pelayanannya juga ramah dan fast response.,positif,netral
+102,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+103,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+104,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+105,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+106,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+107,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+108,Pelayanannya juga ramah dan fast response.,positif,netral
+109,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+110,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+111,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+112,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+113,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+114,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+115,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+116,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+117,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+118,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+119,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+120,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+121,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+122,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+123,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+125,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+126,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+127,Pelayanannya juga ramah dan fast response.,positif,netral
+128,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+129,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+130,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+131,Pelayanannya juga ramah dan fast response.,positif,netral
+132,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+133,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+134,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+135,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+136,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+137,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+138,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+139,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+140,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+141,Hasilnya nyata dan bagus banget.,positif,positif
+142,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+143,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+144,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+145,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+146,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+147,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+148,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+149,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+150,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+151,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+152,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+153,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+154,Pelayanannya juga ramah dan fast response.,positif,netral
+155,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+156,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+157,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+158,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+159,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+160,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+161,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+162,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+163,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+164,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+165,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+166,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+167,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+168,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+169,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+170,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+171,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+172,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+173,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+174,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+175,Pelayanannya juga ramah dan fast response.,positif,netral
+176,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+177,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+178,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+179,Hasilnya nyata dan bagus banget.,positif,positif
+180,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+181,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+182,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+183,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+184,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+185,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+186,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+187,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+188,Di aku cocok banget! Makasih banyak!,positif,netral
+189,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+190,Hasilnya nyata dan bagus banget.,positif,positif
+191,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+192,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+193,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+194,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+195,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+196,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+197,Makasih banget udah bantu permasalahanku!,positif,netral
+198,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+199,Hasilnya nyata dan bagus banget.,positif,positif
+200,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+201,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+202,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+203,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+204,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+205,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+206,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+208,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+209,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+210,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+211,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+212,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+213,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+214,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+215,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+216,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+217,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+218,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+219,Makasih banget udah bantu permasalahanku!,positif,netral
+220,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+221,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+222,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+223,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+224,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+225,Pelayanannya juga ramah dan fast response.,positif,netral
+226,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+227,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+228,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+229,Hasilnya nyata dan bagus banget.,positif,positif
+230,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+231,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+232,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+233,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+234,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+235,Pelayanannya juga ramah dan fast response.,positif,netral
+236,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+237,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+238,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+239,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+240,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+241,Makasih banget udah bantu permasalahanku!,positif,netral
+242,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+243,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+244,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+245,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+246,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+247,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+248,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+249,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+250,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+251,Suka banget sama produknya!,positif,positif
+252,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+253,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+254,Makasih banget udah bantu permasalahanku!,positif,netral
+255,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+256,Hasilnya nyata dan bagus banget.,positif,positif
+257,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+258,Di aku cocok banget! Makasih banyak!,positif,netral
+259,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+260,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+261,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+262,Di aku cocok banget! Makasih banyak!,positif,netral
+263,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+264,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+265,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+266,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+267,Pelayanannya juga ramah dan fast response.,positif,netral
+268,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+269,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+270,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+271,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+272,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+273,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+274,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+275,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+276,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+277,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+278,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+279,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+280,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+281,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+282,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+283,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+284,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+285,"Pakenya gampang, cepet meresap lagi.",positif,netral
+286,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+287,Di aku cocok banget! Makasih banyak!,positif,netral
+288,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+289,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+290,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+291,Makasih banget udah bantu permasalahanku!,positif,netral
+292,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+293,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+294,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+295,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+296,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+297,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+298,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+299,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+300,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+301,Di aku cocok banget! Makasih banyak!,positif,netral
+302,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+303,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+304,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+305,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+306,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+307,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+308,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+309,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+310,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+311,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+312,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+313,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+314,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+315,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+316,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+317,Makasih banget udah bantu permasalahanku!,positif,netral
+318,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+319,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+320,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+321,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+322,"Pakenya gampang, cepet meresap lagi.",positif,netral
+323,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+324,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+325,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+326,Makasih banget udah bantu permasalahanku!,positif,netral
+327,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+328,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+329,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+330,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+331,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+332,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+333,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+334,Suka banget sama produknya!,positif,positif
+335,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+336,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+337,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+338,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+339,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+340,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+341,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+342,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+343,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+344,Makasih banget udah bantu permasalahanku!,positif,netral
+345,Di aku cocok banget! Makasih banyak!,positif,netral
+346,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+347,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+348,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+349,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+350,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+351,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+352,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+353,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+354,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+355,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+356,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+357,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+358,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+359,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+360,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+361,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+362,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+363,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+364,Di aku cocok banget! Makasih banyak!,positif,netral
+365,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+366,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+367,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+368,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+369,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+370,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+371,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+372,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+373,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+374,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+375,Hasilnya nyata dan bagus banget.,positif,positif
+376,Pelayanannya juga ramah dan fast response.,positif,netral
+377,"Pakenya gampang, cepet meresap lagi.",positif,netral
+378,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+379,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+380,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+381,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+382,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+383,Hasilnya nyata dan bagus banget.,positif,positif
+384,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+385,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+386,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+387,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+388,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+389,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+390,Makasih banget udah bantu permasalahanku!,positif,netral
+391,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+392,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+393,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+394,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+395,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+396,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+397,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+398,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+399,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+400,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+401,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+402,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+403,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+404,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+405,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+406,Hasilnya nyata dan bagus banget.,positif,positif
+407,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+408,Suka banget sama produknya!,positif,positif
+409,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+410,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+411,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+412,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+413,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+414,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+415,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+416,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+417,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+418,"Pakenya gampang, cepet meresap lagi.",positif,netral
+419,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+420,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+421,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+422,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+423,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+424,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+425,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+426,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+427,Pelayanannya juga ramah dan fast response.,positif,netral
+428,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+429,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+430,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+431,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+432,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+433,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+434,Hasilnya nyata dan bagus banget.,positif,positif
+435,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+436,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+437,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+438,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+439,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+440,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+441,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+442,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+443,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+444,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+445,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+446,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+447,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+448,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+449,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+450,Hasilnya nyata dan bagus banget.,positif,positif
+451,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+452,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+453,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+454,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+455,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+456,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+457,Pelayanannya juga ramah dan fast response.,positif,netral
+458,Pelayanannya juga ramah dan fast response.,positif,netral
+459,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+460,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+461,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+463,Di aku cocok banget! Makasih banyak!,positif,netral
+464,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+465,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+466,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+467,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+468,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+469,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+470,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+471,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+472,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+473,Makasih banget udah bantu permasalahanku!,positif,netral
+474,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+475,Suka banget sama produknya!,positif,positif
+476,Suka banget sama produknya!,positif,positif
+477,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+478,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+479,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+480,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+481,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+482,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+483,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+484,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+485,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+486,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+487,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+488,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+489,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+490,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+491,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+492,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+493,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+494,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+495,Pelayanannya juga ramah dan fast response.,positif,netral
+496,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+497,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+498,"Pakenya gampang, cepet meresap lagi.",positif,netral
+499,Di aku cocok banget! Makasih banyak!,positif,netral
+500,Di aku cocok banget! Makasih banyak!,positif,netral
+501,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+502,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+503,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+504,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+505,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+506,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+507,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+508,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+509,Suka banget sama produknya!,positif,positif
+510,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+511,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+513,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+514,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+515,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+516,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+517,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+518,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+519,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+520,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+521,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+522,"Pakenya gampang, cepet meresap lagi.",positif,netral
+523,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+524,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+525,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+526,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+527,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+528,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+529,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+530,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+531,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+532,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+533,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+534,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+535,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+536,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+537,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+538,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+539,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+540,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+541,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+542,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+543,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+544,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+545,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+546,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+547,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+548,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+549,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+550,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+551,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+552,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+553,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+554,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+555,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+556,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+557,"Pakenya gampang, cepet meresap lagi.",positif,netral
+558,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+559,Makasih banget udah bantu permasalahanku!,positif,netral
+560,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+561,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+562,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+563,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+564,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+565,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+566,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+567,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+568,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+569,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+570,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+571,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+572,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+573,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+574,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+575,Pelayanannya juga ramah dan fast response.,positif,netral
+576,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+577,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+578,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+579,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+580,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+581,Hasilnya nyata dan bagus banget.,positif,positif
+582,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+583,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+584,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+585,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+586,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+587,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+588,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+589,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+590,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+591,"Pakenya gampang, cepet meresap lagi.",positif,netral
+592,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+593,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+594,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+595,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+596,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+597,Di aku cocok banget! Makasih banyak!,positif,netral
+598,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+599,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+600,Suka banget sama produknya!,positif,positif
+601,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+602,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+603,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+604,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+605,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+606,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+607,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+608,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+609,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+610,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+611,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+612,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+613,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+614,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+615,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+616,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+617,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+618,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+619,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+620,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+621,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+622,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+623,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+624,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+625,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+626,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+627,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+628,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+629,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+630,Pelayanannya juga ramah dan fast response.,positif,netral
+631,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+632,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+633,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+634,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+635,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+636,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+637,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+638,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+639,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+640,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+641,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+642,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+643,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+644,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+645,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+646,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+647,Hasilnya nyata dan bagus banget.,positif,positif
+648,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+649,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+650,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+651,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+652,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+653,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+654,Suka banget sama produknya!,positif,positif
+655,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+656,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+657,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+659,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+660,Suka banget sama produknya!,positif,positif
+661,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+662,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+663,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+664,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+665,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+666,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+667,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+668,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+669,Suka banget sama produknya!,positif,positif
+670,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+671,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+672,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+673,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+674,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+675,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+676,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+677,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+678,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+679,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+680,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+681,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+682,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+683,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+684,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+685,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+687,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+688,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+689,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+690,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+691,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+692,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+693,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+694,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+695,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+696,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+697,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+698,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+699,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+700,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+701,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+702,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+703,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+704,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+705,"Pakenya gampang, cepet meresap lagi.",positif,netral
+706,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+707,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+708,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+709,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+710,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+711,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+712,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+713,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+714,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+715,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+716,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+717,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+718,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+719,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+720,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+721,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+722,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+723,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+724,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+725,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+726,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+727,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+728,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+729,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+730,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+731,Hasilnya nyata dan bagus banget.,positif,positif
+732,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+733,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+734,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+735,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+736,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+737,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+738,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+739,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+740,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+741,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+742,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+743,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+744,Hasilnya nyata dan bagus banget.,positif,positif
+745,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+746,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+747,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+748,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+749,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+750,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+751,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+752,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+753,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+754,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+755,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+756,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+758,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+759,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+760,"Pakenya gampang, cepet meresap lagi.",positif,netral
+761,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+762,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+763,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+764,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+765,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+766,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+767,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+768,"Pakenya gampang, cepet meresap lagi.",positif,netral
+769,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+770,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+771,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+772,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+773,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+774,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+775,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+776,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+777,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+778,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+779,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+780,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+781,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+782,Di aku cocok banget! Makasih banyak!,positif,netral
+783,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+784,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+785,Aku pake ini cukup 2 minggu aja bopeng sama flek hitam bekas jerawat hilang.,positif,netral
+786,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+787,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+788,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+789,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+790,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+791,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+792,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+793,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+794,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+795,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+796,Hasilnya nyata dan bagus banget.,positif,positif
+797,Pelayanannya juga ramah dan fast response.,positif,netral
+798,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+799,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+800,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+801,Di aku cocok banget! Makasih banyak!,positif,netral
+802,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+803,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+804,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+805,"Lagi dan lagi, produk Beautyhacks gak pernah kecewa.",positif,negatif
+806,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+807,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+808,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+809,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+810,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+811,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+812,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+813,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+814,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+815,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+816,Pelayanannya juga ramah dan fast response.,positif,netral
+817,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+818,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+819,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+820,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+821,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+822,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+823,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+824,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+825,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+826,Suka banget sama produknya!,positif,positif
+827,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+828,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+829,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+830,Makasih banget udah bantu permasalahanku!,positif,netral
+831,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+832,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+833,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+834,Di aku cocok banget! Makasih banyak!,positif,netral
+835,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+836,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+837,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+838,Pelayanannya juga ramah dan fast response.,positif,netral
+839,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+840,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+841,"Sumpah, pake yang lain gak ada efeknya. Baru 2 hari pake ini, jerawat udah mulai kering. Emang the best!",positif,netral
+842,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+843,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+844,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+845,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+846,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+847,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+848,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+849,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+850,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+851,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+852,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+853,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+854,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+856,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+857,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+858,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+859,Di aku cocok banget! Makasih banyak!,positif,netral
+860,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+861,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+862,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+863,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+864,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+865,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+866,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+867,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+868,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+869,Di aku cocok banget! Makasih banyak!,positif,netral
+870,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+871,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+872,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+873,Tekstur dan Kenyamanan Penggunaan:,netral,netral
+874,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+875,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+876,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+877,Di aku cocok banget! Makasih banyak!,positif,netral
+878,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+879,"Krimnya ringan, gak lengket, dan yang penting bikin kulitku jadi lebih halus.",positif,netral
+880,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+881,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+882,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+883,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+884,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+885,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+886,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+887,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+888,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+889,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+890,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+891,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+892,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+893,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+894,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+895,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+896,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+897,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+898,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+899,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+900,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+901,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+902,Hasilnya nyata dan bagus banget.,positif,positif
+903,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+904,"Aku pake ini nih, inget banget perjuanganku 2023.",positif,netral
+905,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+906,"Aku juga lagi pake, alhamdulillah hasilnya udah keliatan.",positif,positif
+907,Pokoknya bintang lima deh buat produk ini! Luv banget!,positif,netral
+908,"Ini beneran, aku udah nyoba sendiri.",positif,netral
+909,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+910,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+911,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+913,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+914,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+915,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+916,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+917,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+918,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+919,"Aku pernah order di Shopee, emang bagus nih krim.",positif,positif
+920,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+921,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+922,Suka banget sama produknya!,positif,positif
+923,Di aku cocok banget! Makasih banyak!,positif,netral
+924,"Kak, aku udah abis 3 pot nih, udah jadi langganan, bonusin dong!",positif,netral
+925,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+926,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+927,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+928,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+929,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+930,"Gak nyangka hasilnya bisa secepat ini, recommended banget!",positif,netral
+932,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
+933,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+934,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+935,Pelayanannya juga ramah dan fast response.,positif,netral
+936,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+937,"Aku termasuk orang yang gak percayaan kalo beli ini online, baru kali ini beli krim hasilnya sesuai sama di video.",negatif,netral
+938,"Aku saranin kalo mau hasilnya lebih bagus, pake facial wash dulu sebelum pake ini, dijamin krimnya meresap ke kulit.",positif,positif
+939,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+940,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+941,Di aku cocok banget! Makasih banyak!,positif,netral
+942,Hasilnya nyata dan bagus banget.,positif,positif
+943,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+944,Makasih banget udah bantu permasalahanku!,positif,netral
+945,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+946,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+947,Muka kusamku jadi segeran setelah rutin pake krim ini.,positif,netral
+948,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+949,"Aku 2 bulanan udah mulai pudar, walaupun belum pudar total tapi udah membantu lah itungannya.",positif,netral
+950,"Worth it banget sama harganya, hasilnya gak bohong!",positif,netral
+951,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+952,"Aku dulu dibeliin istri pake ini, tapi emang agak sabar harusnya.",negatif,netral
+953,"Baunya juga enak, gak nyengat sama sekali.",positif,netral
+954,"Dikira bakal lengket di kulit, eh pas dipake ternyata enggak sama sekali, malah ringan banget.",negatif,netral
+955,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+956,"Dulu insecure banget sama bopeng, sekarang udah jauh lebih pede.",positif,netral
+957,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+958,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+959,"Bakalan langganan ini mah, soalnya aku ngerasain banget insecure-nya.",positif,netral
+960,Banyak yang bilang ini penyelamat kulit yang lagi breakout parah.,negatif,netral
+961,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+962,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+963,Hasilnya nyata dan bagus banget.,positif,positif
+964,Hasilnya nyata dan bagus banget.,positif,positif
+965,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+966,"Pakenya gampang, cepet meresap lagi.",positif,netral
+967,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+968,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+969,Makasih banget udah bantu permasalahanku!,positif,netral
+970,"Ini dia yang aku cari-cari, akhirnya ketemu juga.",negatif,netral
+971,Suka banget sama produknya!,positif,positif
+972,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+973,"Udah check out kak, yang kemarin udah abis dan cocok banget.",positif,netral
+974,"Inget ya, ini bukan menghilangkan, tapi memudarkan dan harus dipakai rutin. Soalnya aku udah coba.",netral,netral
+975,"Lagi make dan memang masih proses, semoga ikhtiarku hasilnya maksimal.",positif,netral
+976,"Aku juga pake dan cocok. Kalo jerawat, 2 hari aja udah mulai kempis. Kalo buat flek, kayaknya butuh sekitar 3 mingguan, kira-kira 1-2 pot cukup.",positif,netral
+977,"Banyakin produk kayak gini, aku anak kuliahan yang minim budget banget pengen glowing.",positif,netral
+978,"Aku udah pakai ini, baru pakai 3 minggu bopeng bye-bye, suka banget!",positif,positif
+979,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+980,"Teksturnya lembut dan ringan di kulit, suka!",positif,positif
+981,Hasilnya nyata dan bagus banget.,positif,positif
+982,"Aku udah order di Shopee dulu, udah abis 2 cup kayaknya dan sekarang udah puas banget sama hasilnya.",positif,positif
+983,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+984,"Aku cuma pake sunscreen dan krim ini doang, alhamdulillah setahun udah mulusan.",positif,positif
+985,"Ringan banget di muka, malah mirip kayak skincare mahal yang dulu aku pake, efeknya bagus banget.",positif,positif
+986,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+987,"Simpen dulu di keranjang kuning, nanti check out.",negatif,netral
+988,Di aku cocok banget! Makasih banyak!,positif,netral
+989,Aku udah pake sekitar seminggu dan udah keliatan hasilnya. Bakal order lagi nih.,positif,netral
+990,Masih menjadi misteri kenapa Dr. Fay bisa sebagus itu.,negatif,netral
+991,"Cocok banget buat anak sekolahan, murah tapi hasilnya oke banget.",positif,netral
+992,Pengirimannya selalu cepet dan packingnya rapi.,positif,netral
+993,"Aku cowok yang cuek sama perawatan, tapi buat masalah jerawat, krim ini beneran ampuh meredakan. Asal dipake rutin, produk ini bagus banget.",positif,positif
+994,Cocok untuk Berbagai Kalangan dan Masalah Kulit:,positif,netral
+995,"Temen-temenku pada nanyain aku pake skincare apa, karena muka ku jadi glowing.",negatif,netral
+996,"Pengiriman cepet juga ya, ke Bekasi 2 hari sampe.",positif,netral
+997,Akhirnya nemu skincare yang cocok dan gak bikin kantong kering.,positif,netral
+998,"Ternyata gak kerasa, belum sebulan pake udah ada hasilnya aja.",netral,netral
+999,"Yang mau hasilnya maksimal, pake rutin tiap mau tidur. Pasti hasilnya bagus kayak aku.",positif,positif
+1000,"Gak kecewa sama sekali beli ini, cuma pengirimannya agak lama dikit gak masalah.",positif,negatif
