@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prediksi Sentimen CSV</title>
+  <style>
+    /* Styling sederhana */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 20px;
+      background-color: #f2f2f2;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+    }
+    .result {
+      margin-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Prediksi Sentimen CSV</h1>
+    <p>Pilih file CSV yang memiliki kolom <strong>comment</strong> lalu klik submit untuk mendapatkan file dengan prediksi label.</p>
+    <form id="csvForm" enctype="multipart/form-data">
+      <input type="file" name="file" accept=".csv" required>
+      <br><br>
+      <button type="submit">Submit</button>
+    </form>
+    <div class="result" id="result"></div>
+  </div>
+
+  <script>
+document.getElementById('csvForm').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const formData = new FormData(this);
+  const resultDiv = document.getElementById('result');
+  resultDiv.innerHTML = "Memproses file, mohon tunggu...";
+  try {
+    const response = await fetch('http://127.0.0.1:5000/predict_csv', {
+      method: 'POST',
+      body: formData
+    });
+    
+    if (!response.ok) {
+      let errorData;
+      try {
+        errorData = await response.json();
+        resultDiv.innerHTML = `<p style="color:red;">Error: ${errorData.error}</p>`;
+      } catch (err) {
+        const textError = await response.text();
+        resultDiv.innerHTML = `<p style="color:red;">Error: ${textError}</p>`;
+      }
+      return;
+    }
+    
+    const blob = await response.blob();
+    const downloadUrl = window.URL.createObjectURL(blob);
+    resultDiv.innerHTML = `<a href="${downloadUrl}" download="predictions.csv">Download Hasil Prediksi</a>`;
+  } catch (error) {
+    resultDiv.innerHTML = `<p style="color:red;">Terjadi kesalahan: ${error}</p>`;
+  }
+});
+
+  </script>
+</body>
+</html>
