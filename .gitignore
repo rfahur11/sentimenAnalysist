@@ -1,6 +1,2 @@
 .conda/
-best_model/
-modelCasiffication/
-modelCasiffication.pth/
-best_model.pth/
-model/*.pth
+*.pth
