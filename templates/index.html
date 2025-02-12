@@ -3,76 +3,178 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prediksi Sentimen CSV</title>
+  <title>Prediksi Sentimen CSV dengan Grafik</title>
   <style>
-    /* Styling sederhana */
     body {
       font-family: Arial, sans-serif;
-      margin: 20px;
+      background: #f7f7f7;
       padding: 20px;
-      background-color: #f2f2f2;
     }
     .container {
-      max-width: 600px;
+      max-width: 800px;
       margin: auto;
-      background-color: #fff;
-      padding: 30px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
     h1 {
       text-align: center;
     }
+    form {
+      text-align: center;
+      margin-bottom: 20px;
+    }
     .result {
       margin-top: 20px;
       text-align: center;
+    }
+    .table-container {
+      margin-top: 20px;
+      overflow-x: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      padding: 8px;
+      border: 1px solid #ccc;
+      text-align: left;
+    }
+    .chart-container {
+      margin-top: 30px;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>Prediksi Sentimen CSV</h1>
-    <p>Pilih file CSV yang memiliki kolom <strong>comment</strong> lalu klik submit untuk mendapatkan file dengan prediksi label.</p>
+    <p>Unggah file CSV yang memiliki kolom <strong>comment</strong> untuk mendapatkan prediksi, preview data, dan grafik distribusi label.</p>
     <form id="csvForm" enctype="multipart/form-data">
       <input type="file" name="file" accept=".csv" required>
       <br><br>
       <button type="submit">Submit</button>
     </form>
     <div class="result" id="result"></div>
+    <div class="table-container" id="tableDiv"></div>
+    <div class="chart-container">
+      <canvas id="chartCanvas"></canvas>
+    </div>
   </div>
 
+  <!-- Include Papa Parse untuk parsing CSV -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <!-- Include Chart.js untuk grafik -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
-document.getElementById('csvForm').addEventListener('submit', async function(e) {
-  e.preventDefault();
-  const formData = new FormData(this);
-  const resultDiv = document.getElementById('result');
-  resultDiv.innerHTML = "Memproses file, mohon tunggu...";
-  try {
-    const response = await fetch('http://127.0.0.1:5000/predict_csv', {
-      method: 'POST',
-      body: formData
-    });
-    
-    if (!response.ok) {
-      let errorData;
+    document.getElementById('csvForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const formData = new FormData(this);
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = "Memproses file, mohon tunggu...";
       try {
-        errorData = await response.json();
-        resultDiv.innerHTML = `<p style="color:red;">Error: ${errorData.error}</p>`;
-      } catch (err) {
-        const textError = await response.text();
-        resultDiv.innerHTML = `<p style="color:red;">Error: ${textError}</p>`;
+        // Pastikan URL mengarah ke server Flask yang benar (misalnya port 5000)
+        const response = await fetch('http://127.0.0.1:5000/predict_csv', {
+          method: 'POST',
+          body: formData
+        });
+        
+        if (!response.ok) {
+          let errorData;
+          try {
+            errorData = await response.json();
+            resultDiv.innerHTML = `<p style="color:red;">Error: ${errorData.error}</p>`;
+          } catch (err) {
+            const textError = await response.text();
+            resultDiv.innerHTML = `<p style="color:red;">Error: ${textError}</p>`;
+          }
+          return;
+        }
+        
+        // Ambil CSV hasil prediksi sebagai teks
+        const csvText = await response.text();
+        // Buat download link untuk file CSV hasil prediksi
+        const blob = new Blob([csvText], { type: "text/csv" });
+        const downloadUrl = window.URL.createObjectURL(blob);
+        resultDiv.innerHTML = `<a href="${downloadUrl}" download="predictions.csv">Download Hasil Prediksi</a>`;
+        
+        // Parse CSV menggunakan Papa Parse
+        Papa.parse(csvText, {
+          header: true,
+          complete: function(results) {
+            const data = results.data;
+            
+            // Tampilkan preview tabel (10 baris pertama)
+            let tableHTML = '<table><thead><tr>';
+            const headers = Object.keys(data[0]);
+            headers.forEach(header => {
+              tableHTML += `<th>${header}</th>`;
+            });
+            tableHTML += '</tr></thead><tbody>';
+            data.slice(0, 10).forEach(row => {
+              tableHTML += '<tr>';
+              headers.forEach(header => {
+                tableHTML += `<td>${row[header]}</td>`;
+              });
+              tableHTML += '</tr>';
+            });
+            tableHTML += '</tbody></table>';
+            document.getElementById('tableDiv').innerHTML = tableHTML;
+            
+            // Hitung jumlah masing-masing label prediksi
+            let counts = { "negatif": 0, "netral": 0, "positif": 0 };
+            data.forEach(row => {
+              const label = row.predicted_label;
+              if(label in counts) {
+                counts[label]++;
+              }
+            });
+            
+            // Gambar grafik distribusi dengan Chart.js
+            const ctx = document.getElementById('chartCanvas').getContext('2d');
+            if(window.myChart instanceof Chart) {
+              window.myChart.destroy();
+            }
+            window.myChart = new Chart(ctx, {
+              type: 'bar',
+              data: {
+                labels: Object.keys(counts),
+                datasets: [{
+                  label: 'Jumlah Prediksi',
+                  data: Object.values(counts),
+                  backgroundColor: [
+                    'rgba(255, 99, 132, 0.6)',
+                    'rgba(54, 162, 235, 0.6)',
+                    'rgba(75, 192, 192, 0.6)'
+                  ],
+                  borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(75, 192, 192, 1)'
+                  ],
+                  borderWidth: 1
+                }]
+              },
+              options: {
+                responsive: true,
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                    ticks: {
+                      precision: 0
+                    }
+                  }
+                }
+              }
+            });
+          }
+        });
+      } catch (error) {
+        resultDiv.innerHTML = `<p style="color:red;">Terjadi kesalahan: ${error}</p>`;
       }
-      return;
-    }
-    
-    const blob = await response.blob();
-    const downloadUrl = window.URL.createObjectURL(blob);
-    resultDiv.innerHTML = `<a href="${downloadUrl}" download="predictions.csv">Download Hasil Prediksi</a>`;
-  } catch (error) {
-    resultDiv.innerHTML = `<p style="color:red;">Terjadi kesalahan: ${error}</p>`;
-  }
-});
-
+    });
   </script>
 </body>
 </html>
