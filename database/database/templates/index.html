@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Sentiment Analysis</h1>
+        
+        <!-- Form Input Teks -->
+        <h3>Prediksi Teks</h3>
+        <textarea id="inputText" rows="3" placeholder="Masukkan teks untuk analisis"></textarea>
+        <button onclick="predictText()">Prediksi</button>
+        <p id="resultText"></p>
+
+        <!-- Form Upload CSV -->
+        <h3>Upload CSV untuk Analisis Massal</h3>
+        <input type="file" id="csvFile">
+        <button onclick="predictCSV()">Upload</button>
+
+        <!-- Tabel Hasil Prediksi -->
+        <h3>Hasil Prediksi</h3>
+        <table id="resultsTable">
+            <thead>
+                <tr>
+                    <th>Comment</th>
+                    <th>Price</th>
+                    <th>Packaging</th>
+                    <th>Product</th>
+                    <th>Aroma</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <!-- Pagination -->
+        <div id="pagination"></div>
+
+        <!-- Grafik Sentimen -->
+        <h3>Statistik Sentimen</h3>
+        <canvas id="sentimentChart"></canvas>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
